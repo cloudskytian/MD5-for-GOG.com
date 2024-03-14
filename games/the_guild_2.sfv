@@ -1,3 +1,1 @@
-guild2_handbuch.zip 7b2907cd1ae2c2fa71b490e074958b33
-guild_2_manual.zip a92614868b016937557f338885ef87cf
-setup_the_guild2_2.0.0.4.exe 2b14191f4831b3486e95d52245d6cc64
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

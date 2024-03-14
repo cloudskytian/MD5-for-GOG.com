@@ -1,7 +1,1 @@
-kknd2_avatar.zip eabbede0aa127d2c50e7004e2979385e
-kknd2_manual.zip 579ddbd29af5e1f588894c35506394b0
-kknd2_multiplayer_maps.zip 9a965ac86ecfaad5a6bcab2c4385ea35
-kknd2_single_player_maps.zip 98fce86efe724edeeafcdf374e76fab5
-kknd2_soundtrack.zip bfabeeecc3970298fa25237fd76a16ba
-kknd2_wallpaper.zip 354652b41e20aca96081fe25032d0b7c
-setup_krush_kill_n_destroy_2_krossfire_1.0_(38412).exe b092c30c12743b180be4d5e114bcd694
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,16 +1,1 @@
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-1.bin 8d45c75a5a22e94b862779b18e70450b
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-10.bin 1a797b59d976628b13f0774d5665287d
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-11.bin 50268529a02b74f0d1be069c6305dfe1
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-12.bin 9eae11c97dcabc1b7b2564fd9f988f06
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-13.bin 08780eb1c9ba6be762410cf450728cd8
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-2.bin df62d934f9db141d6ac86887069ddff1
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-3.bin 868e46b944818abfdf6f373a8eeb092f
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-4.bin ae04cc35ce6f3c111d9896a1e9132c23
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-5.bin 22cac8983d8d66ccdb0f70a9ee774a85
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-6.bin c91eeadd384078254466008bb6739cae
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-7.bin 48e878a5babdde7f9874bc48b44e4a33
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-8.bin 5a20cc5ba76ea3c8f76328f1e140d103
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608)-9.bin 0dfe47a039dfc190ce606f3c2e8e4097
-setup_the_outer_worlds_spacers_choice_edition_1.6411.19706.0_(64bit)_(65608).exe 7dc0c3e9c28b2e59d3b16b8ee70b735d
-the_outer_worlds_original_soundtrack_flac.zip 6fed5a68a0d4769aaed1cc3f52d76799
-the_outer_worlds_original_soundtrack_mp3.zip 2e7e6f813921c9859b8525728bdb0f35
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

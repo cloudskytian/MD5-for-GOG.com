@@ -1,8 +1,1 @@
-icewinddale_artworks.zip 1989d2efbb03e943b0296060166f2b05
-icewinddale_avatars.zip 553edf70e97831a177a8fa6bfb5f9ae7
-icewinddale_manuals.zip b1d54e1da026e20bf703b2f6bac3eff6
-icewinddale_map.zip e48141f978873f7c0ebaaccf985cec02
-icewinddale_screensaver.zip 4ba7dcb0b6c6fe708df05d3219abce7f
-icewinddale_soundtrack.zip 19c3a8d40f1f77bfe70688ee9cc13187
-icewinddale_wallpapers.zip 43a4e81f7383bc942f14a4563ccf5c79
-setup_icewind_dale_complete_2.0.0.11.exe b1395109232aac8d7f8455dad418b084
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

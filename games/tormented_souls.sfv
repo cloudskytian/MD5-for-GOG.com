@@ -1,3 +1,1 @@
-setup_tormented_souls_1.10_(57757)-1.bin dc2b5a78082ece089430df1f29938464
-setup_tormented_souls_1.10_(57757)-2.bin 5a4bee941c0c0cb5572344dc9a5344c9
-setup_tormented_souls_1.10_(57757).exe 39dfe874970802f7bf63f259d2ced98f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

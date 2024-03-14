@@ -1,7 +1,1 @@
-setup_garden_flipper_1.2366_(4447f)_(64bit)_(62947).exe 0f84b0606e25d4fb6f305d2658fc4fcb
-setup_hgtv_flipper_1.2366_(4447f)_(64bit)_(62947).exe e96bed69a759c7888b389f0aed04e28b
-setup_house_flipper_1.2366_(4447f)_(64bit)_(62947)-1.bin ceb6d0fa9bbcacc57c30ce9da1de04a1
-setup_house_flipper_1.2366_(4447f)_(64bit)_(62947)-2.bin b831d5d2d3bca9247ff2631f5cfb10bf
-setup_house_flipper_1.2366_(4447f)_(64bit)_(62947).exe e5e7f461048413597c4efa3de9c99bd4
-setup_luxury_flipper_1.2366_(4447f)_(64bit)_(62947).exe 0e1674a667522c765b3d87a58ac5bbe0
-setup_pets_flipper_1.2366_(4447f)_(64bit)_(62947).exe 15c72baf0c2e8b04bcc3c4ab2e3fcb50
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

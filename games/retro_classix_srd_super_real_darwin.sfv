@@ -1,2 +1,1 @@
-setup_retro_classix_srd_-_super_real_darwin_1.01_(45006).exe 2a46e4232b424536148600d64ad6fed5
-srd_super_real_darwin_controller_reference_card.zip 32291a975156780efb656442b015a9db
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

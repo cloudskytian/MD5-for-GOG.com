@@ -1,5 +1,1 @@
-8_bit_hordes_avatars.zip 58fe9f35b6a3da4ae28a6c7bfd5352bd
-8_bit_hordes_ost_flac.zip 3065646832029dd9b26a058f7ac913ff
-8_bit_hordes_ost_mp3.zip beb58e483e01fd084330f3274d55bec7
-8_bit_hordes_wallpaper.zip 8921f23c3c27546b18c9ff98c902975b
-setup_8-bit_hordes_0.93.827848_(69139).exe 6214f107dd6cc56e3418951cbfbca250
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

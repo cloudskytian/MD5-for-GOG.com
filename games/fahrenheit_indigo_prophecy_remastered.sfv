@@ -1,3 +1,1 @@
-setup_fahrenheit_indigo_prophecy_remastered_1.0.4_(64475)-1.bin 6d1cb575868a2b6a5042f4666b55da64
-setup_fahrenheit_indigo_prophecy_remastered_1.0.4_(64475)-2.bin be56707f2ba724e14d48ad23c3a7b1e3
-setup_fahrenheit_indigo_prophecy_remastered_1.0.4_(64475).exe e684a3e067e0324914d689116588e61e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

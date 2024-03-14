@@ -1,6 +1,1 @@
-democracy_3_manual.zip dfafc30512689a58dcc5e89ff00a83c3
-setup_democracy_3_1.34_final_update_(23486).exe b4887a06eb87d879eef297047a75abbd
-setup_democracy_3_clones_and_drones_1.34_final_update_(23486).exe de715482970c19e020cc4c770d9be93f
-setup_democracy_3_electioneering_1.34_final_update_(23486).exe e93675a2a4bb5b8e67a9d47bf0586f43
-setup_democracy_3_extremism_1.34_final_update_(23486).exe 73625952f0ac435074e623bdfb8fdb2c
-setup_democracy_3_social_engineering_1.34_final_update_(23486).exe b882074e425d2576ded16ec4b365bda7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

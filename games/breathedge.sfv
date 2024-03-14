@@ -1,6 +1,1 @@
-breathedge_wallpapers.zip 9df10f60a0ca48702ef6963d301738fb
-setup_breathedge_1.0.1.2_(64bit)_(50573)-1.bin 33f63b4b83b309af532b8203bd3acb21
-setup_breathedge_1.0.1.2_(64bit)_(50573)-2.bin b0ab88f4e71172c9cdd0b732435e0bdd
-setup_breathedge_1.0.1.2_(64bit)_(50573).exe 357dc951d6d0b409e2f719f074efaff7
-setup_breathedge_constructor_0.9.3.2_(64bit)_(34766)-1.bin a56c4f72cc888da60786d71286f5eabe
-setup_breathedge_constructor_0.9.3.2_(64bit)_(34766).exe 9fb8254e63236f0618862442baa902f2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

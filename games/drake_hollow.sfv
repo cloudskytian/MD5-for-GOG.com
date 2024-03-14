@@ -1,2 +1,1 @@
-setup_drake_hollow_1.3_(65604)-1.bin d7557ccc942cc98e42234f44f66a030a
-setup_drake_hollow_1.3_(65604).exe 0a2c5e16a47e1aa81212cee196137184
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

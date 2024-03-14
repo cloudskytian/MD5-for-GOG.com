@@ -1,3 +1,1 @@
-how_manual_en.zip cd5cd6875e2324eae97f2071322819a9
-how_soundtrack_ogg.zip 7a063e2a0ba594923fdcaffe254992a1
-setup_hogs_of_war_2.0.0.6.exe 90060b18c7a69ca7353d8b9f9294670f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

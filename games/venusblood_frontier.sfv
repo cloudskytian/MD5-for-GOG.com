@@ -1,3 +1,1 @@
-setup_venusblood_frontier_international_1.0.9_(18)_(52092)-1.bin 50668615feebb668855470d57f95bbbf
-setup_venusblood_frontier_international_1.0.9_(18)_(52092).exe 8eae40573f583260a96fc5903fdb0a5e
-setup_venusblood_frontier_unrated_patch_1.0.9_(18)_(52092).exe 581111a04fb93bbb609cef59d8de45e4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

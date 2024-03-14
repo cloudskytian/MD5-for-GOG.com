@@ -1,4 +1,1 @@
-setup_toren_gog-1_(17651)-1.bin 877ca6f3271cb03b46b5de71a6ff37de
-setup_toren_gog-1_(17651).exe 4785b339bb5918722ff6a9f30f9d5c04
-toren_ost_flac.zip 3d0604228e8822930f4dd4f8b2304199
-toren_ost_mp3.zip b7c458dfa80d8801d2dc29738c7bdb7f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

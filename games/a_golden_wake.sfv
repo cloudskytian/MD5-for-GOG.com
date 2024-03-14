@@ -1,2 +1,1 @@
-golden_wake_poster.zip 0efaa3dee1c557ea293faf9682ca9759
-setup_a_golden_wake_gog-5_(47928).exe 458259c0057affdff8bc19fb90095614
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

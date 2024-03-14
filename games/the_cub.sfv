@@ -1,2 +1,1 @@
-setup_the_cub_1.0.0_(70495)-1.bin f8c2bc9f0b1c57cc3fb3d488b67242c9
-setup_the_cub_1.0.0_(70495).exe 0f68f14de063a16ee049214de6378635
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

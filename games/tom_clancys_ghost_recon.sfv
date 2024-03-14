@@ -1,10 +1,1 @@
-gr_artworks.zip 5d27b2f4a8bb5897b1dc9a488d3358f5
-gr_avatars.zip a6250220fff3a8a7d3f9d962810f2b35
-gr_command_map.zip bb6b94a2523978d71aaac8a75d2385c4
-gr_desktop_theme.zip 934ef517656e98d3d08747cb62d7d3c6
-gr_level_builder.zip 714827a2e1395ef574628dd0e0e1c41a
-gr_manual.zip c24ea657a14bcb58d7dc2f276a5773d5
-gr_screensaver.zip 49dd8d4a2651afaacd66344cb8fc9d06
-gr_vehicle_tagging_guide.zip 891b5e6ff9acc6f0da3c95ac4e7c0391
-gr_wallpaper.zip 8504a1cd757d3f4adcd5e031a808ece7
-setup_tom_clancys_ghost_recon_1.4.0.0_(19232).exe ef4550079c2dae851129e83407d5f952
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

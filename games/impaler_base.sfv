@@ -1,2 +1,1 @@
-setup_impaler_1.0.539_(64bit)_(68029)-1.bin 152d74a1b14389751a58b182d4f11026
-setup_impaler_1.0.539_(64bit)_(68029).exe 80b66a9f1f82c06763bf3f8a49491412
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

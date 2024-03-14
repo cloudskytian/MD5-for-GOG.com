@@ -1,7 +1,1 @@
-pid_artworks.zip 2f8a4e7b3d0d8ce6d7ff2c8d6f21e974
-pid_avatars.zip b2a7a620106e9dbdee5900eb2ce0cb56
-pid_concept_art.zip cce819197e71c1078b91f1b292229894
-pid_design_document.zip c41a9d3edb5828d8c5b67cfcfc486fbf
-pid_music_of_pid.zip ee6ce0417d96581cdd0416a8ff282ee5
-pid_wallpapers.zip 1ccf1f8bf220134c298969b85c6ae836
-setup_pid_gog-1_(18421).exe d6cd6899df3b2ad13071f58d0362ab3a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

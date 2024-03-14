@@ -1,2 +1,1 @@
-setup_firewatch_1.12_(64bit)_(54889)-1.bin 9bf7e2cadf1ceb0bb371ba6a1c839837
-setup_firewatch_1.12_(64bit)_(54889).exe 74267844750b3585ed0e7f141aee7664
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

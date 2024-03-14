@@ -1,10 +1,1 @@
-Fallout_Bible_gog.zip cbbf7fbb000f14bdcae70d59e69f2c52
-fallout_arts.zip 40a3394fd9ae0c984dc719fa2723e9c0
-fallout_avatars.zip 849f8b75a72293de43b572c6b0dff4bf
-fallout_manual.zip c17cd2543b155ffa01349ba698674f6d
-fallout_pipboys_avatars.zip fb2ea09415a8edf049ab388a60afbffe
-fallout_refcard.zip 42c10c13405caf6707ecb12a149ef7e8
-fallout_series_wallpaper.zip 74d22b4925370d25b2fc32e0a3a39875
-fallout_soundtrack.zip 1bed24b33c3f1fec99b5393309c0950f
-fallout_wallpaper.zip 1dc05625be866e90ae509492ac965ddb
-setup_fallout_2.1.0.18.exe 47b7b3c059d92c0fd6db5881635277ea
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

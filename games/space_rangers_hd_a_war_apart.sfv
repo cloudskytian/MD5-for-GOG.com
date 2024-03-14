@@ -1,5 +1,1 @@
-setup_space_rangers_hd_a_war_apart_2.1.2448_(70190)-1.bin 7f714738516ca485a6555554885a2958
-setup_space_rangers_hd_a_war_apart_2.1.2448_(70190).exe 8153c595843f794c0942c1d9117e38c1
-space_rangers_hd_reference_card.zip 93739477a04376b0a730169efd4f7a29
-space_rangers_hd_soundtrack.zip 30f77c794bf0c1859a697b09efe2805d
-space_rangers_hd_wallpaper.zip 7bd616412d3df3a291c1c88b8d49d701
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

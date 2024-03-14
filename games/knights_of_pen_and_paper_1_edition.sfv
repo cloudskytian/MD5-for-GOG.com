@@ -1,2 +1,1 @@
-setup_knights_of_pen_and_paper_1_deluxier_dlc_2.0.0.4.exe 0e0172f08b4088a68e1acf51cf7e9320
-setup_knights_of_pen_and_paper_1_edition_2.0.0.4.exe bcd87a7d73fd6f9d5442eba45455c539
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

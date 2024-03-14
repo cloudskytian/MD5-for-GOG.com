@@ -1,5 +1,1 @@
-fe_legendaryheroes_pdf.zip 67c2cffe881cbb740f5ad81d74ab4168
-felh_hiergamenon_pdf.zip b7239f41cc4bbe924d515e36b49b117a
-setup_fallen_enchantress_legendary_heroes__3.0_(49697)-1.bin 71438802efecbea2949bf0701f894f30
-setup_fallen_enchantress_legendary_heroes__3.0_(49697).exe 90d67dd633883cf8751597643d6411a1
-setup_fallen_enchantress_legendary_heroes_dlc_3.0_(49697).exe 1dd8614e20dc4bf9c01547049ad9bbf3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

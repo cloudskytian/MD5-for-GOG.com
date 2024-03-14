@@ -1,6 +1,1 @@
-setup_titan_souls_gog-1_(17630).exe f730f2546c29908a5ccf9729f05ec55e
-titan_souls_art_book.zip 7324d25776c99a3fd4610034d2b90a40
-titan_souls_ost_flac.zip 807e65950cd679028c94391b747e7efb
-titan_souls_ost_mp3.zip 10c3f83ce06deaa1f88ff401f814e78e
-titan_souls_wallpaper_be.zip 26cac3a8a1d7acbd2210837304741f91
-titan_souls_wallpapers.zip 7c288a769281c546e5304d83f2c90e1c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

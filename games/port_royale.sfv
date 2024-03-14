@@ -1,3 +1,1 @@
-Port_Royale_Manual.zip 86789f2dd52d252b41c86aec63c1701c
-Port_Royale_Map.zip 35edb9aece7be8657ab24f148656a48e
-setup_port_royale_1.4.0.3_amd_rdna_fix_(52932).exe f208b7fe63e558d3945ae996b72524c0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

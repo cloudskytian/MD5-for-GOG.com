@@ -1,7 +1,1 @@
-setup_space_colony_hd_2.1.0.8.exe 2ae3941c3c5fdde61cdb0d9ba5f208e5
-space_colony_hd_artworks.zip d308638777f66f5b221966fb5dd86b5d
-space_colony_hd_avatars.zip 478bb3bb879f6a3aa6b5d7035e40db98
-space_colony_hd_manual.zip 73f4d44a42f298e47ad79d0ca61a3268
-space_colony_hd_minigame.zip 921846fc6c6ea96063114dfc6cf93058
-space_colony_hd_soundtrack.zip c4f94161a6bc007f0874b8e2cf13d300
-space_colony_hd_wallpapers.zip 1128aaf63e18b20e0b7c6f07e4aaa4eb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

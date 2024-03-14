@@ -1,4 +1,1 @@
-eg_wallpaper.zip 7838175713a5d28fd5143d5dad858db2
-escape_goat_ost.zip ea087b41bf437762dafac307632eba02
-escape_goat_powermouse_mix.zip 7a10420ff5fcd466959e52a9b4f8580d
-setup_escape_goat_1.0.5_(20747).exe 64b349aaeac287b6ed4022f1c29a5a98
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-murder_by_numbers_artbook.zip 3e1a43ee7f9bba60f9d2680878677af6
-murder_by_numbers_extras.zip 297b95cb89a06612fa3f8f662b730f63
-murder_by_numbers_soundtrack_mp3.zip 826434202dce8de49f2b54b4995ab349
-setup_murder_by_numbers_1.27_(60443).exe 7ea694aac58b4fe28ca03fafb22ff879
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-setup_overload_1.1.1886_(64bit)_(38732)-1.bin 2a6f73cc4f740d210474ccbc2de73c94
-setup_overload_1.1.1886_(64bit)_(38732)-2.bin e64c987da7ba3c05e359549be02bfc67
-setup_overload_1.1.1886_(64bit)_(38732).exe bb8125cc0dec6cbef9620d2f71423039
-setup_overload_anniversary_level_pack_1.1.1886_(38732).exe 5c643717492917903c4aa1f5b591924b
-setup_overload_community_level_pack_1.1.1886_(38732).exe b699a453d01dd8e92577bb062742006f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

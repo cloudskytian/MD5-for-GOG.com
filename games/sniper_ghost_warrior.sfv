@@ -1,3 +1,1 @@
-setup_sniper_ghost_warrior_1.2_(34044)-1.bin b45cba9a80ccd25867ce7debee500751
-setup_sniper_ghost_warrior_1.2_(34044)-2.bin a4eb2ebeb033a7f1ce47efbaa6e20eb0
-setup_sniper_ghost_warrior_1.2_(34044).exe 8ffda3614258b444b65d7baee04aab04
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

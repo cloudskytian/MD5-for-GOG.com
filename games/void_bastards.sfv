@@ -1,4 +1,1 @@
-setup_void_bastards_2.0.24_(64bit)_(33167).exe dd330b92acd9dccca23e6f568c66c415
-setup_void_bastards_bang_tydy_2.0.24_(64bit)_(33167).exe fc32ece26d17b37ba625a2150057b1ea
-void_bastards_ost_flac.zip 8ab5c26b48b4536e9b0705ac70190dee
-void_bastards_ost_mp3.zip eb6ab088423fd43ac25141b5d99551da
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

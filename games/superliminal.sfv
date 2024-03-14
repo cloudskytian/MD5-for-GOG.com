@@ -1,4 +1,1 @@
-Superliminal_OST.zip 46a75b1a34de65fde89c91c8ba768ea8
-setup_superliminal_1.4_(64bit)_(62548)-1.bin cd4f71751b353dec7331410f64401bc2
-setup_superliminal_1.4_(64bit)_(62548)-2.bin b626e9fb587c8b8609a4d0d301560a63
-setup_superliminal_1.4_(64bit)_(62548).exe 5191f23f637d82e0564ad6d267b9b9f1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

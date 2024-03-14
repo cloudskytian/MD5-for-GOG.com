@@ -1,5 +1,1 @@
-port_royale_2_artworks.zip 7f6d72da36a88ed1fb891fcd93c9d037
-port_royale_2_manual.zip b8c5709ce6c3d4c4ccd1894a7196b712
-port_royale_2_map.zip b16d5a74000e5064a5f555eb3cc3f66a
-port_royale_2_sountrack.zip f0095bc213107661831c4a40584de6dc
-setup_port_royale_2_1.1.2.3_amd_rdna_fix_(52932).exe c3526fec0470c28dc65a4d9fc0bfd9fb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

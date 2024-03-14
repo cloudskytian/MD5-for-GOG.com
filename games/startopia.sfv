@@ -1,3 +1,1 @@
-setup_startopia_2.0.0.17.exe 4fe8d194afc1012e136ed3e82f1de171
-startopia_avatars.zip f96e7449e05a2bbd2ad2d3b1045a7b39
-startopia_manual.zip 6fce9441880fa76b9bb27d803f70ab9d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

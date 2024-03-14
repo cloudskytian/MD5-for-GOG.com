@@ -1,4 +1,1 @@
-setup_shining_song_starnova_1.00gog_(22474)-1.bin 4e65708f8b2850c9d08032033312d42b
-setup_shining_song_starnova_1.00gog_(22474).exe 48302f676a043fd71a6d74da1d92160e
-shining_song_starnova_soundtrack.zip 6bc8fce27e2ef265cd440c8070acbd59
-shining_song_starnova_vocal_collection.zip dfff6f826d09c56825858b33cfe5864e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

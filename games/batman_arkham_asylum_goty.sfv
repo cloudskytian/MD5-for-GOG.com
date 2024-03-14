@@ -1,3 +1,1 @@
-setup_batman_arkham_asylum_goty_1.1_(38915)-1.bin 59df55da8ffce48afd9a196c816769c3
-setup_batman_arkham_asylum_goty_1.1_(38915)-2.bin 8b7b283f4ea74c7f208bdd26c2f7a5b4
-setup_batman_arkham_asylum_goty_1.1_(38915).exe 46dc5afd1cf4a41f4c910a8c43fe8023
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

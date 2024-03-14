@@ -1,2 +1,1 @@
-setup_lego_batman_2_1.0_(14291)-1.bin 23bb079d3b4ad4d6698697ff3ff4d25c
-setup_lego_batman_2_1.0_(14291).exe d813cdfb17cd90eafeab36a01acb344c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

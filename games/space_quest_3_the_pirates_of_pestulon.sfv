@@ -1,3 +1,1 @@
-setup_space_quest_3_-_the_pirates_of_pestulon_1.018_(20240).exe 6e51ed4d1fc82fa267cf031590fd29c1
-sq123_artworks.zip cae60e49ec89d6fdae1303f053dac7a0
-sq123_manuals.zip b347128ab96eff10c0047fca391b855a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

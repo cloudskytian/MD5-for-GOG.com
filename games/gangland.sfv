@@ -1,11 +1,1 @@
-gangland_artwork.zip 1ef435f29a88a9d77e6e3fa759b33946
-gangland_manual.zip d33dc9c142ba037db77d86ceed25faf0
-gangland_ref_card.zip 7f8fb9daaf98878786e052a492033cb8
-gangland_soundtrack.zip b55f9cd7e387fbf0f1af155eb6af4d2a
-gangland_wallpaper.zip 9ba321b8a5bc0fbe5bdf4a759670055a
-gl_artworks.zip 511c9a2bf51f4f90acd643f72224ba69
-gl_manual.zip 635ec0a396d9e6477dd9687b07c9b4ee
-gl_reference_card.zip 3d49594bb187fc247d64caf00ff2d863
-gl_soundtrack.zip cb7f055c0afae87b219ef2a3f68dd18c
-gl_wallpaper.zip dd44ecf264e47bcce2d4d1db876160ac
-setup_gangland_2.0.0.3.exe 6f4c369e834b57fa7c3b5281d9ccc1c8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

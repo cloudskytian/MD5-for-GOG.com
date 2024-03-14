@@ -1,4 +1,1 @@
-operation_body_count_multiplayer_guide.zip 9b35d968d588bb741be20f18bcd6ecfc
-operation_body_count_original_manual.zip 09936b0c46403041578ccdd68d2c8886
-operation_body_count_quick_start.zip 241e2cdadfca18914347f9ea7a017d16
-setup_operation_body_count_1.02_(47684).exe 743af533ff82c9aea71667f9e434ea30
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

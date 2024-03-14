@@ -1,8 +1,1 @@
-setup_shadow_man_1.0_(22189).exe 316c56e4db59df1744547d18273abcab
-shadow_man_alt_ost.zip 5270ec06c5018c3c1620718c99464457
-shadow_man_avatar.zip d28220ed7aeca2b452c5f13418d667ee
-shadow_man_manual.zip 1e3a5fef3ae156df94cf75d680902956
-shadow_man_mapp.zip 94e7d1a7aedf8bdf2a96548e01bdf1e1
-shadow_man_ost.zip 28f0ca6a28823bc75bad00ebb0bb2901
-shadow_man_quick_reference.zip da1212306204878a1f0a46017952a19b
-shadow_man_strategy_guide.zip d4f2b350334415b9fa3090fb475564dd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

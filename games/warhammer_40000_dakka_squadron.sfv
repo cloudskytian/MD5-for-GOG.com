@@ -1,4 +1,1 @@
-setup_warhammer_40000_dakka_squadron_-_flyboyz_edition_1.154277.shipping_(64bit)_(46795)-1.bin f32a0390b27c406063fcf7ad3bff4655
-setup_warhammer_40000_dakka_squadron_-_flyboyz_edition_1.154277.shipping_(64bit)_(46795)-2.bin 9c978a8867a9747039bcfceb462d0a2e
-setup_warhammer_40000_dakka_squadron_-_flyboyz_edition_1.154277.shipping_(64bit)_(46795)-3.bin ffb1a9b6e5343e6cb8955d6c8814ef97
-setup_warhammer_40000_dakka_squadron_-_flyboyz_edition_1.154277.shipping_(64bit)_(46795).exe 746ce7f112d089a2aca8dd6d4458dd26
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-setup_under_the_witch_1.5a_(67473)-1.bin b294412fc5a26bc2d8903d7a52ca8d7d
-setup_under_the_witch_1.5a_(67473)-2.bin e1a067eba14f21ca147aa3c45a3cfd38
-setup_under_the_witch_1.5a_(67473).exe 4513dae7df251a04eff9ea6a54c5971a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-setup_x-com_apocalypse_1.00_(28046).exe 60ffa2a1f9526a48281f1cd7670e2723
-xcom_apocalypse_manual.zip a0a3cd9534c1192a618fd7d3c6346d01
-xcom_apocalypse_rookies_guide.zip 5a36f8d606a479b0a020d7ed514d1470
-xcom_apocalypse_soundtrack_mp3.zip 5b7826d7098141277aacbee3ac86be52
-xcom_apocalypse_tech_supplement.zip 83a52e8f13545b9960a052f4cdb17b46
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

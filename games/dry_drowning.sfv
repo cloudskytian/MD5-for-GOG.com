@@ -1,4 +1,1 @@
-artbook_dry_drowning.zip 12175cfc86a9dbe43596a0103c23e66b
-dry_drowning_soundtrack_flac.zip 03c7cd6e9e72955d5302dd117601dec1
-dry_drowning_soundtrack_mp3.zip b95dfe9ab28ddec77930d8ee76489c20
-setup_dry_drowning_2.0.5_(64bit)_(44866).exe d14ab5199b8bf72508108aa63fa2f1fa
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

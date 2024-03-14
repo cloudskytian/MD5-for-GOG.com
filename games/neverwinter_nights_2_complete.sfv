@@ -1,9 +1,1 @@
-neverwinter_nights_2_original_ost_flac.zip 7dfa8897db4f4dca2c2bc34aa3d89f96
-nwn_2_complete_artworks.zip 896de108ab4eb5f6c680ea1c0f4f427e
-nwn_2_complete_avatars.zip b7bf9398e45104ca805540e45449d04b
-nwn_2_complete_manuals.zip fda4b00735d94974cee46a9f7df44dde
-nwn_2_complete_soundtracks.zip f91fcdc3e66f668c92b8e675520ff2a2
-nwn_2_complete_wallpapers.zip 55644a2063c4a80ad334855764ee2b43
-setup_nwn2_complete_2.2.0.10-1.bin 753bd4bf6e38cb202009ac9782f11437
-setup_nwn2_complete_2.2.0.10-2.bin 214dfce1e7a8e827c0dc440fe1b6cbb5
-setup_nwn2_complete_2.2.0.10.exe 8de361bda10abecd436f6c01f0dfacf4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

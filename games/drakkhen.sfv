@@ -1,5 +1,1 @@
-drakkhen_codes.zip 3ed82a716cd318dc67a4b266a1ed7d4b
-drakkhen_instruction_guide.zip f5b0ba99b8436d44f1873975746e294e
-drakkhen_quickstart.zip f2e4f542e8c26aa3f4eb130cef9eb8ad
-drakkhen_storybook.zip 1250ce0ba41fb7c85458ee56011c19bd
-setup_drakkhen_1.0_(21174).exe 52bfea27b68c94e44b66960e8bd47434
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

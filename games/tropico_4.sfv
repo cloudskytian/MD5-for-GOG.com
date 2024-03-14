@@ -1,7 +1,1 @@
-setup_tropico_4_1.06.345_(19959)-1.bin 395a1d821076e3f06944706faf1d9ac5
-setup_tropico_4_1.06.345_(19959)-2.bin 64684aa1e34bf2fc0b09bb37cc863eb9
-setup_tropico_4_1.06.345_(19959).exe c079915065fe5e895055733759aaa838
-setup_tropico_4_complete_dlc_pack_1.06.345_(19959).exe 0325048a20c3da3dbb344adc71823393
-tropico_4_manual_de.zip bce6ee2821911d5f79259d16b63dd920
-tropico_4_manual_en.zip 4ba663788d2d799f9ccc0adb02171fca
-tropico_4_wallpaper.zip 566201a1c06042f935fb0ddef02ea0ea
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

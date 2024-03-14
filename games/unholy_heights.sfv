@@ -1,3 +1,1 @@
-setup_unholy_heights_20171109_(16285).exe 9f5a84cff7f2ae8d2e23c6768ba48c85
-unholy_heights_avatars.zip 80a5e3f6fd33eb356afbf8dbbf255012
-unholy_heights_wallpapers.zip 363eaba45b3abe2b5fd725e1570714a5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

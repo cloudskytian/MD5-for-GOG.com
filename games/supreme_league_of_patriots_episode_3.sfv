@@ -1,8 +1,1 @@
-patch_slop_episode3_2.0.1.2.exe cab4db8ebb0aead06835bce61da380ab
-setup_slop_episode3_2.0.0.1-1.bin 7e09f4c00bb1643c823b8dae3ba14a13
-setup_slop_episode3_2.0.0.1.exe 85f10ff0dcce9bc593665a357fb82f32
-slop_avatars.zip 3e148c631749c6d54dc7fd8c66ea4d41
-slop_purple_booklet.zip 2d178c16a7cdeb1a7668c72c62ef0dbf
-slop_soundtrack_flac.zip e108d1eb87346750dafa0e6e2f3ba712
-slop_soundtrack_mp3.zip 8a9b104432489ddc3427571f747b7946
-slop_wallpaper.zip 0b33bcf27d7b343bb4b440e276cf2878
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

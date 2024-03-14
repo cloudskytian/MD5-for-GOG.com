@@ -1,6 +1,1 @@
-hbhs_collectors_pack_kings_story_book.zip 5d482b6a7235cbc069e2046acb8a011f
-hbhs_collectors_pack_mp3_ost.zip 530a6fce2c5e38fc5aa72e10bcde9100
-hbhs_collectors_pack_wallpapers.zip 9480d8f0feb352835a60bc44092f0515
-hbhs_collectros_pack_artworks.zip 83970417877d70f23c7bb531b2600bd3
-hbhs_collectros_pack_dossier.zip 82ec23211096c6cc0041c2deaa07da8f
-setup_hatoful_boyfriend_-_holiday_star_1.0_(18495).exe 828506c296df4ba5cf76531d6e88edd8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

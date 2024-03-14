@@ -1,3 +1,1 @@
-catacomb_pack_avatar.zip 481128733cc1d86d94fb7eb86b3d619b
-catacombs_pack_music_track.zip d4875dbc42e5b3b64adbe37b685661d3
-setup_catacombs_pack_1.0_(28043).exe 1565ad3d50fe81fa40cbcf53b3f6757f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

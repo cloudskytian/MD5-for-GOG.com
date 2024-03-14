@@ -1,6 +1,1 @@
-freespace_2_manual.zip 77f77b7f3ab3e8855c38a97e401ca515
-freespace_2_refcard.zip 31b581834fdadd234af441e262fdaeb0
-freespace_2_soundtrack.zip a894695e64889099b5c57fd028adc1f2
-freespace_2_wallpaper.zip 61aaa33dae175c6f5d9cc0603db3ba0f
-setup_freespace_2_1.20_v2_(33372)-1.bin e8eefead105824093b9d851418381f9b
-setup_freespace_2_1.20_v2_(33372).exe d6e2dbd863deff51f189821d2eb51b89
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

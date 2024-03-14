@@ -1,15 +1,1 @@
-prey_ost_mp3.zip 218d8b5c4ff95ba81855e510624ef296
-prey_ost_wav.zip e6047033a1f048e645ac9eb3ccd2d9ce
-setup_prey_12742273_(64bit)_(65935)-1.bin dc53b3f5c5c179c171c75383cd19c6df
-setup_prey_12742273_(64bit)_(65935)-2.bin f725f87e22de7a68331f3154c29c553e
-setup_prey_12742273_(64bit)_(65935)-3.bin 1a4c0435835a515befdd28b7672869e4
-setup_prey_12742273_(64bit)_(65935)-4.bin 679d8a92f9d622f7bd3f32e7a9f2b40f
-setup_prey_12742273_(64bit)_(65935)-5.bin 167db03ea0e346d5a82eb7d4e87c4862
-setup_prey_12742273_(64bit)_(65935)-6.bin b0922e550586df72b64cffe73ea79893
-setup_prey_12742273_(64bit)_(65935)-7.bin 796f31acf4c5394cd91f2a4aee2ae707
-setup_prey_12742273_(64bit)_(65935).exe 5e9275fec06faa44e80568da5b04a6de
-setup_prey_mooncrash_12742273_(64bit)_(65935)-1.bin dc614c501c63bf42dbd3d9c2b87a4028
-setup_prey_mooncrash_12742273_(64bit)_(65935)-2.bin 9179f95a62cadc657e7ff4a429c21109
-setup_prey_mooncrash_12742273_(64bit)_(65935)-3.bin bff86bfb5ef23be47c6061e931d5e1eb
-setup_prey_mooncrash_12742273_(64bit)_(65935)-4.bin 394dd8cc98f16191252ba157c2087062
-setup_prey_mooncrash_12742273_(64bit)_(65935).exe 8dfe92e4adc2187053b278b147625324
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

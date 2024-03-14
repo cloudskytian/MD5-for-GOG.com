@@ -1,3 +1,1 @@
-rocket_ranger_manual.zip 72202a16034d61dbd7f34baabcc1c955
-setup_rocket_ranger_2.0.0.1.exe cdcb8d9528e59184d8e1f345589427e2
-setup_rocket_ranger_german_2.0.0.1.exe 6d671f6be0ffdb3d65adb5f3a090970a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

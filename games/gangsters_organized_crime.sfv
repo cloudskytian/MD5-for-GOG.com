@@ -1,3 +1,1 @@
-gangsters_manual.zip 551ef2d15c1c4f3770bc1522194f02d5
-gangsters_soundtrack.zip ab4a55eb085d43d31c6a32f926c2bc2a
-setup_gangsters_2.0.0.15.exe 794561f7b449e3bfce82611f11f8bc9b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

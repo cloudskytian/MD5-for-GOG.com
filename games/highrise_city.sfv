@@ -1,6 +1,1 @@
-highrise_city_soundtrack_flac.zip fd002601d1dbc19b146329d353854bd1
-highrise_city_soundtrack_mp3.zip 1362f6d154e51cdf50354efb5063b5e6
-setup_highrise_city_1.65_(69496)-1.bin 717b61f0213168ae89a3b19e1e828a22
-setup_highrise_city_1.65_(69496)-2.bin 61cfe0a1c1bcdbefe8edf475e2ee881f
-setup_highrise_city_1.65_(69496)-3.bin f00542ca57646366a5c485fe49062fff
-setup_highrise_city_1.65_(69496).exe 14872ed2b1fd3d91f9d10bffce06053e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

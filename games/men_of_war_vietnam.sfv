@@ -1,8 +1,1 @@
-mow_vietnam_artwork.zip a6934605b0605c35b611b4e0d6814380
-mow_vietnam_manual.zip b28625c97f272bb6846d5ef3e4013cb4
-mow_vietnam_ost_mp3.zip 30fdeb9941f28e5245ca2dfd6bea412e
-mow_vietnam_posters.zip 6dc444d53ee58796cbcfcb11b3d640ab
-mow_vietnam_renders.zip 933033b8b3f248e6b3596b2e41623d36
-setup_men_of_war_vietnam_1.00.2_(20290)-1.bin e139ca427aabf0051d6a6af50ddc7c3e
-setup_men_of_war_vietnam_1.00.2_(20290).exe 7b4ff633c49605369aa7aac399172273
-setup_men_of_war_vietnam_special_edition_1.00.2_(20290).exe 983fe1236ea81a1126a2b69ccbb9cd65
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

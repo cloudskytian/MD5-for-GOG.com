@@ -1,2 +1,1 @@
-setup_eris_dysnomia_1.0_(66874).exe a13a0e624072eb29ef89b6494ef5b6cc
-setup_eris_dysnomia_unrated_1.0_(66874).exe 7917eb64da4e93bcd6498c71300e719a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

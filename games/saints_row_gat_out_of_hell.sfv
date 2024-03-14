@@ -1,4 +1,1 @@
-setup_saints_row_-_gat_out_of_hell_20170523_(12199)-1.bin 04de81886458b669b3c9f3cbb5df250e
-setup_saints_row_-_gat_out_of_hell_20170523_(12199)-2.bin 5bf4d4167bb0ab8d8ef58ba770d1b7c8
-setup_saints_row_-_gat_out_of_hell_20170523_(12199).exe ef4e2413b6b291c30a0360d66d5548dd
-setup_saints_row_-_gat_out_of_hell_devils_workshop_pack_20170523_(12199).exe d840d0ab1d7708bca0edb2c9863c2440
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

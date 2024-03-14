@@ -1,4 +1,1 @@
-ouwb_goodies.zip 5f2aff258d8c86be7e917e9d798743ba
-ouwb_linux_2.0.0.6.zip 7f86dcb64a6c1e287267509832822fbb
-ouwb_windows_1.21.zip 407cb24e42dcc80dc19dafa281beb416
-setup_blood_fresh_supply_1.9.10-1_(64bit)_(31506).exe b3ab9752b6c5e56e5899b2be77dfa5ef
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-setup_toca_3-1.bin 4187245c9d32a7ddd930f26fc75dc58d
-setup_toca_3-2.bin 4b3b4235d439a2409dbb108981abc147
-setup_toca_3-3.bin d6a5a69f5f6a5506adaea2c80835b183
-setup_toca_3.exe 8b6d95ad2df0efc19309dc75cd233322
-toca_race_driver_3_avatar.zip 643109604f9d4a644b99619c52bbaafe
-toca_race_driver_3_manual.zip ec7be3ae2b591171ac1599db36821f47
-toca_race_driver_3_wallpaper.zip f98751ad5e7445716c649f3684ae2981
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

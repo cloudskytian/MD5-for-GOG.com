@@ -1,5 +1,1 @@
-flatout_2_artworks.zip 1f6d0c82dab6c2794b4ab0d77410dd0f
-flatout_2_manual.zip 6c12cbf85763058bce40bb65dbecc29e
-flatout_2_manual_de.zip 7ee81032eb12e8e11de26c347bc9f1a7
-setup_flatout_2_1.0_(26697)-1.bin 2751c4aa13549999280aa572ca64efd2
-setup_flatout_2_1.0_(26697).exe 7eecf87103c36244bbeab0b0bad4be26
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

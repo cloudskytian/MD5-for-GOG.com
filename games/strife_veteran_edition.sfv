@@ -1,5 +1,1 @@
-setup_the_original_strife_veteran_edition_1.1.2b_(52351).exe 0df73281c07b0379e6fe091a2a799257
-strife_field_guide.zip 66f44279fd7dc18a86b52b7edc02e400
-strife_manual.zip 82765a5438858d7ed9d58617ad5a8d97
-strife_map.zip 717417d19822f8ba021db809af50f5bf
-strife_original_dos.zip 07ca921a79ae1dc178c085583db99921
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

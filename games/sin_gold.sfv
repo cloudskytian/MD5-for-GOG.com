@@ -1,5 +1,1 @@
-setup_sin_gold_1.13b_(36951).exe cb11c956ddfc5d54e6b74a52a79c6aca
-sin_gold_artworks.zip d77a7db1f1cf1fe16a307ebba2ef8cfe
-sin_gold_avatars.zip 4744d90d51dc5f748067f504a3f3fca4
-sin_gold_manuals.zip 5f8c6cd4833fd1693646ddb1826e1747
-sin_gold_wallpapers.zip 474b5c8a3facc1436011e6caef46e647
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

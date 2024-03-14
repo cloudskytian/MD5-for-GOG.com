@@ -1,5 +1,1 @@
-celtic_kings_artworks.zip 9efa2266337bad8bc86a5b4ca72ed6a6
-celtic_kings_avatars.zip cf6b3be0db194e36d96256de77b7090c
-celtic_kings_manual.zip 353a1ffcbbff55b5f3c43e95f0c57d0a
-celtic_kings_wallpapers.zip a793e6af2d810b2dba5c903133606274
-setup_celtic_kings_-_rage_of_war_1.16_(19260).exe c93063986a59bf471df7b8326dbf6b66
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

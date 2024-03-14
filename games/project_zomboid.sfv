@@ -1,2 +1,1 @@
-setup_project_zomboid_41.78.16_(64bit)_(60900)-1.bin 9d7e3e2b3473f020a9ff44461443b3de
-setup_project_zomboid_41.78.16_(64bit)_(60900).exe 561c23b29a26ff7e37a645c09862b57e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

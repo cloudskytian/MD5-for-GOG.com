@@ -1,12 +1,1 @@
-Trine_4_Artbook.zip e0832fcd1139ed59e58862817caccbb2
-Trine_4_Melody_of_Mystery_FLAC.zip ac9c6e3e407f9b0b45209027d6e3dc77
-Trine_4_Melody_of_Mystery_MP3.zip 78413f542906c85f08c7a572221541ca
-Trine_4_OST_FLAC.zip c465afd5320869963f05ab1dfcf0d1f6
-Trine_4_OST_MP3.zip d5d0745c706acb849167a161bbad94bb
-setup_trine_4_melody_of_mystery_1.0.0.8682_(64bit)_(45944).exe e42b8cf430823b5a7fe061a9277a0e92
-setup_trine_4_the_nightmare_prince_1.0.0.8682_(64bit)_(45944)-1.bin 490ec30d6c00e68b47552f784a1b6de1
-setup_trine_4_the_nightmare_prince_1.0.0.8682_(64bit)_(45944)-2.bin f238153f2abacd0b5709dcd6e7b5d426
-setup_trine_4_the_nightmare_prince_1.0.0.8682_(64bit)_(45944)-3.bin 60712f5f53d1427ce8e844d56a442f69
-setup_trine_4_the_nightmare_prince_1.0.0.8682_(64bit)_(45944)-4.bin 1009fa7acce23a9b67b34442dbd641d0
-setup_trine_4_the_nightmare_prince_1.0.0.8682_(64bit)_(45944).exe cbce3960f0035e663c5080b03ad085ad
-setup_trine_4_tobys_dream_1.0.0.8682_(64bit)_(45944).exe 903c98e9bcead8ce55cdd0fdf5155f9a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

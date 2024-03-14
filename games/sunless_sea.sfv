@@ -1,4 +1,1 @@
-setup_sunless_sea_2.2.11.3212_(59940).exe b4a0437d2c2681569860b836e0cf5214
-setup_sunless_sea_zubmariner_2.2.11.3212_(59940).exe 4f4017053d60c966bbdf9a6134daa3c2
-sunless_sea_avatars.zip fb03c166aa2d92768aa4b8ff59af46f3
-sunless_sea_concept_art.zip c37a4f31065bae6836596fbc3467384f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

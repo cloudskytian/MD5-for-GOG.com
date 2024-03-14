@@ -1,6 +1,1 @@
-bioforge_avatar.zip 3bd421bbd36306c02592fcda79107643
-bioforge_field_personnel_file.zip 13106109c89711e29b0959000af2f8f7
-bioforge_manual.zip 64b86f0ab97b5c4ccc442e530069939a
-bioforge_reference_card.zip 4495345d97bca78297fa58a9671aa2a0
-bioforge_strategy_guide.zip fae97d78098e1afd3fc9c89c7ea1f390
-setup_bioforge_2.1.0.14.exe 1d9e9bb19ad4bee6debf65b4e4e13991
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

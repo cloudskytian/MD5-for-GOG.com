@@ -1,4 +1,1 @@
-aow_gold_avatars.zip c1ecec703e27c01e16d36f802b7aedfd
-aow_high_treason_manual.zip 6e301f90a59dcfe514a098abdf697d73
-setup_act_of_war_high_treason_1.1.7_(24200)-1.bin 7025e0787f436224b43f305e91f7d307
-setup_act_of_war_high_treason_1.1.7_(24200).exe 8a0ba205e89008ac1b5e0bf3856414f3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

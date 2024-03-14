@@ -1,4 +1,1 @@
-patch_super_time_force_ultra_2.0.1.2.exe 66e6e462913cf9dd7714fe15c7a301e5
-setup_super_time_force_ultra_2.0.0.1.exe 3230bf109a190552edb95fa1551cd346
-stfu_avatars.zip b8d569dd158864da76f8e45d1e891923
-stfu_wallpapers.zip ef6558fbee1376c0368f0baf2fe8b22b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

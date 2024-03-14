@@ -1,9 +1,1 @@
-mow_as_artwork.zip 80a47f37e83842d1268e3f96ffdc0011
-mow_as_guide.zip 8569ca2066d8aa91289e3feefbac15ae
-mow_as_key_controls.zip 4d9a9c91a8c0beb898774f2b631b1744
-mow_as_manual.zip 1faef4e9d05be065bd3c951b46363809
-mow_as_posters.zip 3de478129adf1b7786fa5e21f6b3febf
-mow_as_renders.zip dd94db8b0bd533f72b3373f34022b1b0
-setup_men_of_wartm_assault_squad_2.05.15_(20075)-1.bin ca45741c91aa49f71ab51fbc5f778434
-setup_men_of_wartm_assault_squad_2.05.15_(20075).exe e3c9e21371c52e59c4e0867852f2134e
-setup_men_of_wartm_assault_squad_goty_edition_2.05.15_(20075).exe 8345e5e8965213931f02d329454282cf
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-pyre_ost_black_mandolin_mp3.zip e0cf3015cee603a68f15594f26365141
-pyre_ost_mp3.zip f515f6736df52e668e22866b7e3a4baa
-pyre_ost_white_lute_mp3.zip d665dfeb31e1cebd23613cef881359ed
-setup_pyre_1.50476.2019-06-10-141854_(64bit)_(30165)-1.bin ea586d0f4ddc6db68727cbf8b4b46d71
-setup_pyre_1.50476.2019-06-10-141854_(64bit)_(30165)-2.bin 151de00679802c726b56a9c13e138e18
-setup_pyre_1.50476.2019-06-10-141854_(64bit)_(30165).exe 536f49c50a5114df5d7653b3c08e5a7a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

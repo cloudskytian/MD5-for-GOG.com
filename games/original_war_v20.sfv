@@ -1,2 +1,1 @@
-setup_original_war_2.0_legacy_beta_1_(39654)-1.bin f31c037dd46b3989ce719348efeb5a63
-setup_original_war_2.0_legacy_beta_1_(39654).exe 3cf078babcad7ca2151c4546e08e8cec
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

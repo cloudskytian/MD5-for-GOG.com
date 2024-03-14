@@ -1,2 +1,1 @@
-setup_chicago_1930_the_prohibition_1.01_(55013)-1.bin 539d78257b6f00195a77b2f9915c7d0b
-setup_chicago_1930_the_prohibition_1.01_(55013).exe 35b9148376db6aefc9ccc7a0e4484128
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

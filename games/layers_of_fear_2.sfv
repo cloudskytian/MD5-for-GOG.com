@@ -1,5 +1,1 @@
-setup_lof2_1.00_(64bit)_(33441)-1.bin 676fca51914f9dd6166914235d85aa49
-setup_lof2_1.00_(64bit)_(33441)-2.bin 6cba95ed038bf0c9e2185dc2dd30be7d
-setup_lof2_1.00_(64bit)_(33441)-3.bin 004cf9589f186145a80c3b3a917a5162
-setup_lof2_1.00_(64bit)_(33441)-4.bin 21bebd3449cad2829f34ea2b7ed7b859
-setup_lof2_1.00_(64bit)_(33441).exe fca2c2092a9ccf4e3e1fd42ed2d8577d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

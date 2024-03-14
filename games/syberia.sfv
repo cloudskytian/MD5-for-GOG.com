@@ -1,6 +1,1 @@
-Syberia_Artworks.zip e2618108dadc6d4e4e77177a8e30e813
-Syberia_Avatars.zip 82c11b31b26642ac7a0f3badd35d68e9
-Syberia_Manual.zip d5ce5868f4353a69772461f19fedf561
-Syberia_tracks.zip 4129e36e9456fa49f84347a099f3b5f1
-setup_syberia_1.0.0_hotfix4_(53936)-1.bin 20a068f18d692deddf517bd5def14903
-setup_syberia_1.0.0_hotfix4_(53936).exe d2a928c368926e6b5acb0007e86292c0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

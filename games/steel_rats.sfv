@@ -1,7 +1,1 @@
-setup_steel_ratstm_1.03_(64bit)_(27036)-1.bin f1624fd9677468f45741dfa57f88a714
-setup_steel_ratstm_1.03_(64bit)_(27036)-2.bin a72af4b2e4d64ac63c1cbe59e73501f0
-setup_steel_ratstm_1.03_(64bit)_(27036).exe 95ebd3a66fd410645947c0e3b0ae1528
-setup_steel_ratstm_stylish_mayhem_-_skins_dlc_1.03_(64bit)_(27036).exe 86518894bce1290492320b476c961550
-steel_rats_ost_flac.zip a7a197974f26d785013e9eeb2915c130
-steel_rats_ost_mp3.zip 17c44f6ea2359b85beaeec5da769fefa
-steel_rats_wallpaper.zip b80a4caef8d390d52d57f451fe782d4e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-magic_carpet_2_avatar.zip 056787a7138f336c464baf7a99197836
-magic_carpet_2_manual.zip d179e6eeb256f56f45a29c3303e1c9c2
-magic_carpet_2_reference_card.zip 96476ffd722e7cb2e4f740ca6e66a21a
-setup_magic_carpet_2_1.0_(28044).exe fe99f25be47bf99d55f9ae5d4c93c5fc
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

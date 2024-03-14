@@ -1,3 +1,1 @@
-emperor_rtmk_campaign_creator_guide.zip 140b844aa91f600396b54a05c878dae4
-emperor_rtmk_manual.zip 1b808a51862f4e0b899a02ea952bbac5
-setup_emperor_rise_of_the_middle_kingdom_2.0.0.2.exe 5e50e84c028a85eafe5dd5f2aa277fea
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

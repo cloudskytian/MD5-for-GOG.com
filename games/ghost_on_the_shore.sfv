@@ -1,2 +1,1 @@
-setup_ghost_on_the_shore_1.1.6.8292_(64bit)_(55066)-1.bin b79fae20cde16ea8f86307165afea5be
-setup_ghost_on_the_shore_1.1.6.8292_(64bit)_(55066).exe 09b8afbbbdef98179fad61c41739109c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

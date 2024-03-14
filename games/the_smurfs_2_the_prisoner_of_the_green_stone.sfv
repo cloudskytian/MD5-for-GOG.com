@@ -1,6 +1,1 @@
-setup_corrupted_outfit_-_the_smurfs_2_the_prisoner_of_the_green_stone_1.03.1_(68626).exe 1ee095e36fe9b2aba9d2578abc75d0f6
-setup_corrupted_outfit__farmer_outfit__adorable_outfit_-_the_smurfs_2_the_prisoner_of_the_green_stone_1.03.1_(68626).exe b2b559c8dc7000c1f370eb1ddefb177c
-setup_the_smurfs_2_-_the_prisoner_of_the_green_stone_1.03.1_(68626)-1.bin 8aed1d1891bd899e419a5ce367cfe26f
-setup_the_smurfs_2_-_the_prisoner_of_the_green_stone_1.03.1_(68626)-2.bin a49ffe44ae682aa79e16b47e46cd1e82
-setup_the_smurfs_2_-_the_prisoner_of_the_green_stone_1.03.1_(68626)-3.bin b71031bb535bfb20843be726637525bf
-setup_the_smurfs_2_-_the_prisoner_of_the_green_stone_1.03.1_(68626).exe 454d41494257e75941863c41ba021c5e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-minotaur_nods_route_flac.zip aaf80164b3cfb4addd3db390054183ac
-minotaur_nods_route_mp3.zip f2a2b5eb869ad722a020d3f7f0889c29
-minotaur_nods_route_ost_art.zip 692c5e295c5484c4d6da9ed647e0410b
-minotaur_nods_route_ost_checksum.zip a53aa03ebd8c2a314ecea79d291334fb
-setup_minotaur_0653_(52391)-1.bin 23f3887f7cff78ee4993376183f2b8ea
-setup_minotaur_0653_(52391).exe c6a43e54f480ad75e71a7c17a1d622e4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

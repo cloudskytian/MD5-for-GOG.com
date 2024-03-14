@@ -1,6 +1,1 @@
-defcon_artworks.zip 7546b094341f435312c1dbd9a1433e71
-defcon_developers_photos.zip 4450a55058199d25892a1a287b1ae970
-defcon_manual.zip 4e2e603a507ec423e0fa0ff0e57faf19
-defcon_posters1.zip d3cc1af50b0b6497e75ea5b88a513d2f
-defcon_soundtrack.zip e7d4b4a52657ffae81c3515d540984bf
-setup_defcon_1.6_(20793).exe 8c8804830420ba5a96d5b3bc4c76da29
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-mfp_ost_mp3.zip 5f1e62f4d2f8deb89a5acab3fc6e732a
-mfp_soundtrack_flac.zip 9f0ded193e826c406e6b212a67ff20ca
-setup_my_friend_pedro_1.03_(64bit)_(33083)-1.bin a7b4313c9650e3e2a4a17f9b68751985
-setup_my_friend_pedro_1.03_(64bit)_(33083).exe 214967e40a136f2fc35b85ea8a7d4c00
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

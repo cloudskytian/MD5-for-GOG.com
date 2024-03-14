@@ -1,7 +1,1 @@
-setup_strike_suit_zero_2.1.0.12.exe 58b211f9c3158c3a1b8bebc83b99cb53
-setup_strike_suit_zero_directors_cut_2.0.0.4-1.bin f0485978cf940043630c8e46f289b430
-setup_strike_suit_zero_directors_cut_2.0.0.4-2.bin b52855ed60195f4c97c935bcd31d7c31
-setup_strike_suit_zero_directors_cut_2.0.0.4.exe 1b4a35b38f371784c38e387565754480
-strike_suit_zero_all_dlc_1.0.0.6.dmg 7e54db1714986d8be0e8c810c2042a9c
-strike_suit_zero_artworks.zip d943a11588a3375ffb51667160a44a1b
-strike_suit_zero_wallpapers.zip d73df6b8bf158fd7a0e618ad394b2b72
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

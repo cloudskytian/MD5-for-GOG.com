@@ -1,14 +1,1 @@
-Ghostrunner_artbook_digital.zip bf5c67b5a7cbc590391a8dab4b5720a6
-Ghostrunner_ost_wav.zip 838af6f21b02b4814cfc99ef2a90c5e5
-setup_ghostrunner_-_halloween_pack_42507_446_(56791).exe 3c93e01d8a7df29992236fb719f79dbe
-setup_ghostrunner_-_project_hel_42507_446_(56791).exe b032e314a55e50e9f3b3b303fdae286a
-setup_ghostrunner_42507_446_(56791)-1.bin 2bdfdca57901d718b5ec7a360d54d0f7
-setup_ghostrunner_42507_446_(56791)-2.bin f6db56f23572dc16a7f6cc8d57729978
-setup_ghostrunner_42507_446_(56791)-3.bin 95a03b9091a74149496848d030b2e3df
-setup_ghostrunner_42507_446_(56791)-4.bin 7e42efbfa29ccaa86de5b00f3573177f
-setup_ghostrunner_42507_446_(56791)-5.bin a856297a89e91ab056396aedc767f41d
-setup_ghostrunner_42507_446_(56791).exe dddc379c902ac7b341f10576f172a01c
-setup_ghostrunner_metal_ox_pack_42507_446_(56791).exe 9b771a932e3b495fdc19c02f9979bb9e
-setup_ghostrunner_neon_pack_42507_446_(56791).exe fd0df2d79538635ae2fbff6bc6c11f81
-setup_ghostrunner_pre-order_katana_dlc_42507_446_(56791).exe 2930e81a6b4c1d1f435d13a4d03b7be0
-setup_ghostrunner_winter_pack_42507_446_(56791).exe d3cc3c080c3b2352a8addfdc1bfcba4e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

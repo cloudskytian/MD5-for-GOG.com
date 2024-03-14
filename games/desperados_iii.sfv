@@ -1,10 +1,1 @@
-Desperados_Artbook_Digital.pdf c43c0749270e89d809112bab74cd69df
-desperados_III_OST.zip 3de45b36b9652e1c7176ea9f0d30f304
-desperados_III_OST_Bonus_Tracks.zip e8aaf3a1a7611742d2aadbdbec39b5ed
-setup_desperados_3_1.7_(43311)-1.bin 5554579fd67870ad94347b70df2743f6
-setup_desperados_3_1.7_(43311)-2.bin f7f43119dda91362ec45b122e4ea641d
-setup_desperados_3_1.7_(43311)-3.bin 51948b7e8d6a9e45638b49988f86c5f9
-setup_desperados_3_1.7_(43311).exe 27d07bcafb7b0a0c5bd0af5a0b91edb8
-setup_desperados_iii_dlc1_1.7_(43311).exe e8ef85564fb4daf030ff1fb0f1d4b9a6
-setup_desperados_iii_dlc2_1.7_(43311).exe 1f3d5c0d31a1655407fc1f1e9310914f
-setup_desperados_iii_dlc3_1.7_(43311).exe 5bcde4335a7b29ef1151bfd71a60769c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

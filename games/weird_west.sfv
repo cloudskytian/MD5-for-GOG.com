@@ -1,6 +1,1 @@
-setup_weird_west_1.78819_(64bit)_(62811)-1.bin 1d5e58393155a9cf686d36ed941726aa
-setup_weird_west_1.78819_(64bit)_(62811)-2.bin dfbfbeb857772ef7fd0fd4330fa39690
-setup_weird_west_1.78819_(64bit)_(62811).exe efac2cc8d11dec155ee1ca966181c9ca
-setup_weird_west_calamity_(pre-order)__1.78819_(64bit)_(62811).exe 52f5b43aa455bad3b7d818179f85d0ae
-weird_west_soundtrack_mp3.zip 7111154df10bc8cd9c88b0b8d105689a
-weird_west_soundtrack_wav.zip ae079e41e000c02db8875d2e44f7aac6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

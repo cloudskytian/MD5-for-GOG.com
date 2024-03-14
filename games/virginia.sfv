@@ -1,2 +1,1 @@
-setup_virginia_1.02a_(12081)-1.bin e37cdceedb1cbb1b9aa59c776c0d70eb
-setup_virginia_1.02a_(12081).exe ecb89dc566723476e5bafd75698d8b4a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

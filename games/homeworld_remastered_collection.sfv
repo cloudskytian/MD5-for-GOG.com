@@ -1,9 +1,1 @@
-homeworld_2_remastered_ost_flac.zip f698814cf12d69849c7703a9bd5bc17f
-homeworld_2_remastered_ost_mp3.zip 5c18429d86588bb5a69d848d750527bf
-homeworld_remastered_making_of.zip e853146b4fabca2921d9e791291f558c
-homeworld_remastered_ost_flac.zip 916a14b2198fdc3a63cddbc118dc4636
-homeworld_remastered_ost_mp3.zip 10f38eac8fb00f9ceda871831f5b25a3
-homeworld_remastered_wallpapers.zip 6b768e368c94d09224359bb45b6dd8db
-setup_homeworld_remastered_2.1_(18586)-1.bin 3896b6d5198034e23d5606a4b069455a
-setup_homeworld_remastered_2.1_(18586)-2.bin 3351a46ca03158f28510804c2fe0b29b
-setup_homeworld_remastered_2.1_(18586).exe 201c076099e82f9e4daf2c727087cc7b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

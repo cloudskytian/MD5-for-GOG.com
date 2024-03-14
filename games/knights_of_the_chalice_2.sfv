@@ -1,8 +1,1 @@
-KotC2_Achievement_Icons.zip 395be1739e91f6ae03df72c578b91802
-KotC2_Augury_Of_Chaos_Guidebook.zip 931c182e11049b02f0daa8450bb3b636
-KotC2_Module_Editor_Guidebook.zip c7f754697da21a379ed48def757738ba
-KotC2_Old_Class_Illustrations.zip 6e5cbb32986d38eb2b94970deeded15a
-KotC2_Soundtrack_MP3.zip 57e7aaa2546fe6b628c8b9f9f8e56b97
-KotC2_Splash_Screens.zip 82bd1fdd1962f49393f32b5c7e676543
-setup_knights_of_the_chalice_2_1.65_(68561)-1.bin 4ab97b116de7ad5910ec4b714a380fdc
-setup_knights_of_the_chalice_2_1.65_(68561).exe ecb708412141ef15138497020fb0f6a0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

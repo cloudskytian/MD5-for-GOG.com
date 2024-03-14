@@ -1,3 +1,1 @@
-setup_call_of_juarez_gunslinger_1.0.5_(32361)-1.bin 5359c76d56dc060be91872eca272d9b1
-setup_call_of_juarez_gunslinger_1.0.5_(32361)-2.bin 16185e03fee42494ece3f17681410d89
-setup_call_of_juarez_gunslinger_1.0.5_(32361).exe 3e92a77c027eb851c67e6a2792ada161
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

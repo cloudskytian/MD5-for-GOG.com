@@ -1,5 +1,1 @@
-life_of_delta_artbook.zip 4e7b21372b7cacc67f6c15db93f864c0
-life_of_delta_ost_flac.zip 8f100c2ba964d860714d72cd909b6028
-life_of_delta_ost_mp3.zip e5e4cca647dac7e1a470bd57e0d7ca42
-life_of_delta_walkthrough.zip 6fa191cedd4f417503c9384f85662205
-setup_life_of_delta_2.1.1_(64bit)_(63154).exe de48b42fb865fb401ccc0c482905fd53
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

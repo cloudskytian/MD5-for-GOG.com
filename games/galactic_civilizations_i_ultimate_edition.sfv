@@ -1,5 +1,1 @@
-galciv_avatars.zip 5f9bf418cd5bcd55f57e98cf48167303
-galciv_editor_manuals.zip b6284b21b01d0ac1c585057dae9aa425
-galciv_manual.zip aab84e46a9ebd531bbd434907f0b37a3
-galciv_soundtrack.zip ea98a40ab734dd8914f43faa90b7a755
-setup_galactic_civilizations_2.0.0.4.exe f8c00082e0c8ed0ba1b2d558a163e42d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

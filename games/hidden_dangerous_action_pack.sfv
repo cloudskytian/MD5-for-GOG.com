@@ -1,3 +1,1 @@
-hidden_and_dangerous_deluxe.zip 79e3c7bbb8ee3afabc102dac4ae0ccc7
-hidden_and_dangerous_manual.zip 90b8ad79c1587013ad89aa1ca381cf0c
-setup_hidden_and_dangerous_action_pack_1.3_(gog-10)_(14771).exe 98f8047f5a6b7ac6bb2ebae85d6b848f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-fractured_soul_avatars.zip 2e5ccd3b2c6f1d9c1c94acf7478a2001
-fractured_soul_ost_flac.zip 93bdfcac1231c96f4e04d19ded150f6b
-fractured_soul_ost_mp3.zip 45779733bf03566d4933909d001a2cc5
-fractured_soul_wallpapers.zip cd3dc7eb6071ede225224f9e47eba060
-setup_fractured_soul_2.1.0.12.exe 37407cfa5190351911cf4ed040dec77e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

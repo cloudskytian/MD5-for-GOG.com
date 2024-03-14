@@ -1,4 +1,1 @@
-setup_killer_is_dead_nightmare_edition_1.0_(33373)-1.bin 67a943596fa21fc2c93726440a5ee0c1
-setup_killer_is_dead_nightmare_edition_1.0_(33373)-2.bin 47b3c02c4cc7557d3e19febd841099a9
-setup_killer_is_dead_nightmare_edition_1.0_(33373)-3.bin 6c8d9c41ce68762eac2d1a0100f6dc2c
-setup_killer_is_dead_nightmare_edition_1.0_(33373).exe 059034a907d07006095242aba925d108
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

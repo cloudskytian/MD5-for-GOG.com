@@ -1,5 +1,1 @@
-la_mulana_avatars.zip a62508d7519c08d2f5a54641d41a241e
-la_mulana_manual.zip 403a6ebc3e77c338ca310f78fc78079f
-la_mulana_soundtrack.zip c09812c6764079a192bc13a786db2fd5
-la_mulana_wallpaper.zip a7c5810f2f171a81a7c03a7b16bf895e
-setup_la-mulana_2.1.0.12.exe f2b0529e7e21873ea48d80162b4045e1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-agatha_christie_making_of_english.zip 9574349341cde501986b33524f862074
-agatha_christie_making_of_french.zip e1ef3cfcdcf0b19ea121df9ffa55f684
-setup_agatha_christie_-_the_abc_murders_1.02_(16813)-1.bin 7f8a55b91a560034612af17a7d11adff
-setup_agatha_christie_-_the_abc_murders_1.02_(16813).exe ebf220848169cd607ee295ec7122525b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

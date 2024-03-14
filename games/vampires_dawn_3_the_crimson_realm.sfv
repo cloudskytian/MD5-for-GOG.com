@@ -1,2 +1,1 @@
-setup_vampires_dawn_3_-_the_crimson_realm_1.11g_(62144)-1.bin 835c5626abffacf25a4c7903e9fdc594
-setup_vampires_dawn_3_-_the_crimson_realm_1.11g_(62144).exe b80314ee3de0b452a141bde12ed33cb2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

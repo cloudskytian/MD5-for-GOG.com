@@ -1,5 +1,1 @@
-mba_avatars.zip 8ea358174c36c5aac79b43e5ef782f8c
-mba_blob_sightings.zip da219440e0b0d0c5b3ebb54547ba17a0
-mba_concept_art.zip 22adbbece121d17648eb7f31ce349b7a
-mba_wallpapers.zip 17343ef1674469cad89b5f1db726db3a
-setup_mutant_blobs_attack_2.1.0.3.exe 81392c3220c77d1c9c608409d53b1fdf
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

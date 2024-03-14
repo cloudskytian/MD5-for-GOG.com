@@ -1,5 +1,1 @@
-fear_effect_sedna_artbook.zip a93e9ce65abcaf026251dcc421c53b20
-fear_effect_sedna_ost_mp3.zip 82aaf460c12c3a596f8fd7744389f8bd
-setup_fear_effect_sedna_update_1_(23434)-1.bin 1e798ca8be979af3496301835da90b0d
-setup_fear_effect_sedna_update_1_(23434)-2.bin 66867df374ce1fd1eb85e33ab7eedde9
-setup_fear_effect_sedna_update_1_(23434).exe 3767f814604c90fdfdee575a3ae54388
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

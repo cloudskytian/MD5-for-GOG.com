@@ -1,2 +1,1 @@
-setup_serial_cleaner_1.0.1.0_(13446)-1.bin c561e59a54507961e4534185e28013c1
-setup_serial_cleaner_1.0.1.0_(13446).exe ffba78095018c8fa0ad101154520cc39
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

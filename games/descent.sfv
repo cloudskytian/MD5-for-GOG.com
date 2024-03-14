@@ -1,7 +1,1 @@
-Descent_(MAC_game_soundtrack).zip e9ef5d62130198472ca0097875633f74
-descent_1_manual.zip bd557c4016d3b4b2fe13a3635e576f27
-descent_1_reference_card.zip 0165b36d53cc53d667864811031a6a82
-descent_avatar.zip d07441a757b06a0329aaaccfdceeea01
-descent_soundtrack.zip 39d600efc0fd1c5c9c5d9cdd6a980900
-descent_wallpaper.zip 6c677a62709e0e4e41e640cacc74e958
-setup_descent_1.4a_(16596).exe f10fe49b2e6b9b2ee48b3264d5af0b87
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-TexExpert.zip ce80c7122d697ab8b014a89b43ccb0ac
-mean_streets_detective_information_chart.zip f92e0e822641f0adb583d8d0dbf5cd32
-mean_streets_map.zip 3b1664cc0afed704a91dfb1abd384a56
-setup_tex_murphy_2_-_martian_memorandum_1.0_(28045).exe 3d4ef051bd68eab9cd6a897bb658b16f
-tex_murphy_1+2_manuals.zip bac973812bde7aa292b538417c0a0c05
-tex_murphy_avatars.zip 463a1ef0f7d1d7ec8f19822a9d65f146
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

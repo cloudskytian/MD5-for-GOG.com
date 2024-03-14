@@ -1,5 +1,1 @@
-descent_2_manual.zip 4ad61f80e1dff00bccc4cfe58ff3e9c4
-descent_2_reference_card.zip 46f31de1ffe270e7ec71c77013fe8a8b
-descent_avatar.zip d07441a757b06a0329aaaccfdceeea01
-descent_wallpaper.zip 6c677a62709e0e4e41e640cacc74e958
-setup_descent_2_1.1_(16596).exe f2a5de7dc7b4b521462edb82abe07ae8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

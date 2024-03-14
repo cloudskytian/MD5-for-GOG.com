@@ -1,5 +1,1 @@
-artbook.zip 0337fe16e99f9e9489d2e3f130a2236e
-setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.6_(64bit)_(68851)-1.bin cfc596f6c0410e0c7c6acb44ebad2f7f
-setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.6_(64bit)_(68851)-2.bin 03ee26ba35ae1945d556848a0a7906a9
-setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.6_(64bit)_(68851).exe e88a0c0b9319729fe0ee56ff698c295d
-soundtrack_wav.zip c2aa7e204347a49a037e9bef6cfe06b2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

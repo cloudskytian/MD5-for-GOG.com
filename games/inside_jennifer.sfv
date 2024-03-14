@@ -1,2 +1,1 @@
-setup_inside_jennifer_1.0_(64bit)_(61450)-1.bin b39e0b24a151d03b20c17ecf7ef9f72f
-setup_inside_jennifer_1.0_(64bit)_(61450).exe a15368db3fa3a486a99e81a7704cc7cb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

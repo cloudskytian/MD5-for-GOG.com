@@ -1,4 +1,1 @@
-setup_warrior_kings_2.0.0.5.exe 56641df0116d5aa894c9b91a64c2e532
-warrior_kings_manual.zip 53f38a6713a3006164e1cab259a773df
-warrior_kings_multiplayer_building_tree.zip 6593751da476db88172e9025fe08b9ba
-warrior_kings_units_buildings_guide.zip 4a71e82434c5a4a2da4591d100e2c858
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

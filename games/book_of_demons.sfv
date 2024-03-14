@@ -1,8 +1,1 @@
-book_of_demons_avatars.zip d2dd04dc2ce96e8ae5f2c209b04134e3
-book_of_demons_digital_artbook.zip af86ae93c3a28d49d7ae52d1f29a1ffb
-book_of_demons_digital_poster.zip 57101a75de34ef5d1a86e6025b0ba825
-book_of_demons_prototype.zip ac785f7025df7b6bffed9c9c1e48f228
-book_of_demons_soundtrack_flac.zip 464a039bffef67ef5aebd291ed1b4db1
-book_of_demons_soundtrack_mp3.zip 9cb9b295a30608c311c47c541437ce74
-book_of_demons_wallpapers.zip 95fc91b285685447c56aaac1e03a06bc
-setup_book_of_demons_1.05.221221_(61311).exe fc7148454bba56db0bb1b8942d1bfa85
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

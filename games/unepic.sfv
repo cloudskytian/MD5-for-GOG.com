@@ -1,5 +1,1 @@
-setup_unepic_1.51.1_(20625).exe 9900fcc80267c4a77934e54faa8daa65
-unepic_avatars.zip de278d54d32d56b96a26398fef287bda
-unepic_concept_map.zip c9e192ae68901db82646ecf3bcdd8039
-unepic_soundtrack.zip 9664acd80bfacb295b2abffd70f092b3
-unepic_wallpaper.zip 957291eba73f0c5d15c2d77cc86f3adc
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-setup_shadowrun_hong_kong_-_extended_edition_3.1.2_(a)_(10017)-1.bin 7b9823a0dd0569daad8c0ba6dab877de
-setup_shadowrun_hong_kong_-_extended_edition_3.1.2_(a)_(10017).exe c271a844d3ca0bbb067d69b5492a899d
-sr_hong_kong_artbook.zip b49c6d0cf52dfbd41230117243cd69e0
-sr_hong_kong_ost_mp3.zip d1ff35c01c455a3a0718e81b0b96d18e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

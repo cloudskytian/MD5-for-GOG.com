@@ -1,7 +1,1 @@
-setup_warlords_battlecry_2_1.04_(30487).exe 25cf7418f5b954b97fc0e8b6d32039f2
-wb2_avatars.zip d8e94f380f1569e8de5159707204fab3
-wb2_manual.zip 904a87656014ade7d2e68963bcc9b21d
-wb2_map.zip be5d92efd82e0625bf1e90bc80812111
-wb2_reference_guide.zip 90f874b5946f10b42483fa4e6cfea39b
-wb2_soundtrack.zip e8966557c2e5483a130b118a558793e7
-wb2_wallpapers.zip 228097ea7390519c73af777b42be2ad3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

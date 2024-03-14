@@ -1,5 +1,1 @@
-setup_sniper_ghost_warrior_2_3.4.4_(34092)-1.bin 331cb5cad6157d39a1709b6decdb9616
-setup_sniper_ghost_warrior_2_3.4.4_(34092)-2.bin 169e5a8bc0536137fe942dad0aa53410
-setup_sniper_ghost_warrior_2_3.4.4_(34092)-3.bin 55ee33aaa1878c24891c23b18225a412
-setup_sniper_ghost_warrior_2_3.4.4_(34092).exe 04002f41ef08713f3f761e1e444aec6e
-sniper_ghost_warrior_2_soundtrack_wav.zip 9a27b9c44e8fd5104f90a1663533f50a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

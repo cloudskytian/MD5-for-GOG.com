@@ -1,7 +1,1 @@
-darklands_cluebook1.zip 66b81650c7a8f7e984a7d12a697d4fd0
-darklands_manual1.zip 10f3a41b855cd99d7f405e077a403b88
-darklands_map.zip 483c6149b91faba692b6e5b3a7c45e5c
-darklands_ost_flac.zip 60c814897e186ceea7329f4a0ae3f352
-darklands_reference_card.zip 286e3757fa2f2b90e18eb0a42cc5e04c
-darklands_soundtrack.zip 70a2058dfe92caa0697ba82e76c10101
-setup_darklands_2.0.0.6.exe e5f81838016a1c3512c3249799dc71ba
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-banner_saga_2_ost_flac.zip e19cff315832a0a2b2f4a2e4e69cd430
-banner_saga_2_ost_mp3.zip 904c8a02890b5e5739547c8c1b3d0eef
-setup_the_banner_saga_2_2.61.02_(26518)-1.bin 23e286c4fb3e2dddfe3f14e9adb18016
-setup_the_banner_saga_2_2.61.02_(26518)-2.bin c92aa653bfc7aa345e0fc9ff7b505269
-setup_the_banner_saga_2_2.61.02_(26518).exe 881a1f03bc5a8dfa37bf455541b17576
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

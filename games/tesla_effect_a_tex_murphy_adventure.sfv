@@ -1,7 +1,1 @@
-setup_tesla_effect_-_a_tex_murphy_adventure_1.0_(18562)-1.bin 64aabf4088106a5c9367f3d3704f389b
-setup_tesla_effect_-_a_tex_murphy_adventure_1.0_(18562)-2.bin ef73855c300310edc0b1f9de2e3d2549
-setup_tesla_effect_-_a_tex_murphy_adventure_1.0_(18562)-3.bin 457b11af9c79c027e93f60a7c254babb
-setup_tesla_effect_-_a_tex_murphy_adventure_1.0_(18562)-4.bin 1f5e30b32c6b987972ee6a591aee8bac
-setup_tesla_effect_-_a_tex_murphy_adventure_1.0_(18562).exe 50f0cc9c9c538031ff49fb35fe66996e
-tex_murphy_te_character_renders.zip 2b96459551bf1c96f343fabf673c148f
-tex_murphy_te_wallpapers.zip 950bc4e5a2b077469626ceb2d6872a00
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

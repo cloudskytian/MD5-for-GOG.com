@@ -1,8 +1,1 @@
-lichdom_battlemage_artworks.zip c082439c34f1357c775a2ceafd8dffb2
-lichdom_battlemage_ost_mp3.zip 39c95a8798c94ec524e416e33d1cb7af
-lichdom_battlemage_wallpapers.zip 9c0feec50a3889306ff56f19c0358e0d
-lichdom_soundtrack_mp3.zip e48494e34d33294bb48dbd3b1fc316aa
-setup_lichdom_-_battlemage_64_1.2.3_(18496)-1.bin 1bc8559f45611ff7c27d5d83b18e9acb
-setup_lichdom_-_battlemage_64_1.2.3_(18496)-2.bin a8bbe3bd2fd3dbdac0831fc9234e3e66
-setup_lichdom_-_battlemage_64_1.2.3_(18496)-3.bin 4c8569ab268ead1c0104bf1bda96c467
-setup_lichdom_-_battlemage_64_1.2.3_(18496).exe 0eaf083cd51b74d165c11b2f5db30638
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

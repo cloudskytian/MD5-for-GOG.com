@@ -1,2 +1,1 @@
-setup_brigade_e5_new_jagged_union_1.13_(58108)-1.bin d38452b185a00f1cfab3f8a6e101135d
-setup_brigade_e5_new_jagged_union_1.13_(58108).exe 666c930232b0a029a1b44722dffd393b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

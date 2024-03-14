@@ -1,5 +1,1 @@
-parkitect_avatars.zip 964b252ad3f9ea321c6a508682117dbd
-parkitect_wallpapers.zip b7b97bfe5cef6f24b3897da14f37cc07
-setup_parkitect_-_booms__blooms_version_1.9bc_(64bit)_(71023).exe e3b83bce24354d8babba5b3015211f34
-setup_parkitect_taste_of_adventure_version_1.9bc_(64bit)_(71023).exe 315bd020f01c5fa95ea97301f6b8ce7a
-setup_parkitect_version_1.9bc_(64bit)_(71023).exe 1cf3faf949e7f02049002f545b07b7e1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

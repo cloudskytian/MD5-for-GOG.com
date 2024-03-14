@@ -1,8 +1,1 @@
-heretic_kingdoms_artworks.zip 84767b576517fe570271b6944fa011ac
-heretic_kingdoms_avatars.zip dc4ec10eb5ba5fee0d6e7aafdfb74dc9
-heretic_kingdoms_item_list.zip aa4cc079dc6988cf114e0a216f7c5653
-heretic_kingdoms_manual.zip 948163eb6c6b398434e3eb5f0618bbfa
-heretic_kingdoms_ost.zip 57f5432d89e32f53491bbca0a8174afb
-heretic_kingdoms_wallpapers.zip 3dd2b9637ab3065d6ba2695ace223817
-setup_heretic_kingdoms_1.5_(12276)-1.bin 4a2a44a7246e04bd5df0aff75cedba54
-setup_heretic_kingdoms_1.5_(12276).exe 2d5297a777a93d9894497dc43daa8173
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

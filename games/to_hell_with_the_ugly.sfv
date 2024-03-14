@@ -1,2 +1,1 @@
-setup_to_hell_with_the_ugly_1.2.0_(64bit)_(71555)-1.bin 70e4c83a6451317de364b63e49b59625
-setup_to_hell_with_the_ugly_1.2.0_(64bit)_(71555).exe 84a207def8455b66bb254aa99e746262
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

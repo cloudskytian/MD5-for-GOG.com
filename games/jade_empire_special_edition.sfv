@@ -1,10 +1,1 @@
-jade_empire_artbook.zip 219302b6877c18f224d8ae7cfc362a26
-jade_empire_artworks.zip 4133908695ecf4d95e62bcb6517f3765
-jade_empire_avatars.zip 8da8fba46cff6ab5f853360906739b2f
-jade_empire_manual.zip 47695ba2fc54db3591d9c21e119cdf80
-jade_empire_ost_flac.zip 092c69664565bcebf6a55b12b82e7fdc
-jade_empire_soundtrack.zip 896cf000294146682b3ae254ecab120b
-jade_empire_wallpapers.zip 6a35160a7fef6152c1a981f322c55c30
-setup_jade_empire_1.00_(15538)-1.bin 6470aa8dac5486d7c66336686e2e442d
-setup_jade_empire_1.00_(15538)-2.bin 57f4931e55373a9c994b67d14f43dc1c
-setup_jade_empire_1.00_(15538).exe e68f17f59bde2254ab1e9b70c078e9f1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-setup_magna_fortuna_unrated_v1_(en_1.04_cn_1.02)_(54862)-1.bin 5f4e398ca95bd1138a1806a85a600d85
-setup_magna_fortuna_unrated_v1_(en_1.04_cn_1.02)_(54862).exe 6497577b1e046819c019526ea71eb5ca
-setup_magna_fortuna_v1_(en_1.04_cn_1.02)_(54862).exe 274040f477cc7d2fd8cf755b2f51fcab
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,9 +1,1 @@
-medal_of_honor_artworks.zip 9e3820f834ae92a6aa96c65e72ad4b09
-medal_of_honor_avatars.zip 4801d9d8e003a47588c268848dcf31d9
-medal_of_honor_interviews.zip 34ebbb6e3457eb1dded04ad650220579
-medal_of_honor_manuals.zip 2d717b3b7d9fc88afa12ca8e74cbbe21
-medal_of_honor_strategy_guides.zip dcbb56435f3beadaacb52f9c1e12330f
-medal_of_honor_wallpapers.zip 0c545eb4b4bebc32a88d51a0340083a1
-setup_medal_of_honor_2.0.0.21-1.bin 3030b7213476b14fe52719083792d6ff
-setup_medal_of_honor_2.0.0.21-2.bin a5538ad0837208b065cd8b10229ba717
-setup_medal_of_honor_2.0.0.21.exe 2f5dd640b3994d67fc71995b743cb22c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

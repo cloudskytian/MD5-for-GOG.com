@@ -1,10 +1,1 @@
-setup_grim_dawn_-_ashes_of_malmouth_1.2.0.5a_(71558)-1.bin 11d3e5371bb3b9ecceb0a72b99671a24
-setup_grim_dawn_-_ashes_of_malmouth_1.2.0.5a_(71558).exe 459923324f4f32779885fe03f192fe3a
-setup_grim_dawn_-_crucible_1.2.0.5a_(71558).exe 0e72f92c379e02f4022d7bc2efa36f91
-setup_grim_dawn_-_forgotten_gods_1.2.0.5a_(71558)-1.bin 3199f7442939194091a2d534553b8007
-setup_grim_dawn_-_forgotten_gods_1.2.0.5a_(71558).exe f4e80fca2102e244a47a218171c0f336
-setup_grim_dawn_-_loyalist_item_pack_1.2.0.5a_(64bit)_(71558).exe 15c27f37b2fd04f21ce104e41e56e34d
-setup_grim_dawn_-_loyalist_item_pack_2_1.2.0.5a_(64bit)_(71558).exe fb01c344416df07d6029764ba88e8508
-setup_grim_dawn_-_loyalist_pack_3_1.2.0.5a_(64bit)_(71558).exe 144d20ceda5b081e5a8e702252b845d4
-setup_grim_dawn_1.2.0.5a_(64bit)_(71558)-1.bin c78a59aa61b124030e6d96cabaaabd2d
-setup_grim_dawn_1.2.0.5a_(64bit)_(71558).exe f232c25a9c69a5776dd4ce65b40df6df
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,9 +1,1 @@
-setup_ultima9_2.0.0.14.exe 3ddf43335e9734a25a46940325748619
-ultima_9_artworks.zip 58a5b48aef3b8a37ab39406e81316e05
-ultima_9_avatars.zip f58ad82576bb463b491076f861b1680c
-ultima_9_design_documents.zip 6dba61e065daf6a2e5344c583124c6b2
-ultima_9_tarot_cards.zip e59f326f34483605bd40a7039a3d62a3
-ultima_9_wallpapers.zip cfdf5b36026621d2b1f71971d779adae
-ultima_ix_manual.zip e6908af15b6b636a0fc8ff5045165e43
-ultima_ix_reference_card.zip 1b98e8d66ec77cef1d9dbdffd7cc1e6b
-ultima_ix_spellbook.zip 22a40a013e878fe9eaa25d006bacfccc
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

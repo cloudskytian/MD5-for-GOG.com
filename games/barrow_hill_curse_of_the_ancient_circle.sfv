@@ -1,5 +1,1 @@
-barrow_hill_curse_of_the_ancient_circle_map.zip 490c933f79d9374486aa146caf406466
-barrow_hill_curse_of_the_ancient_circle_soundtrack_wav.zip cd2d18305e5670c12b54726ffc5a5800
-barrow_hill_curse_of_the_ancient_circle_walkthrough.zip 05fbc9bcd7bfcc4f13bba2df131ce83d
-setup_barrow_hill_curse_of_the_ancient_circle_bh1-gog2_(37382)-1.bin 2c01a5ca4ffb78411b87d7a9699c378d
-setup_barrow_hill_curse_of_the_ancient_circle_bh1-gog2_(37382).exe c5cbc186b96c0a24c4bcca872b5a981b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

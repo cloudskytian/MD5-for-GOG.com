@@ -1,4 +1,1 @@
-setup_souldiers_1.2.3_(64186).exe a6ff76e5223d4cfad448730f58b91a28
-souldiers_artbook.zip 1a15858f1cd3b53d304842b2559fc800
-souldiers_ost_mp3.zip 3117947d280f5609e5b814d3575a22ab
-souldiers_ost_wav.zip 39493743b18f9817455dc6abd87d5750
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

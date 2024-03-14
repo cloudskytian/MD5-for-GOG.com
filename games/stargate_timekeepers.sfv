@@ -1,5 +1,1 @@
-setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-1.bin 28ab1287cfe6e911345ef67645629be9
-setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-2.bin 49f11bb58e19f101bbb5715536f6b3f4
-setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-3.bin 1f6506453b002aa4840f91ed7b3376c7
-setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-4.bin 926299ee49003241c7110c26679624a8
-setup_stargate_timekeepers_1.00.25_(64bit)_(71225).exe f2e9717f93d99b14cee2ec190dd613e7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

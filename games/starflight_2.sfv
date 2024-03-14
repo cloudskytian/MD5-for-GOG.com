@@ -1,6 +1,1 @@
-setup_starflight_2_2.52_(28045).exe 41d10807bdcaffd697befe545becc603
-starflight_cluebooks.zip 90344dcd431fcf0e0f7989a6c1bfa38a
-starflight_manuals.zip e21832d66310a3190790a6caab3b4bac
-starflight_maps.zip 3675e55d5afaa83f2da9c4b3ca3ea5b7
-starflight_quickstart_guide.zip 1054bafb0bdbaf391d826163d022e2a6
-starflight_starcodes.zip 1c57c8b8a36ad37540084e3a36f557b8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

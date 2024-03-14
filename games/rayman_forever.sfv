@@ -1,6 +1,1 @@
-Rayman_intro.zip 9807a3b8bcbc1fe52143540fa202df77
-avatars.zip aa8d2778f2663c355d84b8dc7604bd18
-manual.zip d15f129a6bf1e5168963566f70b0e558
-setup_rayman_forever_1.21_(28045).exe 304cca5f14923730c76bb61f669be575
-soundtrack.zip 8dddc0ca50148fa0c1b1597dac171c96
-wallpaper.zip 2610541a76d56acad1fdf3efa1a110ac
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,9 +1,1 @@
-bards_tale_artworks.zip 5df6b9cb912eefabac729d2290d5812f
-bards_tale_avatars.zip 798f784a27d8cfa162cd204163318252
-bards_tale_cluebooks.zip 7916c1aa39ebeb8a5e43707653cf97ec
-bards_tale_manuals.zip bc05d6e780099f32d8c3ef49f1d38226
-bards_tale_reference_cards.zip 245587c1e7fafae083c0a953d349bdff
-bards_tale_soundtrack.zip fcde6a77ff710409155bcd6749c6d575
-bards_tale_wallpaper.zip dd6220f78ba17d15bccf930cd0bd68dd
-setup_the_bards_tale_arpg_remastered_and_resnarkled_2.2.b_(67699)-1.bin 3d9e74a84c24f90692603ea70c417ee6
-setup_the_bards_tale_arpg_remastered_and_resnarkled_2.2.b_(67699).exe 738f802875cfd73ceac41b27301eb8a6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

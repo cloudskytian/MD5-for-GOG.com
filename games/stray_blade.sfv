@@ -1,5 +1,1 @@
-setup_stray_blade_1.7.4_(64bit)_(69136)-1.bin ae058a1e07d225bd47f83d0caf725042
-setup_stray_blade_1.7.4_(64bit)_(69136)-2.bin b525b168587cd01d8f0766cfd7d44330
-setup_stray_blade_1.7.4_(64bit)_(69136)-3.bin dc4e165eee62690827c3f024a0990aca
-setup_stray_blade_1.7.4_(64bit)_(69136).exe f554b80c4236789e86e6aeac19ec4c80
-setup_stray_blade__valley_of_strays_1.7.4_(64bit)_(69136).exe e830d48bb277a53483ee3019ecf41511
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

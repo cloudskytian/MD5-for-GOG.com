@@ -1,2 +1,1 @@
-setup_de_blob_0.28b_(16117)-1.bin 82748b5fd7137b5309cc72a242c26fe7
-setup_de_blob_0.28b_(16117).exe 5fdf4cff82c59ec9565a01785d4c2944
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

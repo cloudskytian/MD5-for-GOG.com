@@ -1,4 +1,1 @@
-dracula_trilogy_avatars.zip 5340c4331d6ce3aeb506bfb01717a33a
-dracula_trilogy_manuals.zip 737c62dfd5c0ae5092e31f15ce83b604
-dracula_trilogy_wallpaper.zip f71f8760de08117477b982c7045fabef
-setup_dracula2_2.1.0.6.exe b2c0b2c4a1e4353ddbcc8e25e875d048
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

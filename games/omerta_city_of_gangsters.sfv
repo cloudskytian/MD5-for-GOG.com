@@ -1,7 +1,1 @@
-omerta_avatar.zip 4312a94f2dd99f38d6b705ee6eaf8f75
-omerta_japanese_incentive_manual.zip f6640c27fb4bb7da09b07f28ca36bfd0
-omerta_manual_.zip faabec2828b9f5628f82205d44c13bda
-omerta_strategy_guide.zip e16f4162890bc75add6d3a12f8572047
-omerta_wallpapers.zip dfa38b3af9a50efb5a976471762e9435
-setup_omerta_-_city_of_gangsters_1.07_(13429).exe 206130787a739ff57914d3dab2f3c063
-setup_omerta_-_the_japanese_incentive_1.07_(13429).exe 0858bf27da1c31bc2ef712030f284bb6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

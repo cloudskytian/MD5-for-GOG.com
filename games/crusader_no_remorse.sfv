@@ -1,6 +1,1 @@
-cnr_anti_terrorist_site_security.zip 66c8af3e0cae72b47181377abe2fb4dd
-cnr_manual.zip a0cccca3fac788594d6d80e4fa6bec51
-cnr_remorse_reference_card.zip 9bd2da93241a3fbb91729e1b2a5a8b4e
-cnr_remorse_resistance.zip f916ec42184d84c4b140342985a53e19
-cnr_remorse_topline_newsletter.zip 5ff9413da6dc388c24382e9f7f0fe7f4
-setup_crusader_no_remorse_121_(28043).exe d3d1e07c8a73d9c32ef0a0acde22c585
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

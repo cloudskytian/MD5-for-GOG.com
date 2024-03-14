@@ -1,11 +1,1 @@
-darksiders_III_ost_mp3.zip 2f303b0c876f3b8fd04ab51832bdcda7
-setup_darksiders_iii_-_keepers_of_the_void_1.4a_(33825).exe 26bdaf8150d03f1c78ba2e9b64d8b962
-setup_darksiders_iii_-_preorder_dlc_1.4a_(33825).exe b238107caa5230b87c8fa6803024a6fd
-setup_darksiders_iii_-_the_crucible_1.4a_(33825).exe 073a3cd287621a70b29beee1a4bae53e
-setup_darksiders_iii_1.4a_(33825)-1.bin 6cfcbc5c7db6f54b9fc55e31c6f88d81
-setup_darksiders_iii_1.4a_(33825)-2.bin 0df665f7a0597e2c760e94430f85137d
-setup_darksiders_iii_1.4a_(33825)-3.bin eb1d816759c14ac14b2af6e93f2c1eae
-setup_darksiders_iii_1.4a_(33825)-4.bin 764ec43ce9bab9725399f4c04f712d1c
-setup_darksiders_iii_1.4a_(33825)-5.bin 9a50b8efe28a8a03dedeea699aa4fb08
-setup_darksiders_iii_1.4a_(33825)-6.bin 8851bdebebbeacf75e77d64c9002f57e
-setup_darksiders_iii_1.4a_(33825).exe 2bd924a5cd655ce572e21485e7e99832
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

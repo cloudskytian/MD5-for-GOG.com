@@ -1,4 +1,1 @@
-setup_starcrawlers_v1.1.4.1_-_04_may_2020_(64bit)_(38046)-1.bin 0964163b9e8263008c75720cf4840a32
-setup_starcrawlers_v1.1.4.1_-_04_may_2020_(64bit)_(38046).exe e512e8dbdec22ee4649d3d09a148d11b
-starcrawlers_avatars.zip 6f0da87013036b77792e83966c95457b
-starcrawlers_wallpaper.zip 1b83275d71d3a197df31d35d10cebe59
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

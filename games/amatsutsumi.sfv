@@ -1,4 +1,1 @@
-setup_amatsutsumi_1.02_(64bit)_(57626)-1.bin 161d5019f50a1e4c72c8b459cbac02c5
-setup_amatsutsumi_1.02_(64bit)_(57626)-2.bin e3acc3cd287b913e5b1d6d986b3b06de
-setup_amatsutsumi_1.02_(64bit)_(57626).exe fa4bf830ccc6806765ea15e169e2b794
-setup_amatsutsumi_unrated_patch_1.02_(57626).exe 33f315c5ec8f184932c9ffd1f7acfad8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

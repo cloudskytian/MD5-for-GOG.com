@@ -1,9 +1,1 @@
-painkiller_artworks.zip bc1b542f11da64ff743c49a5b08dc14c
-painkiller_avatars.zip 3ca305fedfcf2cb9f405f2b5919c4d7b
-painkiller_manual.zip d8ab65c55aca58b69627e5b684ceb7b7
-painkiller_manual_es.zip 1ab9194bd330a25b2c86f3a7c9c80c8e
-painkiller_manual_fr.zip fb04cd96db7375350bdd49be60bbfc7e
-painkiller_soundtrack.zip 5ecdfa9ce311153b932b4d3e40f85f84
-painkiller_wallpapers.zip f47bc5ea9708d5b0d9bba64a7726a9c8
-setup_painkiller_black_1.64_lang_update_(24538)-1.bin 26cf8f833c5b75efb006eac0e731a0af
-setup_painkiller_black_1.64_lang_update_(24538).exe 328381c6d874b5c6822cdcf596b6c00e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,8 +1,1 @@
-blaz_blue_avatars.zip 25cf7852ad53c8af9e1f50cb2fb9d53e
-blazblue_manual.zip 45c473a1a88208140e9f53ceaed24f85
-blazblue_soundtrack_mp3.zip d69843b2c24c73d586a7665076297d7c
-blazblue_wallapers.zip ea6b712c24646f3ebc470ff1e99d1b7e
-setup_blazblue_calamity_trigger_1.0_(18492)-1.bin 1edfa1ec8b22efb3f3d996fafc8b4d36
-setup_blazblue_calamity_trigger_1.0_(18492)-2.bin e6350d43056e3d202fefe22811e72178
-setup_blazblue_calamity_trigger_1.0_(18492)-3.bin f4a96f6012d7015a1dfaaf4557107f04
-setup_blazblue_calamity_trigger_1.0_(18492).exe b3239aad355d9d4a5c32e0df94b25145
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

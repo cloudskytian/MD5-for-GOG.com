@@ -1,5 +1,1 @@
-frogun_artbook.zip 4514fd8d3383341adfb239d8a644bdc9
-frogun_manual.zip 0bc6338be8153c29556ae55e89ea7de7
-frogun_soundtrack_mp3.zip ff6c13cdf7fe866cc5a425ac59152dbb
-frogun_soundtrack_wav.zip 4947e23c821accbfd07546b76b4e31f1
-setup_frogun_1.9.3_(59298).exe 3c8a29b69bd768182dcd4c561e54551f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

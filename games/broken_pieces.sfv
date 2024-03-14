@@ -1,4 +1,1 @@
-setup_broken_pieces_1.3.1_(63183)-1.bin 5c265808a0ca270621ec1dcbd29cdd89
-setup_broken_pieces_1.3.1_(63183)-2.bin 469cfdd87de995cdc8e4d4efcf73a6fe
-setup_broken_pieces_1.3.1_(63183)-3.bin 6f614604a9f0418c2d4651e4887e4e15
-setup_broken_pieces_1.3.1_(63183).exe 70642660562d00b9436977ec98283f79
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

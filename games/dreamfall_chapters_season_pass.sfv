@@ -1,13 +1,1 @@
-dc_sp_wallpapers.zip 1241bceae27827ed98ebb529548a4446
-dreamfall_chapters_avatars.zip c757a226509cd98e37140e8654b7cb19
-dreamfall_chapters_se_artbook.zip d705459d6178d3217d1c3fc43ba4fe41
-dreamfall_chapters_se_map.zip 35495113a51ece5e806e4f47366afe09
-dreamfall_chapters_se_ost_flac.zip 65585c7aa48092b274865034153c9219
-dreamfall_chapters_se_ost_mp3.zip 9e7d3a2d9a52ead4d183c6ecf0aaa0ef
-dreamfall_chapters_the_final_cut_ost_flac.zip 7083201cd50927dab50344dc300ac873
-dreamfall_chapters_the_final_cut_ost_mp3.zip 25255448b498662968a7a0d50525aca6
-dreamfall_chapters_wallpapers_se.zip 8101039a3765635bb87167a2548d39dc
-setup_dreamfall_chapters_5.7.8_(64bit)_(26839)-1.bin 35a2eb3cefec10bfea2a8be1677cade0
-setup_dreamfall_chapters_5.7.8_(64bit)_(26839)-2.bin 9976a712564bedeba9b90458f11517ef
-setup_dreamfall_chapters_5.7.8_(64bit)_(26839)-3.bin 9a9db1d39e8be3f3b6c6b1f544800135
-setup_dreamfall_chapters_5.7.8_(64bit)_(26839).exe 134325c3ca922e70ccaa1913cd98c978
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-mrb_documentary.zip bcc8c2b8fc506436639887d749b81a1a
-mrb_ost_flac.zip c8e55c856ba7dba009e7c05a89725362
-mrb_ost_mp3.zip 5a21fe9ad69a9f1e65b5d8993c53f76e
-setup_mother_russia_bleeds_2.4.0.6.exe 5d4a3a30d3dd36386014f2b011d16a26
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

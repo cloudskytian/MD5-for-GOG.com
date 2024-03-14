@@ -1,17 +1,1 @@
-setup_super_neptunia_rpg_-_additional_party_members_set_1.0_(64bit)_(49837).exe b6e7d9c59850ab0eb1aab1a47a224452
-setup_super_neptunia_rpg_-_animal_ears_and_tails_set_1.0_(64bit)_(49837).exe 13db6eb1245856f2ba1a4f9f05e6b81b
-setup_super_neptunia_rpg_-_cosplay_series_equipment_set_1.0_(64bit)_(49837).exe 906074c7273f894660eeb39ca918fe63
-setup_super_neptunia_rpg_-_dengeki_accessory_set_1.0_(64bit)_(49837).exe ef90a66c30dcf014d0ab04d38e8e61df
-setup_super_neptunia_rpg_-_dengeki_bracelet_set_1.0_(64bit)_(49837).exe bdf341140d3f8844332b55925e9ff125
-setup_super_neptunia_rpg_-_enchanted_series_equipment_set_1.0_(64bit)_(49837).exe 0fe8785bc1b825201392028a32832c62
-setup_super_neptunia_rpg_-_enchanted_weapon_set_1.0_(64bit)_(49837).exe 9bcfaef2ae51f29b40a98ff617890b51
-setup_super_neptunia_rpg_-_famitsu_weapon_set_1.0_(64bit)_(49837).exe 0f5fcd5ae0da002002c93f905d1d1101
-setup_super_neptunia_rpg_-_foreign_series_equipment_set_1.0_(64bit)_(49837).exe 84a1bde7c80cf15f79febce12613c162
-setup_super_neptunia_rpg_-_sentai_set_1.0_(64bit)_(49837).exe 68f0352f4376044d36a5d3586c9ce39f
-setup_super_neptunia_rpg_-_swimsuit_set_1.0_(64bit)_(49837).exe ca9dde1da6f61dd4a475813a273dae34
-setup_super_neptunia_rpg_-_traditional_series_equipment_set_1.0_(64bit)_(49837).exe 7851ef3271648fb973475eabee6c6208
-setup_super_neptunia_rpg_1.0_(64bit)_(49837)-1.bin 0b6f0972df483fe8398b948bf312c698
-setup_super_neptunia_rpg_1.0_(64bit)_(49837).exe 00517d4c42d3b8999b23b9e4392efef0
-super_neptunia_rpg_artworks.zip 05697539cc842b71bacabe6435adf42e
-super_neptunia_rpg_ost.zip ec7f89fc77c842c388ec178b48bd40ab
-super_neptunia_rpg_wallpapers.zip e83350fc3ef96516c5d802c59934e7cc
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

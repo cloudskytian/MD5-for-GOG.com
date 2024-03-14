@@ -1,3 +1,1 @@
-setup_victoria_complete_2.0.0.1.exe 19af9cd77338481db54966a76db5e663
-vc_manuals.zip 286896564888eccf5b67d2f55a4c0271
-vc_wallpaper.zip 835f98b1e004818798c202a14b09592e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

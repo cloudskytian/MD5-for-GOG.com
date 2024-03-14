@@ -1,3 +1,1 @@
-setup_farmers_life_1.0.01_(68555)-1.bin 9698c00578407883366d463fcce7299d
-setup_farmers_life_1.0.01_(68555)-2.bin 4a1e9ed3ed9bfdfbfe21d25243e3b6c9
-setup_farmers_life_1.0.01_(68555).exe 4946c54bd52caf8a3b00ac1ba0b14a8f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

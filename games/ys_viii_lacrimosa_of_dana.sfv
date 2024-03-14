@@ -1,15 +1,1 @@
-setup_ys_viii_lacrimosa_of_dana_-_adols_adventure_essentials_dlc_ph3_update_(latest_patch)_(64bit)_(63373).exe d59d2d85a87f3d273203fc8d3d221c76
-setup_ys_viii_lacrimosa_of_dana_-_free_set_1_ph3_update_(latest_patch)_(64bit)_(63373).exe 77a5d1285304e23d33ff6ff13199fc69
-setup_ys_viii_lacrimosa_of_dana_-_free_set_2_ph3_update_(latest_patch)_(64bit)_(63373).exe b12bf826dcb66ceda3ff5e08fc8a3900
-setup_ys_viii_lacrimosa_of_dana_-_hq_texture_pack_ph3_update_(latest_patch)_(64bit)_(63373)-1.bin 51c37290fed84e48a1abbfc0aeb5a7d2
-setup_ys_viii_lacrimosa_of_dana_-_hq_texture_pack_ph3_update_(latest_patch)_(64bit)_(63373)-2.bin 0292790c6e8c9e2858c4ab0c2af520ae
-setup_ys_viii_lacrimosa_of_dana_-_hq_texture_pack_ph3_update_(latest_patch)_(64bit)_(63373).exe 2822111588590035f6ce3d78af2475ab
-setup_ys_viii_lacrimosa_of_dana_-_laxias__ph3_update_(latest_patch)_(64bit)_(63373).exe f0546375eef191d56d3c159622e4e787
-setup_ys_viii_lacrimosa_of_dana_-_ultimate_resource_bundle_dlc_ph3_update_(latest_patch)_(64bit)_(63373).exe 153558764b91c72293bdb3b75de5e226
-setup_ys_viii_lacrimosa_of_dana_ph3_update_(latest_patch)_(64bit)_(63373)-1.bin f254fcd2efb620e7efb98fb94fd97227
-setup_ys_viii_lacrimosa_of_dana_ph3_update_(latest_patch)_(64bit)_(63373)-2.bin 93102fd9b06edd6be4ca5fd7cf79d869
-setup_ys_viii_lacrimosa_of_dana_ph3_update_(latest_patch)_(64bit)_(63373)-3.bin 905e311ff3c05eab3b650664037d73db
-setup_ys_viii_lacrimosa_of_dana_ph3_update_(latest_patch)_(64bit)_(63373)-4.bin 0470e9b10799fbe481b0a73a92a64a9c
-setup_ys_viii_lacrimosa_of_dana_ph3_update_(latest_patch)_(64bit)_(63373).exe b41ab8c22264f06674e00c4845eab575
-ys_viii_artbook.zip af7b1f3cd97e5fbc9f45c9be69538945
-ys_viii_digital_soundtrack_sampler.zip 036881bf1d092819474633a48ef9d2d7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

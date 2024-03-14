@@ -1,2 +1,1 @@
-setup_viscerafest_0.9.1.3_(64bit)_(61478)-1.bin 43622d29dc4898d0eed32f00e9b1e5ff
-setup_viscerafest_0.9.1.3_(64bit)_(61478).exe 4b7f89f6423b91ba03d2da80965334cf
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

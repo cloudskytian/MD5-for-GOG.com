@@ -1,6 +1,1 @@
-demonicon_manual_de.zip 5a6e4c2bf60f831cdc403ed7df94bec4
-demonicon_manual_en.zip 9064f6ba708a1242423ea76d8018ee36
-demonicon_manual_fr.zip d5b00ca8c4228f1bb33529f45b97e548
-setup_demonicon_1.1_(45947)-1.bin e00af5d0582ac42d9a2edd1e85452ca7
-setup_demonicon_1.1_(45947)-2.bin 984dc19dfedaf7312069d0c8933bc2c4
-setup_demonicon_1.1_(45947).exe 0f7da20c660f28b5a8a79d28d7872464
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-setup_dungeons_of_edera_1.06_(64bit)_(57871)-1.bin 75057adc240cac8c39414f0b67ab8678
-setup_dungeons_of_edera_1.06_(64bit)_(57871)-2.bin a71196416654276c5a4fc3ab6c310d17
-setup_dungeons_of_edera_1.06_(64bit)_(57871).exe e274969c5ca4e88b117d9c0b4a8dbf50
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

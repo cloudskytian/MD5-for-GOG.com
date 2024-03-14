@@ -1,2 +1,1 @@
-setup_nostradamus_the_last_prophecy_1.0.2_(57129)-1.bin 2b56521ff78a421044c9d90975f2779d
-setup_nostradamus_the_last_prophecy_1.0.2_(57129).exe ec96d8c434a2b0db44cbfda0049300c7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

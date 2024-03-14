@@ -1,4 +1,1 @@
-alien_breed_avatars.zip 70892403e4ed65e83423f42c5a970615
-alien_breed_manuals.zip 303ea5b628c16d16453de5f966462457
-alien_breed_soundtrack.zip 3dc937f70ef54a45d7903fc2fc3a97eb
-setup_alien_breed_2.1.0.33.exe 71596541b23beb964ebb085d202ded57
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

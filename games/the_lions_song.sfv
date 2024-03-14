@@ -1,4 +1,1 @@
-setup_lions_song_0.7_(35750).exe 6067beaff4c4cd0d86af352a61daceb5
-the_lions_song_avatars.zip 66c15574ca02d8b6b911bda54550e988
-the_lions_song_wallpapers.zip bac90242cb1136f502095b58dc7c6b9f
-tls_ost_mp3.zip b60f75ad52f572f3adc33e20a0c80380
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-polaris_sector_manual.zip 054cc12e0767b2b53108b87dc8fac030
-setup_polaris_sector_1.06g_(24374)-1.bin 8fbaa3c4d242cf7a8583b1e2adac02af
-setup_polaris_sector_1.06g_(24374)-2.bin 8fcaa01afe5ed2751ef818086af148a9
-setup_polaris_sector_1.06g_(24374).exe e989c69cd23ad1f2df06cff53869f817
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

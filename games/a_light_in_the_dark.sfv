@@ -1,7 +1,1 @@
-a_light_in_the_dark_artbook_CN.zip c7c2879ba731469b183729ee20ad612c
-a_light_in_the_dark_artbook_EN.zip 531b7fd7670ef45c2e253c8a8d6d7808
-a_light_in_the_dark_ost_MP3.zip b1678ca33573c3fe8c3e7c6fc91f0cbd
-a_light_in_the_dark_ost_WAV.zip b965ae8ba9d313ebc65d908e937e5bdb
-a_light_in_the_dark_prologue_manga_CN.zip 639e5faa58bffc57d47cf91c6524c1d3
-a_light_in_the_dark_prologue_manga_EN.zip 34732adfaac230fac54659c033bcc4cd
-setup_a_light_in_the_dark_1.1_(30548).exe d36112535d425252d4661b9ceaefcd48
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

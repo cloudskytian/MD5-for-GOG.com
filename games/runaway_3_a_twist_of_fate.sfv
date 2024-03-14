@@ -1,9 +1,1 @@
-runaway_atof_artworks.zip 94701b958aa45b475b62320c2497f488
-runaway_atof_avatars.zip 850435d48954cc897be57b9b170b88ae
-runaway_atof_manual.zip 223b36e213c60536697b8daac833dae4
-runaway_atof_wallpapers.zip 77837e3a7e834882fafd9a361676100e
-setup_runaway3_2.0.0.9-1.bin bf71685af59d3949babb32fbfe67286f
-setup_runaway3_2.0.0.9-2.bin a705e5fb91dab1fa1e53b05c994c15b0
-setup_runaway3_2.0.0.9-3.bin 8bd3837794ba180a99961c77acc0d544
-setup_runaway3_2.0.0.9-4.bin 746c7d085dd10ae1660069d2e09cde0c
-setup_runaway3_2.0.0.9.exe 9d0ffe72ca94ab0de8f1db2b34958c6f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

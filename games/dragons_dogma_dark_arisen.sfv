@@ -1,6 +1,1 @@
-setup_ddda_1.0.0.18_(12573)-1.bin cdb1b208fc0bc0366174ed42328b7744
-setup_ddda_1.0.0.18_(12573)-2.bin 0ca51b5dc8d87a441e93618850a25725
-setup_ddda_1.0.0.18_(12573)-3.bin 9b07143ab245145a3a72d902f0b09c8b
-setup_ddda_1.0.0.18_(12573)-4.bin ce69e5029562d994ee8af1106c7075d9
-setup_ddda_1.0.0.18_(12573)-5.bin 2885913f09aae1049fae051036181906
-setup_ddda_1.0.0.18_(12573).exe 48188046ce225684f43a3ca455c633f0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

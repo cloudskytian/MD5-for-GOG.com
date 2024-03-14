@@ -1,11 +1,1 @@
-setup_yakuza_6_the_song_of_life_-_clan_creator_card_bundle_1.009a_(64bit)_(65331).exe 24d8d3278444c9dc6769ed26a46f4f50
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-1.bin 28b21ce19be6c9a694a6bdb3751de392
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-2.bin be01c692a9873813f1a66a2d4f68c7b7
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-3.bin 99808bad1835659cbe7a38954a3b7032
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-4.bin 3b31654e1c5c616b6e337bb70d9f7f21
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-5.bin cabc5a7d18713b9e832683e3fb81e965
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-6.bin fea4d44134bf7007d3ae4aa90f7c009e
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-7.bin b18ea0430d51f8d55dc594fe26b5c667
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-8.bin bcbbcb7db23806f7de0a8be3f1c1a502
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331)-9.bin 18876612da01b07b34bfa3a69d679562
-setup_yakuza_6_the_song_of_life_1.009a_(64bit)_(65331).exe a11b26ef0e7f75a070c5fd0ddfa0d371
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

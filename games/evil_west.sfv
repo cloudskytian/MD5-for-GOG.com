@@ -1,11 +1,1 @@
-setup_evil_west_-_wild_wild_east_skin_pack_0.48_(64bit)_(65277).exe 8542e53faa9f9804aec4cba8e7e2ba1f
-setup_evil_west_0.48_(64bit)_(65277)-1.bin 13af314c2ff67e16b404c367e5fdc403
-setup_evil_west_0.48_(64bit)_(65277)-2.bin 4759fb1934e364466109b8601ddff4ba
-setup_evil_west_0.48_(64bit)_(65277)-3.bin bb16d9efbb0c874d5d761d972f79a5c1
-setup_evil_west_0.48_(64bit)_(65277)-4.bin b7b34951554deed36aa8c3c85fddb913
-setup_evil_west_0.48_(64bit)_(65277)-5.bin 585d25c4ef2bfc1edc6084bdb8625768
-setup_evil_west_0.48_(64bit)_(65277)-6.bin 355d9b60a879a6c823d904fa29a3ea00
-setup_evil_west_0.48_(64bit)_(65277)-7.bin b49ef1c3ef864cd056ac2ef4968a374c
-setup_evil_west_0.48_(64bit)_(65277)-8.bin 8bc8abe1d1d799aa9db8c2a4f919fef6
-setup_evil_west_0.48_(64bit)_(65277)-9.bin 48cd37fee24e09ee26f2272200dcd9c0
-setup_evil_west_0.48_(64bit)_(65277).exe 6d3c0d8af2efb1fa50a18f6fcc1d4a6c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

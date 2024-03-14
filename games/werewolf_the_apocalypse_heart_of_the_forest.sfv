@@ -1,6 +1,1 @@
-dev_diaries.zip 607bd941937e6e81ad500cb8d7ed1129
-players_guide.zip 3d199bb3bb5330524a8c6425f282423a
-setup_heart_of_the_forest_1.0.13.2010191537_(64bit)_(42085).exe 917236b6dc4f9ff374c89ae072ceb90a
-wallpapers_mac.zip 6be0cae8519714981c197ed72e63408d
-wallpapers_mobile.zip 5ba7506d6b3731ebb4a005426c9d3ebe
-wallpapers_pc.zip bc0a1bf89e649d97e1778e1cea5acacb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-apache_longbow_manual.zip 9ae5bc3bdab5a618a01f7bf43e5923f8
-apache_longbow_reference_card.zip 318fad9f5743edf762ba5c58327375d4
-setup_apache_longbow_1.0_(28043).exe 93f18e12a7aaea6e51a3caface9ee30f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

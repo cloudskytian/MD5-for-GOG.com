@@ -1,10 +1,1 @@
-setup_syberia3_1.5.07_(16263)-1.bin 233220fefc9729dc0929807b303796b6
-setup_syberia3_1.5.07_(16263)-2.bin 74b45a17b099e37118b60c949138a641
-setup_syberia3_1.5.07_(16263)-3.bin 0f835206b87821446fd93c2c739a285a
-setup_syberia3_1.5.07_(16263)-4.bin 150ed8843be777abd765b79df2aaf314
-setup_syberia3_1.5.07_(16263)-5.bin 67c6e4d76b778f7d5fd02f5df561bb11
-setup_syberia3_1.5.07_(16263).exe 0acae86c6b8731b59813f7e52b65dadd
-syberia_3_avatar.zip 4b3ff924331a0eed412a52ce37b0b900
-syberia_3_ost_flac.zip b54af8f7dbf6db41f84e2c90fac55c3a
-syberia_3_ost_mp3.zip 226c23825d66e4a23cfd153f0cd5da73
-syberia_3_wallpaper.zip b24f97bbfeb45cb1dfd9a8c7a3aac40d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

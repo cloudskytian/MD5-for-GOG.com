@@ -1,6 +1,1 @@
-realmyst_me_dev_images.zip 331d410c47ea3f8356d9c290614dde54
-realmyst_me_manual.zip 127a89878836a78784a590a6ed9127b0
-realmyst_me_wallpaper.zip faa866fdcf2a671b90da06e97c35effd
-realmyst_me_win32.zip 1bd02814e31d6068878fdf2e06fa2a0c
-setup_real_myst_masterpiece_edition_2.2_rev_10535_(64bit)_(23829)-1.bin 038b24ec51a18b325574293d7f2d0ec2
-setup_real_myst_masterpiece_edition_2.2_rev_10535_(64bit)_(23829).exe fcb23e0256ab826e9a2ba9cad00d9a66
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

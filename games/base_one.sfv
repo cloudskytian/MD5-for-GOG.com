@@ -1,3 +1,1 @@
-setup_baseone_release_1.4.0.8_e41965c41_(53424)-1.bin 8869cea679b65978e47ffb90604d3d50
-setup_baseone_release_1.4.0.8_e41965c41_(53424)-2.bin 12e42f1cc9e0c76b0ec834af2ff33de1
-setup_baseone_release_1.4.0.8_e41965c41_(53424).exe a5d52933804314cbf36986f2235d7aa5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

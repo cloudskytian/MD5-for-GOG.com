@@ -1,7 +1,1 @@
-ID2_Avatars.zip a58d62e3096cc0c4ea46567ff508c877
-ID2_Book_of_Spells_and_Table.zip c03990115dcc129dccdc6e161dc17937
-ID2_Manual.zip a28781f5194d957909dca9dec01d1a11
-ID2_Wallpapers.zip ea655d8b2f4b9700714c55e70c9a8e50
-ID2_artworks.zip 5f59371ef2029020244430dfeee7115f
-icewind_dale_2_soundtrack.zip 1370ec8a864e867282e597e9ff2e37e8
-setup_icewind_dale2_2.1.0.13.exe 9a68fdabdaff58bebc67092d47d4174e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

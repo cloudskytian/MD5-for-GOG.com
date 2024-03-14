@@ -1,5 +1,1 @@
-Astalon_arrange_FLAC.zip cfed9aba5fc3aab80e342f08085bb7c1
-Astalon_arrange_MP3.zip d78216485db4828bacc29ae7a987cda5
-Astalon_original_FLAC.zip f22a127afe49e318e873def93957c0af
-Astalon_original_MP3.zip 79c3c6d163425ad816cd9802744b1805
-setup_astalon_tears_of_the_earth_1.1.0_(54536).exe 701bfc913b6866ea1d5a73895d555508
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

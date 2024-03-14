@@ -1,2 +1,1 @@
-setup_battlezone_combat_commander_2.0.185_(29382)-1.bin b5d5589ce8f01a0be38bb8e086d558fd
-setup_battlezone_combat_commander_2.0.185_(29382).exe 1147db8119556f092d3e39886e3007b6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

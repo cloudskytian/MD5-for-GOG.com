@@ -1,2 +1,1 @@
-setup_attack_of_the_earthlings_1.0.4_(64bit)_(20170)-1.bin 7870eebbfd28d10bb554d74e6719a8ac
-setup_attack_of_the_earthlings_1.0.4_(64bit)_(20170).exe 61a4bf52691e2eb2fbe4276db3eac3cd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

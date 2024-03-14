@@ -1,4 +1,1 @@
-setup_the_summoning_1.0_(64bit)_(64979).exe a753855a60b607313f666daffcda7056
-the_summoning_cluebook.zip c6adbbbcc117d0337e06cbfcf6ea17e0
-the_summoning_manual.zip 442db903ca15ea20602936c54b3dab68
-the_summoning_reference_card.zip 128568a6f5882b63a854dad6949761a4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

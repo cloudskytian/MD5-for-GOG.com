@@ -1,2 +1,1 @@
-setup_blade_of_darkness_vsub29b_(64bit)_(63161)-1.bin 9d6ed8bbfc2a01c92fb32f02ec457969
-setup_blade_of_darkness_vsub29b_(64bit)_(63161).exe f85fdf4b18323ec548d988ffd3da5418
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

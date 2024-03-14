@@ -1,4 +1,1 @@
-character_reference_cards.zip be5a45d5c15db964be2d334fced936f1
-dark_legions_manual.zip 666b0bdb52c1a63316914c9672a91b67
-dark_legions_reference_card.zip 882985801f40fc4df3410e9bbea4baa4
-setup_dark_legions_1.0_(64bit)_(64978).exe d47a5e2e5be1de7a528d62fbbb02e11c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

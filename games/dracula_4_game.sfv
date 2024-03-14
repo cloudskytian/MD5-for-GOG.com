@@ -1,6 +1,1 @@
-dracula_4_artworks.zip 86b9cfa83fc282fccda07404bb886e98
-dracula_4_avatars.zip 9d9fe20ede35f0fffa786bc56bdba3b0
-dracula_4_soundtrack.zip 8b9a5b858e2de78f42ef94cb8a4d785a
-dracula_4_walkthrough.zip 771352517f93e9aa81c876605b9a0cbf
-dracula_4_wallpapers.zip 42228a05d3ea71df65aac7f79910854c
-setup_dracula4_2.1.0.4.exe 81b1e2096c16695a65f93a7330eb6b6e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

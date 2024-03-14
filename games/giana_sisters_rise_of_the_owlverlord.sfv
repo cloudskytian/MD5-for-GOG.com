@@ -1,4 +1,1 @@
-giana_roto_avatars.zip f10b93352aa25d6b1f89cc78fb400c1f
-giana_roto_wallpapers.zip 91ebf3c07e78bd15dee5523fbc2f2883
-patch_giana_sisters_rise_of_the_owlverlord_2.1.1.9.exe 9ec038fb32a1e07202cb066cbdc0c13a
-setup_giana_sisters_rise_of_the_owlverlord_2.1.0.8.exe bebb3a09c10b8e34b88b6d9f64dedeab
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

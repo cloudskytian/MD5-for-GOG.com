@@ -1,3 +1,1 @@
-setup_stealth_inc2_2.0.0.1.exe 93c69c3eff57d818a12789f26a99e3da
-stealth_2_inc_soundtrack.zip b0e90a13437d239158bb63da91ff50ff
-stealth_2_inc_wallpapers.zip 39e7469149dc789dfab87bef7933af20
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-setup_starship_troopers_terran_command_-_raising_hell_2.07.01_(68963)-1.bin 5e6481268f21c0cc9784ffcdedda050a
-setup_starship_troopers_terran_command_-_raising_hell_2.07.01_(68963).exe c8d75227b3cf6a55f0742e1c81638eef
-setup_starship_troopers_terran_command_2.07.01_(68963)-1.bin 002270807fd075eb7a411e84979aa827
-setup_starship_troopers_terran_command_2.07.01_(68963)-2.bin c6bb484293a53995ba004fd2fd87aec8
-setup_starship_troopers_terran_command_2.07.01_(68963).exe 005cd9494d12c1e95734e3832ee0660a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

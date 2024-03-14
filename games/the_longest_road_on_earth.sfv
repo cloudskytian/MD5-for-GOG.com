@@ -1,4 +1,1 @@
-master_tracks.zip 21795faced4743082e9e0c08a0063506
-setup_the_longest_road_on_earth_1.0.5_(47341).exe c7d54e27f60d83043f4456b5ecfed22e
-the_art_of_the_longest_road_on_earth.zip edb3debc1df7257c956ac82d44737ccc
-the_longest_road_on_earth_chapter_0.zip d7b1570c0a4c53e3aee693ff394117ec
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_winterember_shipping_1.6.0_526e457_(57261)-1.bin bf2536c32f0f99499372b6b468032507
-setup_winterember_shipping_1.6.0_526e457_(57261).exe 844df8c00b9a6d2651cf784123a455c7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

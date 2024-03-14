@@ -1,3 +1,1 @@
-setup_the_masterplan_1.2.2_(17773).exe b7372cc15f08ec775d49dce8a3d75f59
-the_masterplan_artworks.zip ce17acabce7c221d3b6dfa5537153839
-the_masterplan_soundtrack_samples.zip d39dae2a5eba7c7487e619534fe1893a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,8 +1,1 @@
-foundation_ost_new_flac.zip e5ffa84b49b139bd23e91e01dcd5e2cb
-foundation_ost_new_mp3.zip 7a01888b633840682b8257a53113dfa3
-foundation_ost_new_wav.zip 46c6bcf11f0f750e48762013ceb578fd
-foundation_ost_updated_flac.zip f8db64fb3589d5bc2a031df22c935101
-foundation_ost_updated_mp3.zip a2ecf30aabbc55c3b7db868362b983d2
-foundation_ost_updated_wav.zip e78ca203039902a390d85662ae6696ab
-setup_foundation_alpha_1.9.7.8.0206_(64bit)_(71006)-1.bin 6b03d6bd4ab1afaecb38d6fc209e068c
-setup_foundation_alpha_1.9.7.8.0206_(64bit)_(71006).exe 0915d1482f0d4355699a77b63c11e8e0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

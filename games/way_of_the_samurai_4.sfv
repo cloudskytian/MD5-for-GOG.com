@@ -1,4 +1,1 @@
-setup_way_of_the_samurai_4_1.06.2_(19785)-1.bin 3cce99735b8172d5b2fdf2dd34021cec
-setup_way_of_the_samurai_4_1.06.2_(19785)-2.bin a5185a6577ce683d79c67b644a151bdd
-setup_way_of_the_samurai_4_1.06.2_(19785).exe fda48a0ef45de5010d72181d99529f8b
-setup_way_of_the_samurai_4_additional_sets_1.06.2_(19785).exe fd1929e1a0714197fdbca5df6a28fc79
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

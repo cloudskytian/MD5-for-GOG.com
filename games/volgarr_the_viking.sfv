@@ -1,4 +1,1 @@
-setup_volgarr_the_viking_1.36c_(22311).exe 8ad6eb5873495690c19eea484e8a3075
-volgarr_avatars.zip 302e5bbc9ae7efd6f6e7fd93b09a3dff
-volgarr_manual.zip 5a5a288918a6153bf199e9649a6b3729
-volgarr_wallpaper.zip 32b87ecac2d396a347a082fade974d7b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

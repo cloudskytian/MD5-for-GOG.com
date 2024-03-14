@@ -1,5 +1,1 @@
-fsw_th_avatars.zip d687701cf6cb0d06eb1b16cf02490e45
-fsw_th_manual.zip ecdc13da98f97c9e5eaf5953865a22c3
-setup_full_spectrum_warrior_ten_hammers_2.1.0.6-1.bin 5441e928c95d95fbf2a1fbcd3dfe8f31
-setup_full_spectrum_warrior_ten_hammers_2.1.0.6-2.bin 051135210550707479a58380371bd0a4
-setup_full_spectrum_warrior_ten_hammers_2.1.0.6.exe bcc46c6074d2e496ae8ce52d60170752
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

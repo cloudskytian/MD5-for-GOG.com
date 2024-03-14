@@ -1,2 +1,1 @@
-setup_sid_meiers_railroads_2.0.0.6.exe 65becb026a08da0102bacf5c49bae209
-sid_meiers_railroads_manual.zip b55467f2fd3bf24e5b410dfb948fcc18
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

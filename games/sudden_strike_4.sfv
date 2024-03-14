@@ -1,14 +1,1 @@
-setup_sudden_strike_4_-_finland_winter_storm_1.15.30080_(64bit)_(28385)-1.bin 223654567fe7c035ef8092c099791f47
-setup_sudden_strike_4_-_finland_winter_storm_1.15.30080_(64bit)_(28385).exe 632fb6b6f2e076a73878dce0facb72a9
-setup_sudden_strike_4_1.15.30080_(64bit)_(28385)-1.bin 34afb8c98f79d981dce29010864c5cb9
-setup_sudden_strike_4_1.15.30080_(64bit)_(28385)-2.bin a5823b6dc26cc6a12a1a3e878a9f2f4d
-setup_sudden_strike_4_1.15.30080_(64bit)_(28385).exe af6aea29122fcef9f49722efab36df2f
-setup_sudden_strike_4_africa__desert_war_1.15.30080_(64bit)_(28385)-1.bin 74ad07050fc4e469bf9fa23a2615eedc
-setup_sudden_strike_4_africa__desert_war_1.15.30080_(64bit)_(28385).exe 5255d6e8e8d3de4f3c35d5fa50d53bf8
-setup_sudden_strike_4_battle_of_kursk_1.15.30080_(64bit)_(28385).exe 6fff70fa7412102702763060fca2963e
-setup_sudden_strike_4_road_to_dunkirk_1.15.30080_(64bit)_(28385).exe 61797385f59581141a826d3023b0801e
-setup_sudden_strike_4_the_pacific_war_1.15.30080_(64bit)_(28385)-1.bin 52515a6bea6f6ce0e4133ae98c4c5688
-setup_sudden_strike_4_the_pacific_war_1.15.30080_(64bit)_(28385).exe 9a655481396d758d39ee0ad44c2a580f
-ss4_artbook_pdf.zip f6f128772ce8c7b54af797461fe7ab16
-ss4_soundtrack_flac.zip a3ef930d96053ea79ec8a0224789d108
-ss4_soundtrack_mp3.zip 3aa18df81b0c0bf0102ad8c52ec8a990
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

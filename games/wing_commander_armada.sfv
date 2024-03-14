@@ -1,3 +1,1 @@
-setup_wing_commander_armada_2.0.0.4.exe 164aff2cf8d98e97d86339d6f5fd1536
-wc_armada_manual.zip 85eade90091a4adf1a413a259b92a413
-wc_armada_playtesters_guide.zip 50e0d06e92c4af1e6ba376d3a411998c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-setup_tank_warfare_chewy_gooey_pass_12.30.21_(52718).exe 2162f6a17694cd1b7ac55be7885da698
-setup_tank_warfare_el_guettar_12.30.21_(52718).exe 8b1286401f2f43b98e5736e4534bcf9a
-setup_tank_warfare_longstop_hill_12.30.21_(52718).exe c3885b0d2912701a974f17f69bfe3ea9
-setup_tank_warfare_operation_pugilist_12.30.21_(52718).exe f2f11ac6ae9925b17a0963b8f23dd059
-setup_tank_warfare_tunisia_1943_12.30.21_(52718)-1.bin 968c5c49637f99e12ff79685cfadff77
-setup_tank_warfare_tunisia_1943_12.30.21_(52718)-2.bin 87350ab959cb591cef099a5b19b3d6d8
-setup_tank_warfare_tunisia_1943_12.30.21_(52718).exe 439b71bb1400fbc06fa5ad2f985416a1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

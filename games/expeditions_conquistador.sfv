@@ -1,8 +1,1 @@
-expeditions_conquistador_artworks.zip 20dd6d0319b7f06a2e95a1a6486ac3a8
-expeditions_conquistador_avatars.zip 944bc94f2984ebc13ea748ff7287732f
-expeditions_conquistador_fabula.zip c6abe28249499d88fdb6404d4a9cec79
-expeditions_conquistador_manual.zip 23737847c52752439103ea76c2ac4ad1
-expeditions_conquistador_poster.zip 87efaad93ff3355a1b71fd22e4984514
-expeditions_conquistador_wallpapers.zip 47691612d5c1ee3dd63437f89cb88913
-setup_expeditions_conquistador_1.6.5_(21465)-1.bin 988bfb31357901fcc997734c0387369c
-setup_expeditions_conquistador_1.6.5_(21465).exe 5af1239acda629ea323a827c46b2fbd0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

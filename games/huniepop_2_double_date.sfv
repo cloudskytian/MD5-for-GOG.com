@@ -1,5 +1,1 @@
-huniepop_2_deluxe_art_collection.zip 708c113a190edcd17b4f4e4608008f11
-huniepop_2_deluxe_ost_mp3.zip a67a85fa1388aa54f2a3f30ba06399ea
-huniepop_2_deluxe_ost_wav.zip 4c3af58d81e29a2ba70e19294d3aeea2
-setup_huniepop_2_double_date_1.1.0a_(64bit)_(59528).exe 7b673ff7c9aaa87b6b9500378139a4d7
-setup_huniepop_2_double_date_unrated_1.1.0a_(59528).exe 946a456fa54dab961fa1458fd80413fd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

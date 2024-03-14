@@ -1,5 +1,1 @@
-setup_the_solus_project_1.11_(21588)-1.bin fdbfd67b1a2a2cfb13d3bb33aff3576f
-setup_the_solus_project_1.11_(21588)-2.bin 5f92a15a6b3dfa0d4658309029c7e9c9
-setup_the_solus_project_1.11_(21588).exe 54735e58d154231190b8f906251e9807
-the_solus_poject_wallpapers_jpeg.zip c2bf130fb31d43990c87021c652e0105
-the_solus_project_avatar_jpeg.zip c362e3dd2f816f9527b89c62ad2c8965
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

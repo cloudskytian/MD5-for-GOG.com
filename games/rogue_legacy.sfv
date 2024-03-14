@@ -1,4 +1,1 @@
-rogue_legacy_artworks.zip b632594e8b070243dbf05c78c649dbdf
-rogue_legacy_avatars.zip 790b06a674577ed7c6fe49c176078094
-rogue_legacy_wallpapers.zip 87c40f22dbe8d1c55d75c936282e1c90
-setup_rogue_legacy_1.4.0_(22479).exe d2e6f373023a2767f9c20cc7538a8932
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

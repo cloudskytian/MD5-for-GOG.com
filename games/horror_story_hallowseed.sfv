@@ -1,5 +1,1 @@
-setup_horror_story_hallowseed_1.03_(64bit)_(51518)-1.bin a4e803628863edcd68b69a468c78faeb
-setup_horror_story_hallowseed_1.03_(64bit)_(51518)-2.bin 35e64b6d99c1e185e996cd34a3c01cbb
-setup_horror_story_hallowseed_1.03_(64bit)_(51518)-3.bin 1a75e11c5124716ffcf80a77e19405e6
-setup_horror_story_hallowseed_1.03_(64bit)_(51518)-4.bin 8c51e6228b689b9d304d9facd81f7598
-setup_horror_story_hallowseed_1.03_(64bit)_(51518).exe 11d9945dfe6a3b65d877116b309492d1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,14 +1,1 @@
-setup_starpoint_gemini_warlords_-_cycle_of_warfare_2.040.3_(64bit)_(29435).exe 6bb18adb4d6029eb583a0d33d2e18934
-setup_starpoint_gemini_warlords_-_deadly_dozen_2.040.3_(64bit)_(29435).exe acebf97a8177bbf89b14672e98ccd00b
-setup_starpoint_gemini_warlords_-_endpoint_2.040.3_(64bit)_(29435).exe d92faa31a8422422444cb1a786f596ae
-setup_starpoint_gemini_warlords_-_rise_of_numibia_2.040.3_(64bit)_(29435)-1.bin e08771ae35b80909677b2011c781377e
-setup_starpoint_gemini_warlords_-_rise_of_numibia_2.040.3_(64bit)_(29435).exe 677849848c9ba81f3bebb46029be3072
-setup_starpoint_gemini_warlords_-_titans_return_2.040.3_(64bit)_(29435).exe 108d296d4dbc433fbfd00332e9c10f02
-setup_starpoint_gemini_warlords_2.040.3_(64bit)_(29435)-1.bin 32ea7cd1db44470e5e8564c400f7bce8
-setup_starpoint_gemini_warlords_2.040.3_(64bit)_(29435)-2.bin 02454867078b39cbaeec7a3d287a5dc7
-setup_starpoint_gemini_warlords_2.040.3_(64bit)_(29435).exe bf3aed226790e91c839f93efc9321375
-starpoint_gemini_warlords_artbook.zip 388783a44aac49635aad037ed8f0673a
-starpoint_gemini_warlords_poster.zip cff7b01bf8a34cd00a87716d99691c92
-starpoint_gemini_warlords_soundtrack.zip 4f787d93b3f1e22ba75e4bf03c0d5fe4
-starpoint_gemini_warlords_stream_overlays.zip 79c15a8b4f8b85578c98b3bd9de20b8f
-starpoint_gemini_warlords_wallpapers.zip 0037b0477c175551db44ead70a582735
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-setup_time_commando_1.0_(28045).exe e57d21b0813bb20b8f1937aad16cbc04
-time_commando_artworks.zip 13ef526ad85ab98b8c05d196ab5bb5e2
-time_commando_avatar.zip 148e4d8f19ddf051044073fcf56055a6
-time_commando_manual.zip dcdb0a4507cc68f4302987880e284c87
-time_commando_referene_card.zip 6744358dc94c66ed585745c5964ef904
-time_commando_wallpaper.zip f5132713698be939793c505081be87a8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

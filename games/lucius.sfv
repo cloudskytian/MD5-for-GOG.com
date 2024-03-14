@@ -1,5 +1,1 @@
-lucius_avatars.zip aa00d49173c8593ca59b5ca861d776aa
-lucius_manual.zip 36429693bfc972f1e91c9041725c543d
-lucius_wallpapers.zip e407b1e5ebf86199d0e644e60595a4d1
-setup_lucius_1.043_hotfix_(19092)-1.bin cf97be95a78dbf12584cae413eec7f6a
-setup_lucius_1.043_hotfix_(19092).exe f5955f3788e6fec4b41d972bf4dbc546
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

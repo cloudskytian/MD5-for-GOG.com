@@ -1,6 +1,1 @@
-aven_colony_ost.zip 1f9da8ded5508aa4138d9ff83e4632c3
-setup_aven_colony_1.0.1_(64bit)_(25959)-1.bin 4f24fb8c38d99916a623c46aafc4eeeb
-setup_aven_colony_1.0.1_(64bit)_(25959)-2.bin db96cef3e5ce8e2f160b703d6d81777b
-setup_aven_colony_1.0.1_(64bit)_(25959)-3.bin 0ab31c5b95332e6ab160f55c5fbe0db3
-setup_aven_colony_1.0.1_(64bit)_(25959)-4.bin 2537b2db5c65a3b1ded96e938a864c52
-setup_aven_colony_1.0.1_(64bit)_(25959).exe 959a44c1bb18e8c3342b10d396ae8a53
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

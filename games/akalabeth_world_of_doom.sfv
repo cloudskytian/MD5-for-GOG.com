@@ -1,6 +1,1 @@
-akalabeth_1998_linux.zip 9c549339b300c3bfe73f8430d8fc74af
-akalabeth_1998_mac.zip 6fc5a250913bb5bf4616a66b1decbe8f
-akalabeth_1998_windows.zip 391a4e62cfb301fe9510fc47dab1553c
-akalabeth_manual.zip 4f8317dc475974e3f34b80f47567babb
-akalabeth_wallpaper.zip 546e0afbc7fb8fe7b789d15d78760fc3
-setup_akalabeth_2.0.0.1.exe c9421b7f1f0bde9a17796d346008b3ad
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

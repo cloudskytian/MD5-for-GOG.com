@@ -1,3 +1,1 @@
-setup_whispers_of_a_machine_1.0.6d_(35876).exe 92244849a09e9b47a290618acd9dc9b6
-whispers_of_a_machine_ost_mp3.zip 39bef1ae138ae52f43c2cf18e9017f99
-whispers_of_a_machine_ost_wav.zip 2bd929fb01d08918dc989d55385de24e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

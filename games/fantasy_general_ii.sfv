@@ -1,11 +1,1 @@
-fantasy_general_II_artbook.zip 1a9a1617b50f2b0b81475d112f3b4503
-fantasy_general_II_content_editor_manual.zip c23cdfa108eadedb549de823edc0c91d
-fantasy_general_II_manual.zip 23313bfb913c0ffd5f28c74d6eda8479
-fantasy_general_II_soundtrack.zip 127edf31c97c2dfcb1e49b8ad3156735
-fantasy_general_II_world_map.zip 0c6a6011525a3c7c640d48c4eb21337e
-setup_fantasy_general_ii_-_invasion_01.02.12913_(47650)-1.bin ce4923f59beb2ea49ad5216f6bb06cfb
-setup_fantasy_general_ii_-_invasion_01.02.12913_(47650).exe d38ca14adf03bacf6a35ae7620078699
-setup_fantasy_general_ii_-_invasion_micro_campaign_01.02.12913_(47650).exe dcbedebbf38c525e4b733fff93f06a90
-setup_fantasy_general_ii_empire_aflame_01.02.12913_(47650).exe e304982275105495019d79e232aca807
-setup_fantasy_general_ii_evolution_01.02.12913_(47650).exe 5c092bb5ea24eadb133dee176e9bc4ed
-setup_fantasy_general_ii_onslaught_01.02.12913_(47650).exe e1d6da1fb74824bcc1ceaa17ca14e43b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

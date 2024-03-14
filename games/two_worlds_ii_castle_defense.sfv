@@ -1,10 +1,1 @@
-setup_two_worlds2_castle_defense_2.1.0.9.exe 1b3ded09eecd598df1acbc35b5c213b9
-tw_2_manuals.zip 82281c6f35bca9f0a2383afb2c9d0fb3
-two_worlds_2_artworks.zip 43a5ab049f1684983903b71a93f51735
-two_worlds_2_avatars.zip 57314a4b3e9b2deaa5390ef3483f3aed
-two_worlds_2_maps.zip 6f952a032e5cfd30749169c6bc3d47fb
-two_worlds_2_soundtracks.zip 70b240b9b23982de977ac9ff4ff3601b
-two_worlds_2_strategy_guide_fr.ZIP 60ab1f3863cd2cf038fb05ec8de2ffbc
-two_worlds_2_strategy_guides_de.ZIP 91244e9b194daeb029d8ba9b37a15642
-two_worlds_2_strategy_guides_en.zip e5d3cf52493f2d3d76489b7e3d824ee3
-two_worlds_2_wallpapers.zip dee5582bab0270df32a974b139ccd232
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-setup_operation_wolf_returns_first_mission_vr_0.30_(67548)-1.bin b92766433e47c523a189160e39f1ec0d
-setup_operation_wolf_returns_first_mission_vr_0.30_(67548)-2.bin 001779ac87dc77a60e2bcfe180546ff6
-setup_operation_wolf_returns_first_mission_vr_0.30_(67548)-3.bin 17d458dcaffc8650143663187d4c5dcd
-setup_operation_wolf_returns_first_mission_vr_0.30_(67548)-4.bin 2ffc13dd0df511a9decf6b8e0e2d25f7
-setup_operation_wolf_returns_first_mission_vr_0.30_(67548).exe 11018897720c65bcd2c65413fec28f63
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

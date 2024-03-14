@@ -1,4 +1,1 @@
-setup_swat4_gold_2.0.0.4.exe 410992ea13187156a8632fead5c38d0e
-swat_4_expansion_manual.zip 7cac3e58e2605670c7a8f4c22dacf707
-swat_4_manual.zip 42ff1629fe53485537e72efed0790716
-swat_4_wallpaper.zip ad47ac89ad3020c288c9ff73405c4dff
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

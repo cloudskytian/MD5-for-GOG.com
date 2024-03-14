@@ -1,5 +1,1 @@
-dice_legacy_ost.zip f28afdc24af99bb29c207e56d94fd331
-dice_legacy_ost_mp3.zip 54a3d2e58f3f03d3ad379e9fbe9f8145
-setup_dice_legacy_2.0.11_(64bit)_(55015)-1.bin b2facfe05f25db4d85f2286a7a836cab
-setup_dice_legacy_2.0.11_(64bit)_(55015).exe 59b15e84e6c85809ebc45da92b03d1af
-setup_dice_legacy_corrupted_fates_2.0.11_(64bit)_(55015).exe 441f244e10cb52e69a0514a1a570a827
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

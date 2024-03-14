@@ -1,9 +1,1 @@
-humblewood_rpg_booklet.zip fe54edb27eea79face3bda34397cc144
-humblewood_rpg_character_sheets.zip 2b29f08652cd3a0612c2cf4842b4d88a
-humblewood_rpg_maps.zip 80ab2b1d9171e823f51d2804180a444b
-humblewood_rpg_maps_poachers_note.zip 9dde84b9e3a05c5ecfa202ecbfb6d611
-humblewood_rpg_reference_cards.zip b7fd74708c991cb87398be8eb1e762f7
-setup_untamed_tactics_-_humblewood_dlc_1.0048_(64bit)_(68629).exe f364acef79479a079bb2ca44cfab2809
-setup_untamed_tactics_1.0048_(64bit)_(68629)-1.bin ac32d28a87781f842a4b0ea9fd107ab6
-setup_untamed_tactics_1.0048_(64bit)_(68629).exe 8bb2b743891a004b2d62fc3c3f515335
-untamed_tactics_soundtrack_dlc_mp3.zip 8c5204d4abe0d45b86f9090b2ae560c4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

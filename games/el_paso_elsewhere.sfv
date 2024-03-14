@@ -1,4 +1,1 @@
-el_paso_elsewhere_the_rap_album_FLAC.zip ef9ba27ccc0506dd00badac4ff4bc3f0
-el_paso_elsewhere_the_rap_album_mp3.zip efaa0850c6436f4ac2610941e5e774f2
-setup_el_paso_elsewhere_15_(64bit)_(69402)-1.bin 6d07979f61129bf34ed1e5b7f7e49945
-setup_el_paso_elsewhere_15_(64bit)_(69402).exe 03e67ae67f265fff988b9d3ef186f637
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

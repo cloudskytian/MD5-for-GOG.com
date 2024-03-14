@@ -1,4 +1,1 @@
-a_tale_of_paper_refolded_soundtrack_flac.zip 8a1741674f25a01419712e31a29e425c
-a_tale_of_paper_refolded_soundtrack_mp3.zip 2062cffc45962babcc47c7fd1b4f8bbd
-setup_a_tale_of_paper_1.0_(56083)-1.bin 664731f03da4cffe8a9771d298476cb2
-setup_a_tale_of_paper_1.0_(56083).exe 8a1acfc78e34a89ce608e275674a829a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

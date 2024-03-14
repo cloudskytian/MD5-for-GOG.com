@@ -1,6 +1,1 @@
-gothic_3_artworks.zip d5356c1b81f7fa01fe290fe0c5bf4046
-gothic_3_avatars.zip 709aa2ebcdd13803965cc96aa4449b45
-gothic_3_manual.zip 0e12f0fe31b3f66286dc4abb9f5d5279
-gothic_3_wallpaper.zip 1606e85350edd0214cea7a4c0879d072
-setup_gothic_3_1.75.14l_(21829)-1.bin b1c45cf9a8d5528aaa070337d5513c62
-setup_gothic_3_1.75.14l_(21829).exe ceb81ef89b0ab8aaa697b1e62e7bb30a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

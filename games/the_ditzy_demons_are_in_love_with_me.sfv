@@ -1,7 +1,1 @@
-opening_ending_themes_flac.zip c3c01b79420b1322d46b1b6123312c8a
-opening_ending_themes_mp3.zip 5d59e1d8275c1d35d2db6442ad2f621d
-setup_the_ditzy_demons_are_in_love_with_me_-_18_adult_only_content_1.02_(57575)-1.bin eccdccd1c3ec6ff8d9b5c88417baa56c
-setup_the_ditzy_demons_are_in_love_with_me_-_18_adult_only_content_1.02_(57575).exe a1da03fd58d95ea87c542be9e9aa9240
-setup_the_ditzy_demons_are_in_love_with_me_1.02_(57575)-1.bin ead3d3b8fd469493035819b1bb155a7e
-setup_the_ditzy_demons_are_in_love_with_me_1.02_(57575)-2.bin 2f5dd99843ec574b0ade9e39b4f11175
-setup_the_ditzy_demons_are_in_love_with_me_1.02_(57575).exe 1c7741930e6372d8ec38d22ea22982cd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

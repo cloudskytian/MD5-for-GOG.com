@@ -1,4 +1,1 @@
-setup_the_binding_of_isaac_afterbirth_1.0.1.0_(54718).exe 9cdb71b69a9b25e69df3f9dcdab2de9f
-setup_the_binding_of_isaac_afterbirth__1.0.1.0_(54718).exe 23558f5eb97895659b5e594595aad247
-setup_the_binding_of_isaac_rebirth_1.0.1.0_(54718).exe 2e30949d6bc26c25692403daec6de446
-setup_the_binding_of_isaac_repentance_1.0.1.0_(54718).exe b8eeaeb46b3b2ddb5aa6e04729d8085e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

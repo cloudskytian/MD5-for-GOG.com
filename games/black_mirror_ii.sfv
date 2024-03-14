@@ -1,6 +1,1 @@
-black_mirror_2_handbuch.zip 2ea0f2ee10e7148dd200195892130f12
-black_mirror_2_manual.zip 4720ed08907de8bb9561b3a9be5dff21
-black_mirror_2_ost.zip 74f1b7f90f8a3e7e99469826fd1b074f
-black_mirror_2_wallpaper.zip 67125fc3af9f36023e1ab1e9e93548bb
-setup_black_mirror_2_1.0_(25641)-1.bin b3e170941714bb2ddc42f4f000a4f89e
-setup_black_mirror_2_1.0_(25641).exe a1baec5d16a98001d006d75b90c67a30
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

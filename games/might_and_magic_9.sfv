@@ -1,6 +1,1 @@
-mm9_avatars.zip 60badf9c19997a235dc5b18a12438c49
-mm9_manual.zip 6dabb0f78af2b241f809cc09e09a4fd0
-mm9_map.zip cfb3fe4023bcb5b18ff6928fc3af0802
-mm9_ost.zip 79d6084de58848a1ded9c52c0620cf7e
-mm_9_ost_flac.zip 950fb7d3c870d20d54ad410212530d80
-setup_might_and_magic_9_writ_of_fate_1.3_(31712).exe fd14a924536a70b7b430579a6da112bb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

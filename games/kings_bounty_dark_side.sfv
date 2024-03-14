@@ -1,9 +1,1 @@
-kings_bounty_dark_side_artwork.zip 1518cd57e0acb0abc07911773051353b
-kings_bounty_dark_side_avatars.zip da127d609c9a0bb44a7fe28889a73a71
-kings_bounty_dark_side_manual.zip 7b1d54e89694c244a0c8c37e982be5c9
-kings_bounty_dark_side_ost.zip 4ad25691d4c78cb2c00db5195f516770
-kings_bounty_dark_side_sketches.zip 7b6b04569033af853f3450a1976665a8
-kings_bounty_dark_side_wallpapers.zip 4bfc227028b6d400e80402dd1c13f148
-setup_kings_bounty_dark_side_1.5_(15533)-1.bin ff205723f098f2fe2b996c51c55df2f7
-setup_kings_bounty_dark_side_1.5_(15533).exe ec4dd3c9fe019d864d7b1cfcbcc4c0c8
-setup_kings_bounty_dark_side_premium_edition_1.5_(15533).exe 18cf2a9f8394edf2ac8f2cc1c78376b4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-setup_perish_6870_shipping_(64bit)_(65675)-1.bin 538c9929b21820f38f0b48524672e5f8
-setup_perish_6870_shipping_(64bit)_(65675)-2.bin 78bb457736fd196e8c7f2cbae1dff8ab
-setup_perish_6870_shipping_(64bit)_(65675).exe 81db29e9c1dbe4f593190f0e6fabb5de
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_waking_1.1_(39323)-1.bin d0036eb7087e32aaaab64708efdb2621
-setup_waking_1.1_(39323).exe 88dc03a015e4d84c35e447b00b9ca0e8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

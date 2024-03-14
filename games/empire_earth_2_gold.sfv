@@ -1,5 +1,1 @@
-ee2_Artworks.zip a0721c663bffc326553c92c284cb8643
-ee2_avatars.zip 862e8c5e2a9799c09f33ffccd3122d57
-ee2_manuals.zip 15c126712decf3d91364f6430f829d22
-ee2_wallpapers.zip 0f23a3e33908896d4977265d042b95ff
-setup_empire_earth_2_gold_edition_1.2_(54517).exe 37c8c058b102688fe2a40546b618287b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

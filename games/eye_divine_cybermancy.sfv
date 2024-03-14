@@ -1,2 +1,1 @@
-setup_e.y.e_divine_cybermancy_e.y.edc_gog_1.01_(51327)-1.bin ec07c48742e2d749c4c7ec7b3a0190b6
-setup_e.y.e_divine_cybermancy_e.y.edc_gog_1.01_(51327).exe 7543ec62074493c5b807e5341364d77b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

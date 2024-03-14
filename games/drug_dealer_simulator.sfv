@@ -1,4 +1,1 @@
-setup_drug_dealer_simulator_1.2.23_(64bit)_(60733)-1.bin 13ff78885e0f9cab74d75f1520205d56
-setup_drug_dealer_simulator_1.2.23_(64bit)_(60733)-2.bin 0744fb3e43cecc1ce47daf694aa87587
-setup_drug_dealer_simulator_1.2.23_(64bit)_(60733)-3.bin 85d143ee9baf77f75c8124075a364630
-setup_drug_dealer_simulator_1.2.23_(64bit)_(60733).exe 20c8f465014dae8e45c7835b1e1af20e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

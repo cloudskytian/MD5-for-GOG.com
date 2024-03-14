@@ -1,3 +1,1 @@
-setup_sword_of_the_stars_1.8.1_(19833)-1.bin 21b2a24b60c24083ebea6e93b412b478
-setup_sword_of_the_stars_1.8.1_(19833).exe 292bdaade12d4b7785fa4758d03a5548
-sots_cc_manual.zip d246d19985630acdaf880ddbda525d8f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

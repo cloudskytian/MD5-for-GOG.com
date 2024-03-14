@@ -1,2 +1,1 @@
-setup_mulaka_1.0.1.3_(64bit)_(21299)-1.bin 0c9fe5c3b679ec3ec0362aedf89e4d29
-setup_mulaka_1.0.1.3_(64bit)_(21299).exe 0a4175ba3b32d69b7e1ad9f9b51077c0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_voyage_journey_to_the_moon_1.04_(57126)-1.bin 3f4c928885868d407aa2d2f5b6147d26
-setup_voyage_journey_to_the_moon_1.04_(57126).exe 86d65f29927bc30826b13f752a6a491a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

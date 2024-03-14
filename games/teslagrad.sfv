@@ -1,4 +1,1 @@
-setup_teslagrad_2.3.0.7.exe ba706e92ff31833102e6c73ae966780a
-teslagrad_artworks.zip 03baa39f0b47aae33b28947a6b807c21
-teslagrad_avatars.zip 722d557d07956458a48c772eccb76f0a
-teslagrad_wallpapers.zip 5f709c726f8ebe292a18302b273e2498
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

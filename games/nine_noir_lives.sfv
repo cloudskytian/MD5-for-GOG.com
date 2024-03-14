@@ -1,5 +1,1 @@
-nine_noir_lives_soundtrack_flac.zip 4f4b51949b0103826a2cce6a2c87be69
-nine_noir_lives_soundtrack_mp3.zip 59cec8011f443b889cb21a76d4eab1e6
-setup_nine_noir_lives_1.0.12_(58999)-1.bin c25e7d9dd29ae78cc0ee964f625ec765
-setup_nine_noir_lives_1.0.12_(58999)-2.bin a6909d4d29a801c15cb1868e4c180b9d
-setup_nine_noir_lives_1.0.12_(58999).exe 44ae8e4710ea1ce6d13a069be4862c45
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

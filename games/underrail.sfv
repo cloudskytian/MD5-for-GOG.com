@@ -1,8 +1,1 @@
-setup_underrail_1.2.0.14_(69808)-1.bin 7b5bf2e243e686e229efc3bbcddd9c84
-setup_underrail_1.2.0.14_(69808).exe e7dcb4d9360cc59f1f11d38e50aa0a54
-setup_underrail_expedition_1.2.0.14_(69808)-1.bin 1f5a572cb272f469ede63397441656f1
-setup_underrail_expedition_1.2.0.14_(69808)-2.bin 35e6925238a023867408c11e6c054d9a
-setup_underrail_expedition_1.2.0.14_(69808).exe a01813deb0ef00c8ba1f7834b5e466f6
-setup_underrail_heavy_duty_1.2.0.14_(69808)-1.bin ec90c25c7d3ff955a2944b26e73876ad
-setup_underrail_heavy_duty_1.2.0.14_(69808).exe 0895363db31d9f58e309785816b8d4c9
-underrail_ost_mp3.zip f90ab6d55748e3991ab368896144d8ea
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

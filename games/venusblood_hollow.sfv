@@ -1,4 +1,1 @@
-setup_venusblood_hollow_international_1.06_(18)_(53475)-1.bin 0fb4e557fb91f1a24073c57a98515b50
-setup_venusblood_hollow_international_1.06_(18)_(53475).exe f8636dd192ddccea1e9fe086d735d7c7
-setup_venusblood_hollow_unrated_patch_1.06_(18)_(53475)-1.bin a9ca01ee2a603b42bf0ac7587e140c24
-setup_venusblood_hollow_unrated_patch_1.06_(18)_(53475).exe 58d1138fd7f478f07f0c1745c1599aad
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

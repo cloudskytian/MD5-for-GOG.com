@@ -1,6 +1,1 @@
-setup_hextech_mayhem_a_league_of_legends_storytm_1.22.08.19_(9350875)_(58612)-1.bin e95522a1447b2f3a16862ef76e60a904
-setup_hextech_mayhem_a_league_of_legends_storytm_1.22.08.19_(9350875)_(58612).exe 78ba0c2790722d9f0ebc851fa92e9abb
-setup_hextech_mayhem_boombox_1_popstarz_1.22.08.19_(9350875)_(58612).exe 840a6b52b9041164c44e40b75a26c0fa
-setup_hextech_mayhem_boombox_2_zegends_never_die_1.22.08.19_(9350875)_(58612).exe 478f2f281cdcd1d690683bb60e604179
-setup_hextech_mayhem_boombox_3_get_zinxed_1.22.08.19_(9350875)_(58612).exe 57d3147436da8b229c9dcf44b76e3368
-setup_hextech_mayhem_ruined_ziggs_skin_1.22.08.19_(9350875)_(58612).exe d4faebb6e6cc98fdd9e9096c77d39584
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

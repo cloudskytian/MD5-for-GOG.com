@@ -1,6 +1,1 @@
-expeditions_viking_art_book.zip ee8ed25878c9466c553e54f8abf726ed
-expeditions_viking_ost.zip 6466ece74d1b902ab61d6e4d6cfecd22
-setup_blood-ice_1.0.7.4_(19111).exe 97ed1a1988a4100a90809d1d11ba7bfe
-setup_expeditions_viking_1.0.7.4_(19111)-1.bin 1a62dce3a32d0d596bd708a259771a12
-setup_expeditions_viking_1.0.7.4_(19111)-2.bin b2791ee5edaa1c5ed93762d638ddec39
-setup_expeditions_viking_1.0.7.4_(19111).exe 374cf77dbe7df8d2060ca69dd0dad072
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

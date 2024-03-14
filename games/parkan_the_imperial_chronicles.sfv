@@ -1,4 +1,1 @@
-parkan_manuals.zip c21a6f8f89590e3710ce080d4a984c90
-parkan_soundtrack_mp3.zip 5e0b698875473258ea2e241a7721715d
-parkan_wallpapers.zip 019a5df8db790071d017497a52f455c4
-setup_parkan_the_imperial_chronicles_2.0.0.6.exe 9e842b312774640b1184056f3c05003f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

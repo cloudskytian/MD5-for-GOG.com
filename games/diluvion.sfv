@@ -1,11 +1,1 @@
-diluvion_artbook.zip 11c329120550a4ba6b528dd07da7faca
-diluvion_avatars.zip 6fdb99cd6644c4f2201c6e71b673231c
-diluvion_captains_journal.zip ae0fa3cadd58059c59831c5be9760c2e
-diluvion_ost_mp3.zip 2d83882ee8f6a3e54513f922fa11e69e
-diluvion_soundtrack_flac.zip 74ce45dd45da378ee983c6ad2dffe7f2
-diluvion_wallpapers.zip ebfa8f7d8425a196f5ea0441e45fbe8e
-dilvion_wallpaper.zip c8849f80af73772c8f627df2b6506fe4
-setup_diluvion_1.2.33_(24029)-1.bin f9c415d49c753e6506a7b41f82dbaf83
-setup_diluvion_1.2.33_(24029).exe b52c53891dc43736984624107b6db410
-setup_diluvion_fleet_edition_upgrade_1.2.33_(24029).exe 5309bb91caa134b2f2a4815669b6ad66
-setup_diluvion_pre-order_exclusive_1.2.33_(24029).exe d90c0477b847df31d4d7dd431a2e06bd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

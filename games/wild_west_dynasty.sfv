@@ -1,3 +1,1 @@
-setup_wild_west_dynasty_0.1.8632_(64bit)_(68723)-1.bin e53c6a498e9e8a93fb943f8df0b98655
-setup_wild_west_dynasty_0.1.8632_(64bit)_(68723)-2.bin 2e3b80f8c6abd8116daf624b12da70bb
-setup_wild_west_dynasty_0.1.8632_(64bit)_(68723).exe 111b712c689650d370620a03a01bb73b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

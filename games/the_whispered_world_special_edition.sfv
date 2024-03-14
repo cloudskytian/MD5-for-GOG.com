@@ -1,10 +1,1 @@
-setup_the_whispered_world_se_3.2.0419_(16237)-1.bin b448bf0277472df33374a486f45eef79
-setup_the_whispered_world_se_3.2.0419_(16237).exe 88589c804f8e219d109eac5a107f534d
-the_whispered_world_se_artworks.zip 3678cf81c8e211c5845a917452836a80
-the_whispered_world_se_avatars.zip 6f4b5448352032cb8538d8bdeff570ae
-the_whispered_world_se_handbuch.zip 8aec9d78c2146e12184b67f1049f42ea
-the_whispered_world_se_making_of.zip 08b5a72f2c6113cb12b414ab52803f18
-the_whispered_world_se_manual.zip c894c321abdc9785951934d557f11846
-the_whispered_world_se_manual_es.zip 75f1a67ca351aa97e51aed60fc676752
-the_whispered_world_se_soundtrack.zip 54cd47b44cfd71c75f7204b6789a4a69
-the_whispered_world_se_wallpapers.zip c3ae7b4bec667b766c7d6c9c48857861
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

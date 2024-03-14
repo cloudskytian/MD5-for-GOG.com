@@ -1,7 +1,1 @@
-Calendar.zip 95c0b1057c76dd65846ff4fe3a404aa6
-GuideBook.zip bea5fbd4ae7e13a3487b7103184a51fd
-Soundtrack.zip 741e9c7b38d92d040a2aebfdaa311ed1
-Wallpapers.zip e472fe15b2efa705a2116ca69028f7e0
-setup_harvest_days_my_dream_farm_-_digital_supporter_pack_0.9.9-dsp_(66540).exe 203eecfb4f50d0d58253bfa922316e0c
-setup_harvest_days_my_dream_farm_0.9.9-dsp_(66540)-1.bin 4fc808870ca876b76f1ea0e4f4f857ba
-setup_harvest_days_my_dream_farm_0.9.9-dsp_(66540).exe 7574ff1b9cc942ab87320a110f5ca6c1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

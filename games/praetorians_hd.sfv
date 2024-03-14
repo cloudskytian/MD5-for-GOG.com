@@ -1,2 +1,1 @@
-setup_praetorians_hd_20200527_(64bit)_(38601)-1.bin 8ad057545d109c87f29e48a080fb1759
-setup_praetorians_hd_20200527_(64bit)_(38601).exe d3c35b3ad586102f87ed62aae458850e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-before_we_leave_official_soundtrack_flac.zip 808ed1da50677d12a6f3f9b4989043f5
-before_we_leave_official_soundtrack_mp3.zip 1b77dc2b7e0396413fb18fa0755ce42b
-setup_before_we_leave_1.0340_(63153).exe 7163747dfaec1b357e236b3b8c399149
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,8 +1,1 @@
-achilles_legends_untold_mythic_hero_figurine.zip 699d91890ed3d0dafbe8d09a45627cc0
-setup_achilles_legends_untold_-_3d_print_achilles_model_1.0.7_(64bit)_(70399).exe 6c0daf946c40d1c1ed9b26d22006928a
-setup_achilles_legends_untold_1.0.7_(64bit)_(70399)-1.bin acd56cb444f0939da184d0106d02a30f
-setup_achilles_legends_untold_1.0.7_(64bit)_(70399)-2.bin b83d07de8848ddd2d6cb4ea405a586a1
-setup_achilles_legends_untold_1.0.7_(64bit)_(70399)-3.bin f5ad0f154934e7b0a6d03cc98c41038f
-setup_achilles_legends_untold_1.0.7_(64bit)_(70399)-4.bin 281d3aa4f2364e7fe6224a9e65e3529d
-setup_achilles_legends_untold_1.0.7_(64bit)_(70399)-5.bin d78ceb5e30bbd8f74068fcd536605467
-setup_achilles_legends_untold_1.0.7_(64bit)_(70399).exe 6083476d4b2d1f05836e791eeb6ef5cf
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

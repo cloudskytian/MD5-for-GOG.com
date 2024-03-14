@@ -1,5 +1,1 @@
-dtm_avatars_png.zip 1b3ee1dd2860ab1a48e7e00a89b39b95
-dtm_ost_mp3-1.zip 39c7c90c61c94f6703393f41c61eda67
-dtm_scarlet_nova_calendar.zip 13d1a24c7c586d9bf2c05e5b3ec97b43
-dtm_scarlet_nova_calendar_2017.zip c1e53fff63317cc1a7a144deeeb71642
-setup_the_deadly_tower_of_monsters_1.05_(a)_(12082).exe e959b548109aef21103fdbccc6bfc363
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

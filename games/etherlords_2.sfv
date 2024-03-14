@@ -1,6 +1,1 @@
-etherlords_2_avatars.zip 4dc04e89b948752d85873128d252d5eb
-etherlords_2_manual.zip e29b336a5032ffba25744f96bc4ba745
-etherlords_2_reference_guide.zip ac03da565566595f818670facb5a271b
-etherlords_2_soundtrack.zip e2b7e452ba87c3dec2230f3dccf3dc80
-etherlords_2_wallpapers.zip eb976a804a6f867a321aa22c095b1c8a
-setup_etherlords2_2.0.0.3.exe 48d04fe530848c02baf5d3c2cec3fc79
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

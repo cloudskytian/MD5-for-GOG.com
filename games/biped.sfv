@@ -1,2 +1,1 @@
-setup_biped_1.6_(39586)-1.bin 48103181d4c54a068db5eec37e10d7e5
-setup_biped_1.6_(39586).exe c58ee9791defa88ef1bb92ba3b2f01d2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_warhammer_40000_dawn_of_war_-_winter_assault_0.19_(64626)-1.bin 61e354453cb8638b995f5ed17a4bdbbd
-setup_warhammer_40000_dawn_of_war_-_winter_assault_0.19_(64626).exe 223385b79c6ee7eb691248a943eb53fa
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

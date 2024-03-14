@@ -1,5 +1,1 @@
-setup_riddle_joker_gog_1.0_(55932)-1.bin 86055923089cfa07ada2c1c1caca00aa
-setup_riddle_joker_gog_1.0_(55932)-2.bin 286827da50c02de7910db4d659a0376b
-setup_riddle_joker_gog_1.0_(55932).exe 8d1ebcc4a6a6e9c28329be0b69bb9dc6
-setup_riddle_joker_unrated_gog_1.0_(55932)-1.bin 6642e77914ef4881bd9c06313864c360
-setup_riddle_joker_unrated_gog_1.0_(55932).exe 1083d03d6b447adccbf973143edccaf5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

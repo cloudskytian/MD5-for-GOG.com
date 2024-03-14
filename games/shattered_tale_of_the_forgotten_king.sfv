@@ -1,4 +1,1 @@
-setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470)-1.bin ee5bf5d8af23c99212487baa84356dfa
-setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470)-2.bin 887746952e585ed81274973eb7cd3059
-setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470)-3.bin 02e581db8b1347fb0bd100dcd6e745d9
-setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470).exe 4871c9c8b15861e6e1448543c09ff333
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

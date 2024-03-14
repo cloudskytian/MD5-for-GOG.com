@@ -1,9 +1,1 @@
-dusk_graphic_novel.zip 1bf84b9b8589d13fde521eebf65d4eec
-dusk_hd.zip a67555e40299e530166fd7525d682b95
-dusk_official_soundtrack.zip aaceb4071e0c28ee5b69f38e03e690c4
-goodies_pack.zip be7cc7e99340ba722795d30ee0eb6a5c
-icons.zip d986578cdd9f53d107e181e0d3fa424b
-setup_dusk_-_intruder_edition_upgrade_1.8.25_(64bit)_(68890).exe 7f138d147d84c2b9966bb4c470eb04c9
-setup_dusk_1.8.25_(64bit)_(68890)-1.bin 4d25c72c30193df3edead9fdec43b580
-setup_dusk_1.8.25_(64bit)_(68890).exe 1ad50f45f1347d18f00ea03c63cd47e9
-wallpapers.zip 79d467ea2af5b3c87abf476493a32f6f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

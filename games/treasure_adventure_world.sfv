@@ -1,4 +1,1 @@
-setup_treasure_adventure_world_1.05_(19170).exe 1b6a375f946737a1b36083f6351e19df
-treasure_adventure_world_instruction_booklet.zip 4449aa0a0565364c034e2cc4d2510678
-treasure_adventure_world_ost_flac.zip 722abe84f1dbea2bd8d1e5815872e901
-treasure_adventure_world_ost_mp3.zip 9891cde1f15fff3abefa39adf21e46b8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

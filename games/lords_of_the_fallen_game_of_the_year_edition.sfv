@@ -1,9 +1,1 @@
-LotF_Artbook.zip 35342c9de8e643df6362629933dce860
-LotF_Map.zip 5b40eb945a987e43d1d37c9505611800
-LotF_Soundtrack.zip 542ad241ed6f57c5834f56d185a747ec
-setup_lords_of_the_fallen_game_of_the_year_edition_1.0.0_(64bit)_(24706)-1.bin da3cdd89a5d34a86ef14c75462f59318
-setup_lords_of_the_fallen_game_of_the_year_edition_1.0.0_(64bit)_(24706)-2.bin 812dc6ec62f4937bbfb16ac66b10dcb6
-setup_lords_of_the_fallen_game_of_the_year_edition_1.0.0_(64bit)_(24706)-3.bin 7193faaba87e9e3ee14d0c55ca9b44cf
-setup_lords_of_the_fallen_game_of_the_year_edition_1.0.0_(64bit)_(24706)-4.bin b0993192cab4ad63b1075a52efda45b3
-setup_lords_of_the_fallen_game_of_the_year_edition_1.0.0_(64bit)_(24706)-5.bin 9a65dac9f1554ead80624228143288e0
-setup_lords_of_the_fallen_game_of_the_year_edition_1.0.0_(64bit)_(24706).exe b06aca18fd80dc197465b271d3b4bb8b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

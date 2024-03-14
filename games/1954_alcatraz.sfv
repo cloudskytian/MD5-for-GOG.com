@@ -1,5 +1,1 @@
-1954alcatraz_artworks.zip ed43990b3c4b320655b268aa0d45255e
-1954alcatraz_avatars.zip 104982837df894de3686d07da3eb3da3
-1954alcatraz_renders.zip 602b1523a0f064c9e7c44a2d02b7d8eb
-1954alcatraz_wallpaper.zip 90865a522b7a60a1a2df8d80a44cd765
-setup_1954_alcatraz_1.3.5019_(19812).exe b18fe30eb3fc67e3f6b12f725b297f95
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

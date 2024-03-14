@@ -1,3 +1,1 @@
-setup_the_hive_1.204_(64bit)_(67281).exe 2aede9e4006cb80d507f1ef0f56a13bb
-the_hive_soundtrack_MP3.zip 8b0d979f3db0343ed0a8bcf2c830fb84
-the_hive_soundtrack_WAV.zip 01f4250b371b0807fdc83fb0c21c773a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

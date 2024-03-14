@@ -1,5 +1,1 @@
-setup_shelter_2_20150708(a)_(36541).exe cc8a776fe61590628a578ee3fe308dfa
-setup_shelter_2_mountains_20150708(a)_(36541).exe 61c1c4677ed2ea4382bef21410e8654f
-shelter_2_mountains_wallpaper.zip 8610984cde63b9e553a3963de581304d
-shelter_2_soundtrack.zip 9708854af0b4b72a29eafac3118f698a
-shelter_2_wallpapers.zip be6a3f663b2a680ee293c057ac2636b3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

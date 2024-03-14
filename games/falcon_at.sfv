@@ -1,2 +1,1 @@
-falcon_at_ref_card.zip 3c33f6e22cee25e129cd8213826879bf
-setup_falcon_at_2.0.0.1.exe 3df4e03cf61f885e0a67e6f929e200e3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

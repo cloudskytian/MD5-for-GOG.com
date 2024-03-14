@@ -1,3 +1,1 @@
-setup_kane__lynch_2_dog_days_1.2_(57031)-1.bin c1724c350209897d53068fbec8f58c5e
-setup_kane__lynch_2_dog_days_1.2_(57031)-2.bin 6b29ad56e760238cde9a5d5f5ad4673f
-setup_kane__lynch_2_dog_days_1.2_(57031).exe 8f2f1cd8fd72ef881247eaf22f9428e2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

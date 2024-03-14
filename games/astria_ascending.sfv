@@ -1,8 +1,1 @@
-astria_ascending_artbook.zip 3d6cdf225e128320ed0d7dbe3edaa306
-astria_ascending_map.zip ca9c2f20b78b892da31183b69c377cf0
-astria_ascending_ost_wav.zip 4f6fe35bcd52ec96908e1b1591c03872
-setup_astria_ascending_-_cosmetic_weapon_set_1.0.152_(59222).exe 9707f8f885c7bd5aaed69993957e6dc3
-setup_astria_ascending_1.0.152_(59222)-1.bin 4d77bf9c9b01554087d5fc388f045e4d
-setup_astria_ascending_1.0.152_(59222)-2.bin 338a17af2550664d3d1646fe08544f0d
-setup_astria_ascending_1.0.152_(59222)-3.bin 354067bfcf05331113785e9809155883
-setup_astria_ascending_1.0.152_(59222).exe 96a068b1a052eff8e3b92fe4cfbc92fc
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-setup_shovel_knight_treasure_trove_4.1a_(arbys)_(45311).exe 387869752100cdfa107a786706f4df8b
-shovel_knight_avatars.zip b621a7c6dcb1fe335b5d7d6d8fe0cdc2
-shovel_knight_wallpapers.zip 2cda3157cf9bf6cf7c9b6987733aaf17
-sk_plague_of_shadows_avatars.zip 75f640d7e7a0137abd9b24e132e865c2
-sk_plague_of_shadows_wallpapers.zip 4f722c00ac11d5dd2956afdc4c17a4be
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

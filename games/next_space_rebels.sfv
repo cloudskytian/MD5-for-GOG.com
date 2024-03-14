@@ -1,2 +1,1 @@
-setup_next_space_rebels_1.12_(64bit)_(53679)-1.bin b604c2eb49b020efbb2f45ffd89c30b6
-setup_next_space_rebels_1.12_(64bit)_(53679).exe a4a66f1528f607d2b48844654bf3f832
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-cat_lady_avatars.zip 81c51453c7a3a6d42192c87c5f101541
-cat_lady_manual.zip 792f8dc0ee85eca623fafca5f0fe7334
-cat_lady_ost.zip ecd717bd54d1da84fa98dc097cde1adc
-cat_lady_wallpapers.zip c8bd94b55a0d434180c1db5ea655e208
-setup_the_cat_lady_1.7_(20820).exe bec31d39d00fbcd206c56862f231bd89
-the_cat_lady_extended_ost.zip e7ee4359887363abb674343f18ff073a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

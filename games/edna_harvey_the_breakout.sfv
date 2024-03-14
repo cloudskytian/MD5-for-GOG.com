@@ -1,8 +1,1 @@
-edna_and_harvey_artworks.zip 1973022344dcfae23329f1557663aac6
-edna_and_harvey_avatars.zip 2a155a2ba455367c2b2ae0399708fce4
-edna_and_harvey_music_video.zip 0b440bb24b7424fb50b41e696be832b9
-edna_and_harvey_wallpapers.zip 6446debeee393b28df4c512f7ffdbe72
-setup_edna__harvey_the_breakout_1.4.20120804_(44129)-1.bin 042506d319189bff830de4ba4020f835
-setup_edna__harvey_the_breakout_1.4.20120804_(44129).exe 017cfaba8c06ab2d9f3af0e70c03fffd
-the_breakout_ost_flac.zip 648d34a4144c783146304427b951c9a8
-the_breakout_ost_mp3.zip 62b6a3f0857854a82e1cb06130896f5a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

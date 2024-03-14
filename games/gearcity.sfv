@@ -1,2 +1,1 @@
-setup_gearcity_2.0.0.9_hf_1_(64bit)_(65284)-1.bin 65086b570b0d166a83c5ee1f3e0554ea
-setup_gearcity_2.0.0.9_hf_1_(64bit)_(65284).exe be0ce6275dbfedaa8f12058c8df92a04
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

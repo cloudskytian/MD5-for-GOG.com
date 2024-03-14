@@ -1,3 +1,1 @@
-setup_wildcat_gun_machine_1.005g_(55558).exe a4586ac78a0797d2486599c7ca1dc56c
-setup_wildcat_gun_machine_supporter_pack_1.005g_(55558).exe 6535df46087f2efa45dd03a4509145e3
-wildcat_gun_machine_original_soundtrack.zip 9c1b136d381939f73a87575f74694a0e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

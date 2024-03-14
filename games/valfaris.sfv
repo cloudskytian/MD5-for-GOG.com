@@ -1,3 +1,1 @@
-setup_valfaris_1.1_(34449).exe 00dee73b50bf4df562af2dab6338af68
-valfaris_artbook.zip 253fe5e17c7b8435114423b5b82b8da1
-valfaris_ost.zip 64b1125d179db6a89efff2c7a3f827ac
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

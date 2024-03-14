@@ -1,6 +1,1 @@
-panzer_elite_desktop_theme.zip ac8d3d947fb35cb71ee5365cdabb3a1d
-panzer_elite_manual.zip c98a952984e5b1a6e48dd710f748cce9
-panzer_elite_mods.zip 0fdf667b7a21b21b3445ebda1f780d9d
-panzer_elite_tools.zip 687cb19318fab67e787d87b0daf5eb35
-panzer_history.zip b8a5b8aea436065e5adfe7772522be5f
-setup_panzer_elite_2.0.0.3.exe 9a82237cbb1b8c6081088f9e0aa2dbcb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

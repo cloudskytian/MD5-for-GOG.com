@@ -1,2 +1,1 @@
-setup_my_lovely_daughter_1.27f6_gog_linkfix_(70980).exe 66af1010c276944acc0c66ebef72cc0e
-setup_the_inquisitor_1.27f6_gog_linkfix_(70980).exe 3d51499bd413ad75d7000a26f3deb395
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

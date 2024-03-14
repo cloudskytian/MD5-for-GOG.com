@@ -1,3 +1,1 @@
-setup_conway_disappearance_at_dahlia_view_1.0.0.6-hotfix_(64bit)_(53583)-1.bin 95cb17c702babfe21fb2b1ad95a194e4
-setup_conway_disappearance_at_dahlia_view_1.0.0.6-hotfix_(64bit)_(53583)-2.bin b1d4c008911a170b50d674ab93891ac4
-setup_conway_disappearance_at_dahlia_view_1.0.0.6-hotfix_(64bit)_(53583).exe 78450a94b5e52abb728d8219e9eee8f2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

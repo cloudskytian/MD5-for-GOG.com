@@ -1,12 +1,1 @@
-arcade_paradise_original_soundtrack_flac.zip 5970eaa4831cf203cbbc27ec26b68050
-arcade_paradise_original_soundtrack_mp3.zip 74727343af5f38d970d98d1cd2178bed
-setup_arcade_paradise_-_cyberdance_euromix_1112_(64596).exe f8ed6162f8bf4eba915263239cad63c9
-setup_arcade_paradise_-_empathy_1112_(64596).exe 3072d61f436459787420a4a9207b6c4a
-setup_arcade_paradise_-_kung_fury_street_rage_1112_(64596).exe d19422f5a46cfbeabfc239c8f9b5a010
-setup_arcade_paradise_-_penguin_push_1112_(64596).exe 5298594573dc9b8b0daee36470266ec9
-setup_arcade_paradise_-_pinball_1112_(64596).exe f3a61e7baaf030c323f942d0335b4a4b
-setup_arcade_paradise_-_r.o.g.e.r._1112_(64596).exe cc9faac8d83ed87c759b0bb891e727a4
-setup_arcade_paradise_-_smoke_em_1112_(64596).exe 381cc0d6cc2c453220aadd9c916dbe3e
-setup_arcade_paradise_-_summer_of_sports_1112_(64596).exe aff8193ece9723f99284386e7757b6ff
-setup_arcade_paradise_1112_(64596)-1.bin 4998557080d644862a6cf27f6434c3be
-setup_arcade_paradise_1112_(64596).exe 7d652343e3934cb19d46695820db31a0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

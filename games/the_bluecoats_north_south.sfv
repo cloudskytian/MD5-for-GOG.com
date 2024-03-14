@@ -1,2 +1,1 @@
-setup_the_bluecoats_north__south_1.0_(47723)-1.bin 7415284cbeb47406ce6d5843d0046ca0
-setup_the_bluecoats_north__south_1.0_(47723).exe 41f81712e7bb146278efe9edf066a3e4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

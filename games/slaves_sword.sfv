@@ -1,2 +1,1 @@
-setup_slaves_sword_unrated_v2_(59652).exe 84386ca01cc30a803e5ef3877d37fcb5
-setup_slaves_sword_v2_(59652).exe dd261eadc0c4e2d8558158072a73373a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

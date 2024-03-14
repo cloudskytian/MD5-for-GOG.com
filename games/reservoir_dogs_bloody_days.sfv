@@ -1,4 +1,1 @@
-reservoir_dogs_ost_flac.zip 7a28f8e50a8f2f11e236c59bb3543e47
-reservoir_dogs_ost_mp3.zip b134be7301b3c31b8e63a245cb846841
-setup_reservoir_dogs_-_bloody_days_gog-3_(12897)-1.bin add3bf6d84171a9cd2c2fa4aa3d37962
-setup_reservoir_dogs_-_bloody_days_gog-3_(12897).exe 88b42d3c42acc8de0f4ecf4c090b0e87
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

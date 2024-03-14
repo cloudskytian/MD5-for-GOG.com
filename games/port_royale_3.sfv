@@ -1,4 +1,1 @@
-port_royale_3_manual_en_pdf.zip c088cc07337a3b85301be8a43880c883
-setup_port_royale_3_1.3.2-29411_(45776)-1.bin 0290cd2fc610db1725a20c574aac1f8a
-setup_port_royale_3_1.3.2-29411_(45776)-2.bin 76ce249e62bee985b5f97a769b2ce839
-setup_port_royale_3_1.3.2-29411_(45776).exe d96edf5375750ecdd3875e193c1c652f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

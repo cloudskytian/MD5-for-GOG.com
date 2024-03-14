@@ -1,4 +1,1 @@
-hatoful_boyfriend_avatars.zip b131c0a4304376b60f15651045f2fcc8
-hatoful_boyriend_wallpaper.zip 1ed9314995456678cc2a162f84068da8
-setup_hatoful_boyfriend_gog-1_(17722)-1.bin 5ea8742b69674ffe42921d5fa9f097fb
-setup_hatoful_boyfriend_gog-1_(17722).exe 7cc7ca1bf8bf1f273326570bbe175133
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

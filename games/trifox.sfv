@@ -1,2 +1,1 @@
-setup_trifox_1.0.3.3_(65196)-1.bin 9f06a34c13c0edf4264445c9ea3ae982
-setup_trifox_1.0.3.3_(65196).exe 9c0cca2773c5c10fb646497f02ea11d2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

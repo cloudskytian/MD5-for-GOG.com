@@ -1,5 +1,1 @@
-setup_shelter_1.0_(18565).exe 7d1a2df224b43ce5a80008af13edde1d
-shelter_childrens_book.zip c97cd9d065b9c247a49bd997a45c265d
-shelter_design_sketches.zip 8ecf760528acaa2364e8b2cbabd6196c
-shelter_poster.zip 997da92db585bb7c8a52216fb911593b
-shelter_wallpaper.zip 682bf39859843cd4579729e59ac707be
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

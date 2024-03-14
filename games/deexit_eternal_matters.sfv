@@ -1,3 +1,1 @@
-setup_de-exit_-_eternal_matters_1.0.21.2_(62095)-1.bin b016e35087eda9ac9a4d2c6c1ceea756
-setup_de-exit_-_eternal_matters_1.0.21.2_(62095)-2.bin 2e619f4993f0ef8f407b8e867aedcf24
-setup_de-exit_-_eternal_matters_1.0.21.2_(62095).exe 1e7aff886aa7eb0f4146c0bbd9cab74c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

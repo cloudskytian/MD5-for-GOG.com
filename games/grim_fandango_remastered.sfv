@@ -1,7 +1,1 @@
-gf_remastered_wallpaper.zip ec6b221282a1c56ec3787a8ce2213525
-gfrm_making_of_part_1.zip 95d259aa0f665a544b44946e2c9973eb
-gfrm_making_of_part_2.zip fe29187838543becdc7add87728024bf
-gfrm_making_of_part_3.zip 3cd07964b086d0a9f86e845973eb8fe1
-grim_fandango_remastered_fan_art.zip 0e3638be8f64e186b8509e3105d633d4
-setup_grim_fandango_remastererd_1.4.0_(17097)-1.bin 77b57be36721c2fb07693a3d2ba1238e
-setup_grim_fandango_remastererd_1.4.0_(17097).exe c1ae96f6b8ff151b7b5d1ff25000f6c0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,17 +1,1 @@
-setup_el_prez_edition_content_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe eda26bd9540bd193f1a35c050d24f061
-setup_llama_of_wall_street_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe 1b7844cc938ef578c6e90ee82bfb2c24
-setup_tropico_6_-_caribbean_skies_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe ab97dfadecf55802a54a63e444dd8392
-setup_tropico_6_-_festival_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe 9b14eb57d96ec81c5bb9f43c9ab9602d
-setup_tropico_6_-_going_viral_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe 03cb0025180231b71faff59af4fd3fef
-setup_tropico_6_-_lobbyistico_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe a5656b78dc10455bc4f59fb8e108759a
-setup_tropico_6_-_new_frontiers_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe f75269bdb318c3f5c0fb4677ba8a4b66
-setup_tropico_6_-_spitter_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe df00fd3b86d440498206c5aa3e75b34e
-setup_tropico_6_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005)-1.bin e77341c454b112d51c5fe3900ebdb72c
-setup_tropico_6_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005)-2.bin 2c1ea3c5da0aafc7b802e344cc7de563
-setup_tropico_6_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005)-3.bin 00a76e85fd04518a79b13196083d3df8
-setup_tropico_6_t6-1133-winmaclin-gog7cf5b8a_(64bit)_(71005).exe 3c4bbac89fa0cf52604616bc742e9d35
-tropico_6_2020_calendar_de.zip 10ffcf7fe71a833a0b99e2718c0047df
-tropico_6_2020_calendar_en.zip bdca3b53964db5db8a8d7ac126895be0
-tropico_6_2020_calendar_us.zip 023ef36564bfa08d99ffdadd7ee080b0
-tropico_6_soundtrack.zip b6f2041fc454ea4581a8102319621e3e
-tropico_6_soundtrack_mp3.zip 6bf158974b72fdcbcd8620ee61ccadf8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

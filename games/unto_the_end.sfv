@@ -1,4 +1,1 @@
-setup_unto_the_end_1.52_(64bit)_(45932)-1.bin 04ea0b7e2c52f09ba7503d53fa8f3e8b
-setup_unto_the_end_1.52_(64bit)_(45932).exe b2cda2f88983576cf538a33f5347be9d
-unto_the_end_special_edition_art_book.zip 153818737297256a038fee4372ade011
-unto_the_end_special_edition_ost_mp3.zip e0db77c97ff296b54edfffda078a9c3c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

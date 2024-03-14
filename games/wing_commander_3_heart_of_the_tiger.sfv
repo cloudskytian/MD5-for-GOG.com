@@ -1,15 +1,1 @@
-setup_wing_commander_iii_1.4_(28045)-1.bin 1caaf5ba29075e67a00b8009bc53e463
-setup_wing_commander_iii_1.4_(28045).exe 9418288d818315fbbede459bef76b82c
-wc3_authorized_combat_guide.zip b843be90f9d3ba5535aa6218713a75b1
-wc3_behind_the_screens_tape.zip a2e24a86e9b6b2cdb6d49bf6d8ec836e
-wc3_deleted_scenes.zip 5c7154cde526ddad377933d05a06da55
-wc3_fiction_manual.zip d06c2f674646553d4fea04743847b1fa
-wc3_origin_official_guide.zip 72cafc9f0e77824c7876bce0c1f24dbb
-wc3_playguide.zip b2efd201c96ee064ecda4beb9738192a
-wc3_ref_card.zip a9c0bcfdd119a2ed1eefc7dadeed9da6
-wc3_script.zip ec091ec6b991ea408c03906b14c6f7a1
-wc3_wallpaper.zip 50db1c57b01a8fa4843dcc1f42068468
-wc3_warbirds.zip 5e05bb0f3e3c32c72ac7ffbde813185e
-wc_3_fleet_action.zip 2a2882f14f40763bac527f1bfa0083db
-wc_3_playguide_german.zip 420c874c3ab01cd57803f40763acb43b
-wing_commander_bible.zip f3c2090e1f23352e860ca2e89cacd06f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_sunrider_4_the_captains_return_1.2.0.6_(64846)-1.bin 5afe423af026a58d85acc92d4376b89a
-setup_sunrider_4_the_captains_return_1.2.0.6_(64846).exe 50e998a6b8834182875e4b8e54d0b680
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

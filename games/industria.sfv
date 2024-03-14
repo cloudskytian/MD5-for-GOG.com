@@ -1,4 +1,1 @@
-setup_industria_1.3.0_(59988)-1.bin 4e1f4b95b6d33096471be0424fd01480
-setup_industria_1.3.0_(59988)-2.bin 0ffe9c2ea9001be027c1a495723728bc
-setup_industria_1.3.0_(59988)-3.bin 5a27d09fb27f032fa6bbc9e723256658
-setup_industria_1.3.0_(59988).exe 7d8035b2ebcd6f164a49e798ae7478df
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

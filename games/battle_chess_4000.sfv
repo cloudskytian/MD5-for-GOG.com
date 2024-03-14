@@ -1,2 +1,1 @@
-battle_chess_4000_manual.zip d5ed871f0c9db0dff300566b020efd25
-setup_battle_chess_4000_1.00_(28043).exe 5f8664d3719b974200f7870741c25017
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

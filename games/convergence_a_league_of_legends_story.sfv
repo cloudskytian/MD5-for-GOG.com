@@ -1,7 +1,1 @@
-setup_convergence_a_league_of_legends_storytm_d3eb3874bbc_(64bit)_(67039)-1.bin 12a133ee42ab279f565a4be7d75bd02e
-setup_convergence_a_league_of_legends_storytm_d3eb3874bbc_(64bit)_(67039).exe 8df3564e7e48311f09e6977c0ddbd393
-setup_convergence_digital_comic_and_art_book_d3eb3874bbc_(64bit)_(67039)-1.bin 2b86854100257878e01b6494ef85121d
-setup_convergence_digital_comic_and_art_book_d3eb3874bbc_(64bit)_(67039).exe b1002ab7ff1100339b06823386e43fba
-setup_convergence_golden_ekko_skin_d3eb3874bbc_(64bit)_(67039).exe 1b9148b03c6f6a089e46e397dcfe1697
-setup_convergence_ruined_ekko_skin_d3eb3874bbc_(64bit)_(67039).exe 4a0a964048a7da5e424ddaf4652a0377
-setup_convergence_star_guardian_ekko_skin_d3eb3874bbc_(64bit)_(67039).exe df20f38dcea3c284de204b9902f102b5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

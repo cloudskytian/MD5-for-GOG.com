@@ -1,6 +1,1 @@
-Shing_Artbook.zip 8dbd26c03eae20fcddd8a823b6249d9f
-setup_shing_2.0_(64bit)_(61619)-1.bin b3a40acce60665862b0e7358ea974887
-setup_shing_2.0_(64bit)_(61619).exe 57f98a98b6f49c2049f2d5029b9d8dea
-setup_shing_soundtrack_2.0_(64bit)_(61619).exe b95f2d7a26acc6c39c5853c667cd5c0c
-shing_ost_mp3.zip f93f73517f68a9ddaa09fd7045c1aa7c
-shing_ost_wav_cd.zip 1a6ef631b8000604cdce78a01d627338
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-setup_f.e.a.r._3_20.1060_(60564)-1.bin ebadc4e45c49839498d912eb1b1c72e2
-setup_f.e.a.r._3_20.1060_(60564)-2.bin 3a2f9fef70b375277e55050370d4418e
-setup_f.e.a.r._3_20.1060_(60564).exe 7f2a115c1c934dc830d592ec0293dd01
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

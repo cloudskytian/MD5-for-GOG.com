@@ -1,4 +1,1 @@
-phantasmagoria_manual.zip 99bc8624c32f55c684371f457c399515
-phantasmagoria_wallpaper.zip 80e8f445d9c6b5d88e53f22840afdbbd
-setup_phantasmagoria_1.0_(20239)-1.bin 13a0afd40f5cfdb40db42b022fc75b0c
-setup_phantasmagoria_1.0_(20239).exe cb02e90716779fccbbabd172a9a39b84
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

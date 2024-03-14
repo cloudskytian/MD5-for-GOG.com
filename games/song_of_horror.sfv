@@ -1,6 +1,1 @@
-setup_song_of_horror_1.25_(64bit)_(54257)-1.bin 6e9c86c8f484b55d68d601f5425ca237
-setup_song_of_horror_1.25_(64bit)_(54257)-2.bin f6303450df65faa17100894a0661639a
-setup_song_of_horror_1.25_(64bit)_(54257)-3.bin fed3aeb25feb07cead5a20c88cf4072f
-setup_song_of_horror_1.25_(64bit)_(54257)-4.bin 12562d38a70a9c016971b3b0e8a0ddf4
-setup_song_of_horror_1.25_(64bit)_(54257)-5.bin e3275f1e263e6be535f558997ae98ddb
-setup_song_of_horror_1.25_(64bit)_(54257).exe bf8ec10ab93523ee9c6920685ac580ff
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

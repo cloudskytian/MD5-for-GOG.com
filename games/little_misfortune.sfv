@@ -1,7 +1,1 @@
-little_misfortune_artbook.zip 53c958d3645e5c7d07fc230aabed8542
-little_misfortune_soundtrack_flac.zip 51fedb024bdc68a0d0b3fbfac88c0074
-little_misfortune_soundtrack_mp3.zip 046ad8f274f9f0b1276e67a4355dd684
-little_misfortune_soundtrack_wav.zip 7f9a1e442f7b6ef712c9f8a2b4148ee3
-little_misfortune_wallpapers.zip 665d0aeb5221ff0473d9991fb1361872
-setup_little_misfortune_1.0_(32526)-1.bin 0d86291863e6df3da493a451c942f711
-setup_little_misfortune_1.0_(32526).exe 94c978d85bda75d6fb99df36c37f77c2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_jenny_leclue_-_detectivu_2.2.1_(64bit)_(47127)-1.bin a759ecb9b1a44cf63eeaaf313c0a7d7f
-setup_jenny_leclue_-_detectivu_2.2.1_(64bit)_(47127).exe 124155ba6a67a2349b5318c13b9157cd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-serpent_in_the_staglands_erleins_handbook.zip 234c6abc99e3016f2f1a0b743e989711
-serpent_in_the_staglands_manual.zip 1649c86d3a2e553166957727a333b249
-serpent_in_the_staglands_map.zip 22186c747dc173578fb7ae5a74a8eed9
-setup_serpent_in_the_staglands_2.12.0.14.exe d4418b9905b2eb74c45d96b188b55fc7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

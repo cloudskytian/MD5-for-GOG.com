@@ -1,4 +1,1 @@
-memoranda_in_game_soundtrack.zip d807fc35f3e08f66ea47bdbc979c983a
-memoranda_poster.zip 23c6a8394c97aa542f8d8a88ab3c8189
-memoranda_wallpapers.zip 0050e09550b78690f5c87b3f75ebc24f
-setup_memoranda_gog-4_(11000).exe 1b14c05e6ceb5fbccb0af6996f79bb85
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

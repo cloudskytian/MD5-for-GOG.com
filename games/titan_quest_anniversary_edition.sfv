@@ -1,12 +1,1 @@
-setup_titan_quest_-_anniversary_edition_2.10.6_(59562)-1.bin 7164d6f1cf600aaa17101b4a263d4a70
-setup_titan_quest_-_anniversary_edition_2.10.6_(59562)-2.bin b8b5821c04bfed43068e02b5a1431511
-setup_titan_quest_-_anniversary_edition_2.10.6_(59562)-3.bin bb6bcb03b2ef688ef57d46d12d4b1233
-setup_titan_quest_-_anniversary_edition_2.10.6_(59562)-4.bin 2a61ebe44e9424cdbad29f14e072c743
-setup_titan_quest_-_anniversary_edition_2.10.6_(59562).exe a8b9399e2f968ca819c7138ff2ce5ab1
-setup_titan_quest_atlantis_2.10.6_(59562)-1.bin 2ad964c3cf35c13a0e05b7680b62d718
-setup_titan_quest_atlantis_2.10.6_(59562).exe 6924de3dc1dd15eec6f1e4e6d465f33c
-setup_titan_quest_eternal_embers_2.10.6_(59562)-1.bin 5ff5fdc56368701999ef8ed3b0dc4d2e
-setup_titan_quest_eternal_embers_2.10.6_(59562).exe c3864feed21f135a687dc469a7691c36
-setup_titan_quest_ragnarok_2.10.6_(59562)-1.bin e4a5d3bb1264c1a3881e2263cd3d6af3
-setup_titan_quest_ragnarok_2.10.6_(59562).exe cb8f5a3f5567d9f84ad3add23347ad07
-titan_quest_ragnarok_ost_mp3.zip 17dfd067f4e2e1ab380a0134431f95cc
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

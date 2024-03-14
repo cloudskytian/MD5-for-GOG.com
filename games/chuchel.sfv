@@ -1,7 +1,1 @@
-chuchel_artbook.zip a27f196858d21f60a1a52c1c3adcbf8d
-chuchel_avatar.zip eb30dfe6e64ed6e4c64151df82e33d30
-chuchel_ost_flac.zip 6e87cccc88cc85075e5416ebbf642714
-chuchel_ost_mp3.zip 418f90099e19b394cc619675684894be
-chuchel_sans_font.zip 20e1be630006399a21e5a5422f498095
-chuchel_wallpapers.zip a6ff5856394d0ca4611246e70a28cdea
-setup_chuchel_2.0.0_(26120).exe d9af6a71485c90b8907bc2326e4b704a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

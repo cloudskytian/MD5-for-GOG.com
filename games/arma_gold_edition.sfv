@@ -1,6 +1,1 @@
-arma_gold_artworks.zip 129a3c352bf517ee3ef2dcc9ea6230f2
-arma_gold_manual.zip 5a6621e75ee26138cb86fc91bb6e4d8f
-arma_gold_maps.zip 946ac268d90d99d2e2c28c27801e1324
-arma_gold_posters.zip 1c842ccefed33a3717c69dbf242210e6
-setup_arma_gold_edition_1.0_(36421)-1.bin 22e047000493e0d78fe98ce952cecc1a
-setup_arma_gold_edition_1.0_(36421).exe 012efd892ac5d2070797bdeeec64c3b2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-imperialism_manual.zip 8f7189470d4b6b3c5d75cf2a4f02228b
-imperialism_ost_flac.zip 63b27bdd66d4695d0c962a47a4222491
-imperialism_quick_reference_card.zip abcc3e2390ca74c15048eb37504aa3cc
-imperialism_soundtrack.zip 12d3c8cc57cb8d4ca59161edb83dd2f3
-setup_imperialism_2.1.0.11.exe 419c0874dbf59c7faf14e679405c2610
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

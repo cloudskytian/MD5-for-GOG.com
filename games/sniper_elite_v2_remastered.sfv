@@ -1,4 +1,1 @@
-setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172)-1.bin 303af2db8aafb326fc65924ab0eea8e0
-setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172)-2.bin c707d3ea6821d1c6d6caa0017626b583
-setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172)-3.bin 96cff04ed7b66c102809a808d5993795
-setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172).exe d3d0252c56b3fa4ff629d8417be291bb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

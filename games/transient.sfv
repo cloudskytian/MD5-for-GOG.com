@@ -1,3 +1,1 @@
-setup_transient_0.170_(52027)-1.bin ae54e26737e6d8714dd7332997683003
-setup_transient_0.170_(52027)-2.bin 53ae713def6101d472d0a44fef87b762
-setup_transient_0.170_(52027).exe 22fdc7458a7507fd0ba87a1afcec9cff
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-rise_of_the_dragon_comic.zip 6e39635fe1db21af7e37483892648ec1
-rise_of_the_dragon_hint_book.zip a0245272f9a57108eca6a3bc1be32bf0
-rise_of_the_dragon_manual.zip 284cb12f208acce1d02fac732378155c
-setup_rise_of_the_dragon_1.0_(14124).exe 640e977a552c3c0d2834aae310108c2d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

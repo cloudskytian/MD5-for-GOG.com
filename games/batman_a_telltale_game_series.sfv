@@ -1,10 +1,1 @@
-batman_the_telltale_series_avatars.zip 9f54d26e3e5f4f18715f516e56e6b7b8
-batman_the_telltale_series_wallpapers.zip 267965092715abd9307c09109dc7d026
-setup_batman_-_the_telltale_series_noir-gog_(64bit)_(37765)-1.bin f1e4b49381fda402a545a03d758cfcfe
-setup_batman_-_the_telltale_series_noir-gog_(64bit)_(37765)-2.bin 2a1ecabb6ce42f77884cc96f2aa352d4
-setup_batman_-_the_telltale_series_noir-gog_(64bit)_(37765)-3.bin c97193689b37b22ed38f76301ea45919
-setup_batman_-_the_telltale_series_noir-gog_(64bit)_(37765)-4.bin 0893fbe7ca29bffdd035f2a423fa6f38
-setup_batman_-_the_telltale_series_noir-gog_(64bit)_(37765).exe 5b91da96adae7c1e1188cab44c29cb25
-setup_telltale_batman_shadows_mode_noir-gog_(64bit)_(37765)-1.bin 96e6360d0cfadd7ee4b8f24403327c93
-setup_telltale_batman_shadows_mode_noir-gog_(64bit)_(37765)-2.bin 3ab3f02886f9835cbde2a1fda06c1198
-setup_telltale_batman_shadows_mode_noir-gog_(64bit)_(37765).exe efe497f1ac1afffeb9d31954f7e2814b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

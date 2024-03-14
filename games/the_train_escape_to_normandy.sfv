@@ -1,5 +1,1 @@
-setup_the_train_escape_to_normandy_0.9.1_(42258).exe 26fc306a109d0011dae3e5c36293a584
-the_train_escape_to_normandy_keyboard_layout.zip b14a7d3131b7207a4df24244aa49abe8
-the_train_escape_to_normandy_manual_ziggurat2020.zip 2f04f925381d3c8cc00bbd63c323d84e
-the_train_escape_to_normandy_quick_start_guide.zip a4a4ddb88f7e1cacc804ef1a548f552b
-the_train_escape_to_normandy_topo_map.zip aeac16563c502c67fb02f794060422e9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

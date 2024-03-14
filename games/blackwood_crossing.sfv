@@ -1,2 +1,1 @@
-setup_blackwood_crossing_1.5_(11890)-1.bin c8fc4bb9ebfbbde3933f46ca1bf84130
-setup_blackwood_crossing_1.5_(11890).exe 9b9291601f33274eb6c85cac496736be
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

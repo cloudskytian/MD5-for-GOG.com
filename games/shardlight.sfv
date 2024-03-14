@@ -1,7 +1,1 @@
-setup_shardlight_3.1_(70694).exe 75f6495b8debec91556b053c873b162f
-shardlight_avatars.zip e89f78154b9dad711dd01a41aff9050c
-shardlight_character_concepts.zip a172ae565c06f6da4110d1b8445db5a9
-shardlight_ost.zip f7df64613d1c708de0df411612b971fc
-shardlight_propaganda_posters.zip 867dfb66ac74a3cb152eeb671b372090
-shardlight_voiceover_videos.zip dc0acae586b37403b43b5c7d08409582
-shardlight_wallpapers.zip 1e321fe7e2b775517b630bb1e1fdba3c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

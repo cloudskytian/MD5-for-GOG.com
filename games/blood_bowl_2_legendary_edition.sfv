@@ -1,3 +1,1 @@
-setup_blood_bowl_2_-_legendary_edition_3.0.219.5_(47508)-1.bin d3164475b60682c48efad36ad187950a
-setup_blood_bowl_2_-_legendary_edition_3.0.219.5_(47508)-2.bin 0e4f517b32796c84166ac33fbea260f3
-setup_blood_bowl_2_-_legendary_edition_3.0.219.5_(47508).exe 0d6ec7b2c5aa32aaa72f8b329b97840a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-comic_and_artbook_PDF.zip 57de25f2c29d4084f8dee053f0647ad1
-setup_slave_zero_x_-_pc_exclusive_shou_costume_g1.01_(64bit)_(71374).exe 9c6b3e381ad7f00a1a39e1fefc2240bb
-setup_slave_zero_x_g1.01_(64bit)_(71374)-1.bin 1523c6b2b06e230ca19601e7d253585d
-setup_slave_zero_x_g1.01_(64bit)_(71374).exe 4dd27fb804c5f00bded9451c7a5ee21b
-soundtrack_WAV.zip ed148fb147c8705dbfc4efac4c888617
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

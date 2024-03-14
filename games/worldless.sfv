@@ -1,2 +1,1 @@
-setup_worldless_1.2.0_(68819)-1.bin 1adb31949ef9ec422e3052b1ac719ed8
-setup_worldless_1.2.0_(68819).exe 98728ffee7017dccffc8a15faff62fc8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

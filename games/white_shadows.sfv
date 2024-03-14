@@ -1,2 +1,1 @@
-setup_white_shadows_1.4.1_(56886)-1.bin 8211cd72df3b0ac62a9848601989b807
-setup_white_shadows_1.4.1_(56886).exe fcffd3c3df35e0c3d68ff69ad9497df2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

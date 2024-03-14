@@ -1,2 +1,1 @@
-setup_big_pharma_1.08.12_(32771).exe 27a732dd83ab4ba6eb987063d6bedcda
-setup_big_pharma_marketing_and_malpractice_1.08.12_(32771).exe 6cf0c342e24deb5640d92b000792bf60
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

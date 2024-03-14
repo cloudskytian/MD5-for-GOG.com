@@ -1,4 +1,1 @@
-inked_digital_artbook.zip 9bbe28902ccf0fbb5c93daec2ee3f919
-inked_soundtrack_flac.zip c318bef59a95258f44ea6ea7dd471e4c
-inked_soundtrack_mp3.zip dd38795d1160f1f93c38eee77070a0f7
-setup_inked_20180528-1_(24344).exe 93b3c4c76ae53b91ac8061b0ec7ef320
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-I-War_2_OST.zip 259f3ada166647ee3b16ffa8f3c06a7a
-I-war2_Artworks.zip b70400adf53f3dc3e73cd12e7ec7cc78
-I-war2_Avatars.zip 1aac4591a0af30c646299d55e75acc76
-I-war2_Wallpapers.zip 0d26627546eaee9c82b7a539497ac198
-I-war2_manual.zip e78e2aa80406c050e1c3fb17df6bf244
-setup_independence_war_2_-_edge_of_chaos_f14.6_(22136).exe d31849587c5aee9a03d522f1238d2b97
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

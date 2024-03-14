@@ -1,6 +1,1 @@
-Andosia_War_avatars.zip 728abf5777079ed8ee6480d9033d810c
-Andosia_War_manual.zip b6cff1c4e524fe17df43854d9cee5d29
-Andosia_War_reference_card.zip 871b8242979c5674bac406e5519b5eb6
-Andosia_War_soundtrack.zip 9227a9b88d3cfedbf626438dfbd37117
-Andosia_War_wallpapers.zip 9749329a131eb1cbb3f7f079d1bac90c
-setup_battle_isle_-_the_andosia_war_b206_(30493).exe 59053cdb30f111c386b011e238f0e15b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

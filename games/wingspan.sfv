@@ -1,7 +1,1 @@
-setup_wingspan_-_european_expansion_192_(71029).exe 80cf7d159a3846e85cb0d7d0ddd8efdb
-setup_wingspan_-_oceania_expansion_192_(71029).exe 820023ff22c76d493609534b490c0d0e
-setup_wingspan_-_seasonal_decorative_pack_192_(71029).exe 111754fe2d2a5ea0c9103005b574b621
-setup_wingspan_192_(71029)-1.bin 3bfad2c06370013587cffc76edf1e926
-setup_wingspan_192_(71029).exe 64cf8e435ff9aa48d6d98cc580869444
-wingspan_soundtrack_mp3.zip d4d710961e58d9c941237e5d2d75585e
-wingspan_soundtrack_wav.zip bacaee4f623968b699d11b8fc95ef9a2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

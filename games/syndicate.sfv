@@ -1,6 +1,1 @@
-setup_syndicate_plus_2.1.0.15.exe 8d5be99aa31cfab05d71772f29e300e0
-syndicate_avatars.zip 3f5397c960dd5c4f8570473261346d87
-syndicate_manual.zip 80095cc6ce036e2d9eb923a5fa60eb23
-syndicate_plus_manual_fr.zip 8d34575c1d96dae7f3d87877b64cf602
-syndicate_plus_reference_card_en.zip d04f63740ccaa39338dae68825a3e0db
-syndicate_plus_reference_card_fr.zip ca94e49fe7b1f92f5bb7fb7581710ecd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

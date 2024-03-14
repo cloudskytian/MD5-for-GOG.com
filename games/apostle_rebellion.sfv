@@ -1,4 +1,1 @@
-setup_apostle_rebellion_unrated_v4_(en_1.05_cn_1.01)_(57719)-1.bin 9619d55907fdc483078f3718a6045d8c
-setup_apostle_rebellion_unrated_v4_(en_1.05_cn_1.01)_(57719).exe c55e44cb5a7a090e326830ff9545b5fb
-setup_apostle_rebellion_v4_(en_1.05_cn_1.01)_(57719)-1.bin fc4bed1e665cbbf033061f5d2b201da4
-setup_apostle_rebellion_v4_(en_1.05_cn_1.01)_(57719).exe 92697c66f45555bf28b52a6d6a511426
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

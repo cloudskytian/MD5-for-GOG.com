@@ -1,4 +1,1 @@
-kapia_original_soundtrack_mp3.zip db3b000fff678a83f2809f402ae1e424
-setup_kapia_1.266_(64bit)_(53517)-1.bin b79b61344f073d62558110094dd4d4e9
-setup_kapia_1.266_(64bit)_(53517)-2.bin c8daa613021f82f10ea028f9579f7c99
-setup_kapia_1.266_(64bit)_(53517).exe 99a1a05b36f130eaf10319c6b4983fe1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

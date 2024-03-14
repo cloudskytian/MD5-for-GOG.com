@@ -1,3 +1,1 @@
-setup_the_darkest_tales_1.07_(64bit)_(61258)-1.bin 574ca5c1f9000f0dcf11a48623632c07
-setup_the_darkest_tales_1.07_(64bit)_(61258)-2.bin 823ab2acbc0f531302deb45991ca3eca
-setup_the_darkest_tales_1.07_(64bit)_(61258).exe 4d5b5eefd1273c61e34d842b0f076a45
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

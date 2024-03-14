@@ -1,10 +1,1 @@
-hard_west_artbook.zip de8b53dd15fa632d55dd1c21b81d43b4
-hard_west_comic.zip 76473c5eda29dd644fe15cf41fd26bdb
-hard_west_localization_kit.zip bcea991c50586a7e881660f35a2b6cbb
-hard_west_manual.zip 39b4658fc51a6bbb2e891e6e158aefc6
-hard_west_ost_flac.zip 5e5e2df02bde36348bdf797ba3d6e3bc
-hard_west_ost_mp3.zip 8d4791c188a73cd047e8d8044686865c
-hard_west_printable_posters.zip dbb6a9aa913953e7ab69c60a3dac8aaf
-setup_hard_west_64_1.5_(13043)-1.bin eaf46648836eea2cdf81be2f1099597c
-setup_hard_west_64_1.5_(13043).exe 7563733ea50ca43bf2cd4b9361530227
-setup_hard_west_scars_of_freedom_64_1.5_(13043).exe 1bfbcc67e59de9a814d46c31cfdc70b4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

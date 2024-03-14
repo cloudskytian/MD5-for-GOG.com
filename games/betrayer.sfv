@@ -1,2 +1,1 @@
-setup_betrayer_1.9.6844.2_(65784)-1.bin 5cb187368858c9339f841f3ce6653674
-setup_betrayer_1.9.6844.2_(65784).exe 69f92c13967cf89489487dd278a9dad9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

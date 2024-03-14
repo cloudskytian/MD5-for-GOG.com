@@ -1,5 +1,1 @@
-cossacks_manuals.zip faffb50db7d16c6ee388855005681e86
-cossacks_reference_card.zip d5258fa19941c36c3fa7db324ae2bdf8
-cossacks_soundtrack.zip 3811d1dea9cea424683b7142814b8c3c
-cossacks_wallpaper.zip dc2d789bd79e0033a75666c67287f948
-setup_cossacks_european_wars_2.1.0.13.exe a8258963371f0c3a1f7a3f96da976905
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

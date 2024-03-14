@@ -1,7 +1,1 @@
-dotc_ad_poster.zip 78e11608d01754e0c2d5d19d66a96a06
-dotc_manual.zip 681bd47b0bbd92fcd4de4308af75e40f
-dotc_q_a.zip 8075258e7fdf1289d54e71aa8d555393
-dotc_reference_card.zip 9eb3993b0d658fd3b916b8a36a84582e
-dotc_soundtrack.zip 51b0518720ee40bb38af00e875665e51
-dotc_wallpaper.zip 73061fb2a4f4f9c166a0b8c8ac3b92c9
-setup_defender_of_the_crown_1.0_(20796).exe 56911d429e98703c077803e7220e2823
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

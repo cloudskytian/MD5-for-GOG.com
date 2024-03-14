@@ -1,5 +1,1 @@
-akibas_trip_hd_artbook_pdf.zip 6a641f3f6f82d493c3aede8ab45831a3
-akibas_trip_hd_ost_mp3.zip 64a6b5a850fb280623e9a9d465bfc18a
-akibas_trip_hd_ost_wav.zip 2cb0a655c8193165b3b41888211d4880
-setup_akibas_trip_hellbound__debriefed_1.16_(49017)-1.bin 39221563e66d5ef47e41a9c170a7d5b4
-setup_akibas_trip_hellbound__debriefed_1.16_(49017).exe 161c8671574cd8ae0bc020203742494d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

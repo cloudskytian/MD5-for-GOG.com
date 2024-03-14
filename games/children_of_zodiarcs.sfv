@@ -1,4 +1,1 @@
-children_of_zodiarcs_art_book_updated.zip a4d2489bd0713894e4d9a2840261c672
-children_of_zodiarcs_soundtrack_mp3.zip 6b66b6f8ed77f022f9591c9e8376acb1
-setup_children_of_zodiarcs_w1.0.3.7-2f11118c226f_(21162)-1.bin b945379153b836145503f7ee17730f9e
-setup_children_of_zodiarcs_w1.0.3.7-2f11118c226f_(21162).exe 96508fcc96d849679bb03abe09e365c7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

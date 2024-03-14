@@ -1,5 +1,1 @@
-okhlos_encyclopedia.zip 80b52793d3912e2004c9a69a2554191f
-okhlos_ost_mp3.zip 8225d670ce87512e2cdd747128511746
-okhlos_prototypes.zip 770cbdd93b438c5a8545e06ea5c78791
-okhlos_wallpaper.zip 6ab6eacac8077a046151313775f38c5f
-setup_okhlos_omega_2.1.0.1_(41247).exe 864b0b3d68764ff4f41e74c658e3c1f9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

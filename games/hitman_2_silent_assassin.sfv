@@ -1,4 +1,1 @@
-hitman_2_avatars.zip 9e9553225c8fc89f9b563e5f75c0f5f2
-hitman_2_manual.zip 3f5f7f92836dd47f7dd33d4bf0810f76
-hitman_2_wallpapers.zip 050139854f6622fcc9152b061f2519f7
-setup_hitman_2_silent_assassin_1.01_(21780).exe 4a5371463a447643760dd0db88720e0e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

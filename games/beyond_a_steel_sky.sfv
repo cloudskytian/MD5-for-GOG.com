@@ -1,8 +1,1 @@
-beyond_a_steel_sky_comic.zip 4d804d169ab6a88494bfe8d576140f6b
-beyond_a_steel_sky_soundtrack_mp3.zip b6fbccad647382b7ff600953c9f9608c
-beyond_a_steel_sky_soundtrack_wav.zip cb0309d327496005295403a87b199230
-setup_beyond_a_steel_sky_1.5.29158_(64bit)_(53798)-1.bin bc636379b34d9c22400dab12eed6775d
-setup_beyond_a_steel_sky_1.5.29158_(64bit)_(53798)-2.bin 44aa7c8b114afc6c6878da5b1dbc191a
-setup_beyond_a_steel_sky_1.5.29158_(64bit)_(53798)-3.bin 3be221709b8ae78db7110f250bca9f12
-setup_beyond_a_steel_sky_1.5.29158_(64bit)_(53798)-4.bin 09a4c1b9af3f1c3ddda260c892a8ded0
-setup_beyond_a_steel_sky_1.5.29158_(64bit)_(53798).exe db53e7f74ee9a63ec8f2c1aacfe68707
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

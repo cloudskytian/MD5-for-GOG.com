@@ -1,13 +1,1 @@
-OW_OST_DLC1_mp3.zip 55916e38254eba646f293933e9275746
-OW_OST_DLC1_wav.zip 980739c83ec1ff5f55d030dd8293e259
-OW_OST_DLC2_mp3.zip df7d315db51e9e7564f8791fb876eb9e
-OW_OST_DLC2_wav.zip fb5cd7d4bd3d00e932bf01390075df30
-OW_OST_MP3.zip 1c9795d49ba5e1f851c696c533e4e8f1
-OW_OST_WAV.zip a35707cd765707b58c21d86cc40d1355
-setup_outward_1.3.7c_(50246)-1.bin c2494160cbc7aaf2bdc70d206c256c0a
-setup_outward_1.3.7c_(50246)-2.bin 1c6d9f70567e1ac96e0077dd4acbacac
-setup_outward_1.3.7c_(50246)-3.bin 7eeee604fbb62fd43bc3c86f1b94a24f
-setup_outward_1.3.7c_(50246)-4.bin 6673cb1c8b0778e03c9d684d6f56ddac
-setup_outward_1.3.7c_(50246).exe 8ff801849bce5e632defe88fbfe8a88a
-setup_outward_the_soroboreans_1.3.7c_(50246).exe b3e0af2107c7be96fcbb77e5a73e38c1
-setup_outward_the_three_brothers_1.3.7c_(50246).exe 3c6ae4eebff03335b0647a11c76c298e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-blacktail_soundtrack_flac.zip 3c0dfe60ce955d75d02598d2901cd518
-blacktail_soundtrack_mp3.zip 47c31865ffb85bde5c1aa9138768cb02
-blacktail_soundtrack_wav.zip 79c17a9ea2d113729afaf8f3a3016f86
-setup_blacktail_1.5_rc_c_ship_(64bit)_(62126)-1.bin 3114189a0f91090b234e82bcfd2ef617
-setup_blacktail_1.5_rc_c_ship_(64bit)_(62126)-2.bin c4530e2b38d0714d23b6d867207ea45a
-setup_blacktail_1.5_rc_c_ship_(64bit)_(62126)-3.bin 81be02711f9395cf33d00ba2b156bd41
-setup_blacktail_1.5_rc_c_ship_(64bit)_(62126).exe 165842204f53a46c5d4761551547f925
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

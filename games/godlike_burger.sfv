@@ -1,6 +1,1 @@
-godlike_burger_coloring_book.zip ee6af9e0dd89070c4cbdda77e8dad248
-godlike_burger_ost_flac.zip 9ac5c626e9573b5b37e06ab84adfde04
-godlike_burger_ost_mp3.zip 6a12349a478cd395d8cb917c808bd81e
-setup_godlike_burger_1.0.7_(58098).exe f2f25894346c689f5eb1e4b7edd89afc
-setup_godlike_burger__supporter_pack_1.0.7_(58098).exe d345a9f8eacc69dd0d46ead6ab42cdc6
-wallpapers.zip 94ad81b548c018709a8ddd27f7361eb8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

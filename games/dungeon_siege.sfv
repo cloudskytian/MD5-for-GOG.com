@@ -1,2 +1,1 @@
-setup_dungeon_siege_1.11.1_amd_rdna_fix_(52932)-1.bin 80eebe0ad314f0468b192d641704397e
-setup_dungeon_siege_1.11.1_amd_rdna_fix_(52932).exe ae0149cf9833db6dffa4e7b8993db344
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

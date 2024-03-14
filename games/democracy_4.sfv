@@ -1,4 +1,1 @@
-setup_democracy_4_-_country_pack_1.65_(66834).exe 5f89a5b2a216412cab627dc4749fd01d
-setup_democracy_4_-_event_pack_1.65_(66834).exe 955b14e1db0be44a0dddd77f044739fb
-setup_democracy_4_-_voting_systems_1.65_(66834).exe e52fbccb0ab689232d5cb75828ed1c66
-setup_democracy_4_1.65_(66834).exe 13a5d61e19afe016e7939dca57dc98e8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

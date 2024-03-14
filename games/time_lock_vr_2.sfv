@@ -1,2 +1,1 @@
-setup_time_lock_vr-2_5_(67164)-1.bin 74846cb5aebd21e19cca5ad415218120
-setup_time_lock_vr-2_5_(67164).exe 09fe249fcfa4798e1ad8a890411a7c7a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_mars_war_logs_1.0_(32670)-1.bin 240768f76eafd52eb672711f0cc30909
-setup_mars_war_logs_1.0_(32670).exe 895615ea2c62ec4858eae78c97c94d7f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_crookz_1.0.0.24360_(16766)-1.bin a9b2f9980d36e6b2af79ee75b9de2edc
-setup_crookz_1.0.0.24360_(16766).exe 7bb42674e723e945371b1127668b154f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

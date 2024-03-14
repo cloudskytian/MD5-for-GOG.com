@@ -1,8 +1,1 @@
-rogue_trooper_redux_game_comic.zip 234929fff0accf11239004f42719e43f
-rogue_trooper_redux_ost.zip 0d73bae7d0ff26b68790a80f8da6b89b
-rogue_trooper_redux_wallpapers.zip 96f35ca93e845922b08e3f15bcaddba1
-setup_rogue_trooper_redux_64_5592_(15824)-1.bin 06b6632448bc77d3ebc47ec996fe4dee
-setup_rogue_trooper_redux_64_5592_(15824)-2.bin 27c9db34e168801e58a8c5f3b6643224
-setup_rogue_trooper_redux_64_5592_(15824)-3.bin 56aeaf5c4d6278fd3c96b7184a1127a4
-setup_rogue_trooper_redux_64_5592_(15824)-4.bin ef52677a653c0fb7ecf47669319ceb0c
-setup_rogue_trooper_redux_64_5592_(15824).exe 8e2444c95bb2210ff7d4070ed88c4741
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

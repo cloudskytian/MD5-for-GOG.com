@@ -1,9 +1,1 @@
-deus_ex_2_artworks.zip 097604da2864e9da18238c974cbb8bc4
-deus_ex_2_avatars.zip 4adcd5246c2165c33bf7c5307200dbba
-deus_ex_2_developer_interview.zip 26969e5fb085595ffae4a8aaf5ed9a69
-deus_ex_2_manual.zip 42762268f75c9801e6a3a6046b30984d
-deus_ex_2_soundtrack.zip 627bfbf3b9ddfaa19afec7728a58063d
-deus_ex_2_wallpapers.zip 571f1127873d91c576d36ac418458d24
-setup_deus_ex_invisible_war_2.0.0.8-1.bin 8c07943821a7d0d7cba98af1f0b9b743
-setup_deus_ex_invisible_war_2.0.0.8-2.bin acf2dd2d2c1ff0e92a59c20028192b62
-setup_deus_ex_invisible_war_2.0.0.8.exe 6319ae4c3ce454f17c852f61aba3307b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

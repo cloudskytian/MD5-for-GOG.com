@@ -1,6 +1,1 @@
-setup_vangers_1.46_(64bit)_(44410).exe a6e570bad474a93a27c30a48ef238dd6
-vangers_manual_english.zip 9f193cb16ee745cf554cbbef4693bdad
-vangers_manual_russian.zip 9c9b8d9c9030d424ff634259ef7361f7
-vangers_posters.zip 1e1af13348c93475b093abf7b167d07a
-vangers_soundtrack_flac.zip 5d65867a67cf568e206b9c03e5eab507
-vangers_soundtrack_mp3.zip df8c45f7a4f8f88285d63b22ea279dae
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

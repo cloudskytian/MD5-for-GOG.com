@@ -1,4 +1,1 @@
-lego_harry_potter_yrs_1_4_manual.zip 9eff861e2217880bbd48271ad24ff3d1
-setup_lego_harry_potter_1-4_1.0_(17966)-1.bin ab78edad26acef08eb3a656dfbdf476e
-setup_lego_harry_potter_1-4_1.0_(17966)-2.bin 0ebb7b7a5772245258e53092c25a4708
-setup_lego_harry_potter_1-4_1.0_(17966).exe 21ddbc82a225687a69044e9baee7109b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

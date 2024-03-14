@@ -1,5 +1,1 @@
-carmageddon_max_damage_manual.zip d340ba49ca9ad9dcb97bb6a035a8ed82
-setup_carmageddon_max_damage_1.0.0.9902d_(18301)-1.bin e09e6d3dc72b15804dd172514bbd0e38
-setup_carmageddon_max_damage_1.0.0.9902d_(18301)-2.bin ae2c161c52065242b72d38ea4e5b6efe
-setup_carmageddon_max_damage_1.0.0.9902d_(18301)-3.bin c5d4291dc1be0f5edab05599bc44e115
-setup_carmageddon_max_damage_1.0.0.9902d_(18301).exe a04bcc0cdef45496822c55816d79564a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

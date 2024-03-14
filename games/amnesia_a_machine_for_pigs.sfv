@@ -1,6 +1,1 @@
-aamfp_manual.zip b5b297032227d835d019d35a08155c81
-aamfp_walkthrough.zip 66c39be47b61430e297607516a913ec0
-amnesia_a_machine_for_pigs_image_concepts.zip 9c919611779254df04a257255c1a8950
-amnesia_a_machine_for_pigs_wallpaper.zip 7589d0b1d4c43905d380c7f1432e79cb
-setup_amnesia_-_a_machine_for_pigs_1.0_(20583)-1.bin 491f8f54abaf8ae7655b125693999759
-setup_amnesia_-_a_machine_for_pigs_1.0_(20583).exe f5f743ff0037913b2b20f7992edb966d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

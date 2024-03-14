@@ -1,3 +1,1 @@
-setup_legrand_legacy_tale_of_the_fatebounds_gog_2.0.6_(34954)-1.bin 4e0e983927b2107dabf9cc66525f312a
-setup_legrand_legacy_tale_of_the_fatebounds_gog_2.0.6_(34954)-2.bin ce883e45b0f86b4ba21ddd8930c057b2
-setup_legrand_legacy_tale_of_the_fatebounds_gog_2.0.6_(34954).exe 383b898904801a16c58a31c92da90881
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

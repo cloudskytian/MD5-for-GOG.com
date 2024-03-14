@@ -1,3 +1,1 @@
-setup_rad_rodgers_world_one_1.1.4480_(18638)-1.bin be40245e31630627c3c85fab778bf6d8
-setup_rad_rodgers_world_one_1.1.4480_(18638)-2.bin e2da3ef1523044767bd7e9ad42e58353
-setup_rad_rodgers_world_one_1.1.4480_(18638).exe c49e9e97e3cce072a0863dfb770d8579
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

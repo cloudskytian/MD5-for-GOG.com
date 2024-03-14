@@ -1,4 +1,1 @@
-setup_the_saboteur_1.3_hotfix_(22140)-1.bin 3574c8689985f70dcd50b2dd833dbc48
-setup_the_saboteur_1.3_hotfix_(22140)-2.bin 2940ec614fd1a5ae55cab728752c0458
-setup_the_saboteur_1.3_hotfix_(22140).exe 22003d25dc28b7179450d8730aeebf64
-the_saboteur_manual.zip 662bfb0cbd950e054b00ecb3f98c4132
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

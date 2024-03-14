@@ -1,6 +1,1 @@
-dreambreak_artbook.zip 958205678adab14a4cd6a7f007f038ce
-dreambreak_deluxe_edition_wallpapers.zip 7a264b5812e49e2dd67a388197685eb9
-dreambreak_ost_mp3.zip 60907641016a00d7e29c457e3d817726
-dreambreak_walkthrough_eng.zip f6980d7af351bd9486c275df70dab2c4
-dreambreak_wallpaper.zip ac39c24425429a056ba15b94a308e9bb
-setup_dreambreak_2.2.0.4.exe 7658ddaf7e92c007b49c75597fd00825
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

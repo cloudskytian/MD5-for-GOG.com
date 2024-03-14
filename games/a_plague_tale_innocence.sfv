@@ -1,12 +1,1 @@
-a_plague_tale_innocence.zip a9578c34fd851e3071c2348572d52eeb
-setup_a_plague_tale_innocence_-_coats_of_arms_1.07_(64bit)_(34188).exe fdbbda7f2759b9a229609b1e479aa756
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-1.bin 7a16ee379e97a11a56a60bb77f645c50
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-2.bin c7f7e9b44ecd895ef80cea83aba52ae7
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-3.bin dd99c6c9beb00ef3357622c1782d6406
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-4.bin 03b15312c67fe6e5c65b8889056632c1
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-5.bin a8b63b353fa0b59a10895daad970058c
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-6.bin b6f49327c40dda4d25dd78ea2ea47317
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-7.bin d5288ea2b0992bb0f440e8a4dfbe6a0f
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-8.bin e426750fae1e573b1acfbd5301b8a90d
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188)-9.bin a0612cdb2a6d619588c8ded2622751f5
-setup_a_plague_tale_innocence_1.07_(64bit)_(34188).exe 002096bcb7eac4d9aa111b692aab6f07
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

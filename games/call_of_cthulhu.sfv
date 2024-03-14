@@ -1,6 +1,1 @@
-call_of_cthulhu_wallpaper.zip 4445cca91597fff587f485e704953de7
-setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-1.bin 402cb68090c4685bf49e308d898b6a97
-setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-2.bin a1ae3c388025d027afad1119b46dfbe8
-setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-3.bin f84696b48afc3e722902a9937ea44481
-setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-4.bin 47797e78e4271d0c7badbea966b49a3c
-setup_call_of_cthulhu_4.15.2_(64bit)_(33442).exe 4292d4b56948ead98eb0769dc2fa834e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

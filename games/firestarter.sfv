@@ -1,4 +1,1 @@
-firestarter_concept_art.zip fa381885627ac458cce49e2f09b7efe0
-firestarter_manual.zip 63ecfc908d09aff2b45e0de5689d9cc1
-firestarter_ost_mp3.zip e26995667dda9d6921adb65d5bd1201b
-setup_firestarter_2.0.0.3.exe 3ca5c07364ee52a7b2748789268df8eb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

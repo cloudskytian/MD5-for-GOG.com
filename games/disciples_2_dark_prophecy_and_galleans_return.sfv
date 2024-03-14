@@ -1,8 +1,1 @@
-disciples_2_artworks.zip 884d1e106e6bf5c9a140c599b29c4208
-disciples_2_avatars.zip e8f3ca79d910ae790e9805d8f344841f
-disciples_2_gold_manual.zip 08321ec2b971ae6376a50c876cc081fd
-disciples_2_gold_ost_flac.zip 092a0ee8a2379017ab4342f420c6b27d
-disciples_2_gold_soundtrack.zip efcdf2bb66edaa3ce90d0c9d92e6604d
-disciples_2_wallpapers.zip 823381da2722232bc857272f403d28b4
-setup_disciples_2_-_dark_prophecy_and_galleans_return_2.01_(30373)-1.bin 51ae92baa6ef91818417c1d55bab95bb
-setup_disciples_2_-_dark_prophecy_and_galleans_return_2.01_(30373).exe a89bcf3ed206a71a5e536d73883af3ec
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

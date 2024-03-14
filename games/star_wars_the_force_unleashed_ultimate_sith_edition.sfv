@@ -1,6 +1,1 @@
-setup_star_wars_the_force_unleashed_1.2_(16953)-1.bin 17a3929931b6cc2b09936bf7402ade90
-setup_star_wars_the_force_unleashed_1.2_(16953)-2.bin 6f4d722c23f17158c96805813d0e2acf
-setup_star_wars_the_force_unleashed_1.2_(16953)-3.bin bc12313d456608dbc48bc4dafec90eb1
-setup_star_wars_the_force_unleashed_1.2_(16953)-4.bin e9b1c10f23aafa4ff939d1255d72c9f1
-setup_star_wars_the_force_unleashed_1.2_(16953).exe fd4239d0167261fbccb732265f093e6a
-star_wars_the_force_unleashed_manual.zip 74844d17b526776916cb5cfde12dc255
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

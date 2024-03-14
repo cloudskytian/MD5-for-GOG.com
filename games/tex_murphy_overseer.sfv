@@ -1,9 +1,1 @@
-TexExpert.zip ce80c7122d697ab8b014a89b43ccb0ac
-overseer_manual.zip d3ef8237610bf80cbdf419da025e2f89
-overseer_reference_card.zip ac113d647b16ec3f81e207e904806370
-overseer_soundtrack.zip a1fd33c36a08ebbc76b90ad3c0afab36
-setup_overseer_2.0.0.21-1.bin 848f956ef2aad513d02665ef6e65a864
-setup_overseer_2.0.0.21-2.bin 8a930e7861d421e1ffe6dcb23b64392d
-setup_overseer_2.0.0.21-3.bin d97c0da29340f8994f1c349d84ac04af
-setup_overseer_2.0.0.21.exe 06ec34f522200125f726c6e43e676d31
-tex_murphy_avatars.zip 463a1ef0f7d1d7ec8f19822a9d65f146
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

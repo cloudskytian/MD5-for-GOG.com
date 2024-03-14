@@ -1,4 +1,1 @@
-cryptark_ost_flac.zip 670d20c01deb065fe2ee4d806a011d50
-cryptark_ost_mp3.zip ff268844a7fd69c370cf7cee59302b4b
-cryptark_wallpaper.zip 50476d4722b982e2b5dfd4853ed10b50
-setup_cryptark_1.23_(22764).exe d7fc11177e19607f196d94829b1ba945
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

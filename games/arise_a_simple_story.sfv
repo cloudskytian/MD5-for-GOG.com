@@ -1,3 +1,1 @@
-setup_arise_a_simple_story_1.20.3_(64bit)_(53242)-1.bin a364d73d653de062ff7f2808614bd6ef
-setup_arise_a_simple_story_1.20.3_(64bit)_(53242)-2.bin ab2a758bd1885455e45336ba70cbc018
-setup_arise_a_simple_story_1.20.3_(64bit)_(53242).exe 7b0ce5207861d990aa4d2c4ba9baefb1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

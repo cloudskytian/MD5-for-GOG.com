@@ -1,3 +1,1 @@
-setup_the_little_acre_16082017_(14244)-1.bin 644e6cb74a850b9b3d073b9d54153fef
-setup_the_little_acre_16082017_(14244).exe 90664e6ec32ebe6be3133518ac3d160a
-tla_artbook.zip 895b55ea4f8c1dfeb2af95665370d7bd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

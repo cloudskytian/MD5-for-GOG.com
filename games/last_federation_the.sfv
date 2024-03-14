@@ -1,6 +1,1 @@
-last_federation_artwork.zip 9ff4adc73bc72dcb97fb7b65205aff96
-last_federation_wallpapers.zip 25def71cb612460362d1212789b9d3ec
-setup_the_last_federation_3.005_(21974).exe 54a4af6c9c3f493da361ab07f19b0cf0
-setup_the_last_federation_betrayed_hope_3.005_(21974).exe 2052593041c039a1c5f1b4f506d85e67
-setup_the_last_federation_the_lost_technologies_3.005_(21974).exe 981aa68a9de133bd38361cb2bc4a64c9
-tlf_lost_technologies_wallpapers.zip dc8fe709c193bb8e63ae0c2f41868553
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

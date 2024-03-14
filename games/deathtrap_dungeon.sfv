@@ -1,4 +1,1 @@
-deathtrap_dungeon_bestiary.zip 2f283abcaa26c0febb0cc42c155f8c08
-deathtrap_dungeon_handbuch.zip 8f39f6460955a8460654795dd029c41b
-deathtrap_dungeon_manual.zip 7d918278a42c73e9993429a889190332
-setup_deathtrap_dungeon_1.0_hotfix_(26008).exe 005be42d0a62a7bcecf85306e495dd34
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

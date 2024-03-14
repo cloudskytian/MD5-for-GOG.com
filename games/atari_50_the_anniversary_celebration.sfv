@@ -1,4 +1,1 @@
-setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046)-1.bin d081e7e9c25d3d75a2c76b4858b54b09
-setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046)-2.bin 3a0a231a5ce5fc1856cfefbde963f113
-setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046)-3.bin f0b841f3a31cb5809cba214a2759c250
-setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046).exe 28be7d6ca8090377ebc97646813e84a0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

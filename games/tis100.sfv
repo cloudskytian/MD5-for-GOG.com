@@ -1,2 +1,1 @@
-setup_tis-100_20171129_(43141).exe 3e3abd23d30a46680bb2c2dd4a2d5ebd
-tis100_manual.zip eebe81a618c87f86ef6404def4c15c5a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

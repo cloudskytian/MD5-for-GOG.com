@@ -1,4 +1,1 @@
-setup_subwar_2050_complete_1.2_(28045).exe d8ebff347e033443b21a85921f980a0b
-subwar_2050_magazine.zip 65c16e13664c7ceebe259e0c405743a0
-subwar_2050_manuals.zip a51fd9e457f11e73a0bf16160bca8d81
-subwar_2050_reference_card.zip 124edb2982ae0f28f8c4e4501421c3ca
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

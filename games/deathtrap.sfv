@@ -1,2 +1,1 @@
-setup_deathtrap_1.0.6_(16809)-1.bin af3c7f0562fac9b6c936c1758418c31b
-setup_deathtrap_1.0.6_(16809).exe edaee0ace052912ddb2cab2dfc8267ad
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

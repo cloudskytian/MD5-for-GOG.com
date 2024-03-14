@@ -1,4 +1,1 @@
-setup_ut_goty_2.0.0.5.exe 0d25ec835648710a098aff7106187f38
-unreal_avatars.zip 26527909455d101046f392f08276d078
-unreal_tournament_wallpapers.zip b4e1baecdc47a359554b40c4e4555c08
-ut_manual.zip 47a45f034631f1317abde875a0d0ec9f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

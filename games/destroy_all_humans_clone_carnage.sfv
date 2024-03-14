@@ -1,5 +1,1 @@
-setup_destroy_all_humans_clone_carnage_1.0a_(56216)-1.bin 375f98f930150d1665d770f9bb0f309c
-setup_destroy_all_humans_clone_carnage_1.0a_(56216)-2.bin 04f76d773c402e02e57fc4a5bfeadfdc
-setup_destroy_all_humans_clone_carnage_1.0a_(56216)-3.bin 063baa3ca0f1c7ac0ee083c583c3ffe0
-setup_destroy_all_humans_clone_carnage_1.0a_(56216)-4.bin 268e09e496e06c8c0e6bd4b5db0e3761
-setup_destroy_all_humans_clone_carnage_1.0a_(56216).exe 40fe39e4842743529d4a69f8cd30e7c9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

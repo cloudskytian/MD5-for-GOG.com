@@ -1,7 +1,1 @@
-I-War_OST.zip 9775b7478a7e01b241b2751b6d69a6e0
-I-war_manual.zip cde9d7c0964b34dcd3df227ab2b8763c
-Independence_War_Ship_Identification_Chart.zip a429704cacda2b4500487f378c3999bc
-Independence_War_artworks.zip f5773632cde22bb5a7f174ea0f9828b1
-Independence_War_reference_card.zip 1236fa65a3d3a026e3e61abc7a41540c
-Independence_War_wallpapers.zip 68831d0415d70f50208f8ece44b9638e
-setup_independence_war_2.0.0.15.exe 3f11b3402d370f819ee64ea8b13b0c5f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

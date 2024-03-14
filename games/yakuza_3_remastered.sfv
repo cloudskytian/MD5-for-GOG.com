@@ -1,7 +1,1 @@
-setup_yakuza_3_remastered_1.005a_(64bit)_(65330)-1.bin 6a8dc74edadd27132c63236f0171ea46
-setup_yakuza_3_remastered_1.005a_(64bit)_(65330)-2.bin ba3105343b3196746c1a22a31b5257d0
-setup_yakuza_3_remastered_1.005a_(64bit)_(65330)-3.bin 3a9fa3c03f09d5f0511ec15af87ab910
-setup_yakuza_3_remastered_1.005a_(64bit)_(65330)-4.bin 727877a085148314b36ec6f75ccb4df8
-setup_yakuza_3_remastered_1.005a_(64bit)_(65330)-5.bin 9c113d2b8ccefd233310b284c549429e
-setup_yakuza_3_remastered_1.005a_(64bit)_(65330)-6.bin 9d110240d3f388814767c3d4e734b616
-setup_yakuza_3_remastered_1.005a_(64bit)_(65330).exe 23d22a2afb0e4dbe1a5087c8fe4d05cd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

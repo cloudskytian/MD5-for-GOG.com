@@ -1,4 +1,1 @@
-Artbook.zip a4b91d2ebb5ff01c9220e037837bd01a
-setup_the_uncertain_last_quiet_day_1.0.1.004_(44481)-1.bin e201ca278fb1839051775ffb04206136
-setup_the_uncertain_last_quiet_day_1.0.1.004_(44481).exe 692952b12b3e792bf3c4536999814934
-the_uncertain_soundtrack_mp3.zip c29981b4a5dce8e18194184d7395f7de
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

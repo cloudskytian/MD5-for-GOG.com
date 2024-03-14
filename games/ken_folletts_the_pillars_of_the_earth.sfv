@@ -1,6 +1,1 @@
-ken_folletts_the_pillars_of_the_earth_soundtrack_mp3.zip 5ae47d6c530709051199a207a33445bc
-setup_ken_folletts_the_pillars_of_the_earth_-_book_2__3_1.1.703_(19286).exe b4ac61d8d98610de86a0413d9bfadc80
-setup_ken_folletts_the_pillars_of_the_earth_1.1.703_(19286)-1.bin f07fdc4bf6a8e45087b4ffe29ac776a3
-setup_ken_folletts_the_pillars_of_the_earth_1.1.703_(19286)-2.bin 00df9f73b69a8d20d846a44e5a1fefc2
-setup_ken_folletts_the_pillars_of_the_earth_1.1.703_(19286)-3.bin 45a14f97058182490ca043c35ce652a4
-setup_ken_folletts_the_pillars_of_the_earth_1.1.703_(19286).exe 41a1fb4b726208849432a64b7969244e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

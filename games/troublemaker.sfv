@@ -1,4 +1,1 @@
-setup_troublemaker_1.2b_(66377)-1.bin a78f50aa300e1a2200562df4cb297ce6
-setup_troublemaker_1.2b_(66377)-2.bin 7f92d33ebfa3a036caba2f0bc879422f
-setup_troublemaker_1.2b_(66377)-3.bin 8ead9529873b5b814a4ae915ff4a0257
-setup_troublemaker_1.2b_(66377).exe 81fa6c978f036c0a592f272613c930a6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

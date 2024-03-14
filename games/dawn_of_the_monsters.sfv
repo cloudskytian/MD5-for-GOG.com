@@ -1,2 +1,1 @@
-setup_dawn_of_the_monsters_1.00_(64bit)_(55628)-1.bin cc1310ddc96837515de47cb9922dac90
-setup_dawn_of_the_monsters_1.00_(64bit)_(55628).exe ee3b4bc2cfeac326fffcada85e99790c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

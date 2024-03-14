@@ -1,4 +1,1 @@
-samudra_original_soundtrack.zip 6f00df5cb0379d8a56962fc1f11b90b9
-setup_samudra_1.0_(59815)-1.bin dd6c2da8378d4f8a4f91bebcf1408e69
-setup_samudra_1.0_(59815)-2.bin 7b098cd545bd5e2cdf5e2489854dbec1
-setup_samudra_1.0_(59815).exe 247b92cfaef46b2fc22e22602315c2b6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

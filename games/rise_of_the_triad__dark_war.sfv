@@ -1,4 +1,1 @@
-rott_manual.zip 04c938e4ffef266486254bafbc9482b4
-rott_morelvls.zip 041c51bf1b7f8bcfb9003fbd262dbb80
-rott_soundtrack.zip 71d6e9fb20f7484fe16f916149851120
-setup_rise_of_the_triad_1.3_(28045).exe 0e7b22d383bb51f9288f14c57ab4ac61
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

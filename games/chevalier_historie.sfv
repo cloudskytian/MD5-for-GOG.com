@@ -1,4 +1,1 @@
-setup_chevalier_historie_unrated_v2_(en_1.03_cn_1.02)_(54188)-1.bin 249362391eebd232fcada7cbdad731ff
-setup_chevalier_historie_unrated_v2_(en_1.03_cn_1.02)_(54188).exe 4bbbb40bd8790dc1f993fa65075dd085
-setup_chevalier_historie_v2_(en_1.03_cn_1.02)_(54188)-1.bin 910e579359221b137b41b79e779839ed
-setup_chevalier_historie_v2_(en_1.03_cn_1.02)_(54188).exe 7704ba281897d0700a92f00e81272702
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

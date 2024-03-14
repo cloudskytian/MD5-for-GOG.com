@@ -1,3 +1,1 @@
-setup_rime_1.04_(a)_(40568)-1.bin aa40d7bf862088c92b9a0dbe09c42012
-setup_rime_1.04_(a)_(40568)-2.bin c9cad9754731585b3e68a305eef4bd01
-setup_rime_1.04_(a)_(40568).exe 04c89d5de10df3c16c5e9b3512d559aa
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

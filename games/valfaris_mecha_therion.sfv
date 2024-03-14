@@ -1,2 +1,1 @@
-setup_valfaris_mecha_therion_1.02_(69065)-1.bin 30641b224b42fb097d590cbbb412b496
-setup_valfaris_mecha_therion_1.02_(69065).exe d9c57f3104a991e8b7fc4e11d6135418
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

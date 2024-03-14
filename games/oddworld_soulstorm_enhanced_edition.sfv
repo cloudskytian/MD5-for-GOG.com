@@ -1,5 +1,1 @@
-setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-1.bin 095400e53b83d437c161308fa714f1b9
-setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-2.bin 39f8c40a5e5add3302c55d0160b16ce7
-setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-3.bin c5a069372d397ec8a2f38c6562b43900
-setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-4.bin c7086d7a03aa8da896a09d5222e49131
-setup_oddworld_soulstorm_enhanced_edition_1.0_(66368).exe 357e651fe82c900679f29b52493cf99d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,9 +1,1 @@
-per_aspera_artbook.zip 1f42584947ef56c8e5bfb14c44c8e04a
-per_aspera_audio_drama.zip 8fde3df4406dc12da2f5830034e08f3b
-per_aspera_audiobook.zip de1b3f847b51b955119ec0c36c0daf69
-per_aspera_ost_mp3.zip d4d804e28b765714fd744c35dac835e2
-per_aspera_ost_wav.zip 6219d4eeb71977604b16dae9c4383588
-per_aspera_soundtrack_mp3.zip b166530340ffb5a261c3f46f4c999047
-setup_per_aspera_-_blue_mars_v.1.8.2.32335.2023.3.28.1_(64bit)_(63450).exe e6199463352b2047aa382a2564d4023e
-setup_per_aspera_v.1.8.2.32335.2023.3.28.1_(64bit)_(63450)-1.bin 6ca8593e410bec5b0521892ac8881160
-setup_per_aspera_v.1.8.2.32335.2023.3.28.1_(64bit)_(63450).exe 7479961310b399a32ab3e091f037b4b6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

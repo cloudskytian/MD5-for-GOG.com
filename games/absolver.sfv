@@ -1,9 +1,1 @@
-absolver_digital_artbook.zip c0ebed28eddf4b7f0c5d25f643217129
-absolver_ost.zip 78b8ddcb01a4295dac9f48aa26179076
-setup_absolver_1.31.576_(31903)-1.bin 347a8ef88a0a0166691158a656c0d5d5
-setup_absolver_1.31.576_(31903)-2.bin 70b5429e06b0e796f782f0d6be41a529
-setup_absolver_1.31.576_(31903)-3.bin 70f20889eed3b7d7ca1e7deeb845aff3
-setup_absolver_1.31.576_(31903)-4.bin bc5e2e12d4b0bc3d1dbfcc83b1922c5c
-setup_absolver_1.31.576_(31903).exe 43f286d7989c689f0576a6d858320b23
-setup_absolver_adalian_forest_1.31.576_(31903).exe b436250953d9d8e4acd43eb888d5cf6a
-setup_absolver_pre-order_dlc_1.31.576_(31903).exe f6fec2b179f11734c5e84428e347defb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

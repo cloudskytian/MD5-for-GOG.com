@@ -1,5 +1,1 @@
-setup_terminator_dark_fate_-_defiance_1.01.934_(71490)-1.bin f2d3c43e77091d0ecfc451f7c88a2214
-setup_terminator_dark_fate_-_defiance_1.01.934_(71490)-2.bin a5684dafb83532a5c3714fd380d124e7
-setup_terminator_dark_fate_-_defiance_1.01.934_(71490)-3.bin 093c8edeb4e384f8ac88c568cdc365c0
-setup_terminator_dark_fate_-_defiance_1.01.934_(71490)-4.bin 96c79750d653c6ecb2f203cb174394f2
-setup_terminator_dark_fate_-_defiance_1.01.934_(71490).exe a9b460a5c7264c4003b13fb27c6d8e63
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

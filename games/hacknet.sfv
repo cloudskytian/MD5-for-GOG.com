@@ -1,6 +1,1 @@
-hacknet_labyrinths_ost_flac.zip e9c081ca13660989f8d4644698294d58
-hacknet_labyrinths_ost_mp3.zip dc3bb918b743fd00a2fd9a1d78bf5ec1
-hacknet_ost_flac.zip e15379f328af48abc69ea4f52724f44b
-hacknet_ost_mp3.zip 22de283c29cd500435bbb7403f4a2017
-setup_hacknet_-_labyrinths_5.069_(15083).exe 344dc25a2814f9714b0a033750a7c5ce
-setup_hacknet_5.069_(15083).exe f940ba06b6a9b3e3f07846f71d0f8d09
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

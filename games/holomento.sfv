@@ -1,4 +1,1 @@
-setup_holomento_0.6.3_(64bit)_(63995)-1.bin 936a6de3cf0f1be7663aeec0603e5143
-setup_holomento_0.6.3_(64bit)_(63995)-2.bin adc1f737d21230a4c43f78e732538ae0
-setup_holomento_0.6.3_(64bit)_(63995)-3.bin c47bc4ee2b0956ba15e62c43c2f2e05a
-setup_holomento_0.6.3_(64bit)_(63995).exe 9d09a29397d7ec4fb1846798c252a15f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

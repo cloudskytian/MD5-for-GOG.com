@@ -1,3 +1,1 @@
-setup_sound_of_drop_-_fall_into_poison_-_1.0_(25139).exe b093b31559a2cc842fc5f662d2b8bc38
-sound_of_drop_ost_FLAC.zip ea5289d16c22a6b3c8a068dc14454da1
-sound_of_drop_ost_OGG.zip fc600b86f7b5569a9d1afa03525d6ea8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

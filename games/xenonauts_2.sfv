@@ -1,3 +1,1 @@
-setup_xenonauts_2_milestone_3.0.9_release_(71362)-1.bin b0e6360e235aa513e02ae6818a5c6041
-setup_xenonauts_2_milestone_3.0.9_release_(71362)-2.bin 97e54a0e57561e9c58f29f99232326fe
-setup_xenonauts_2_milestone_3.0.9_release_(71362).exe 8e6312d11c79a1e7d2d2ca33b39a00b7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

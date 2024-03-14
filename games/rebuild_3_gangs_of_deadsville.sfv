@@ -1,4 +1,1 @@
-rebuild_3_artbook.zip fedbdc779a02e3a049cef41c1e89cdc8
-rebuild_3_soundtrack.zip af1464d6cf6d3ecb0bef035c9461b11c
-rebuild_3_wallpaper.zip bfab45f55748c082843bf167b27b1359
-setup_rebuild_3_gangs_of_deadsville_1.6.41_(46964).exe 6c4ec846b03f3dd64f80b68f04033a8b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

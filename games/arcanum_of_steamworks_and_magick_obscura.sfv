@@ -1,7 +1,1 @@
-Arcanum_Artworks.zip e5fda207699398da6c5abdd6cf46c3e5
-Arcanum_Avatars.zip 72925df8e49aaea1f4ed1a5630916c57
-Arcanum_Manual.zip 2baf48ad2230654a946f929acc3f508c
-Arcanum_Map.zip d7695ff0091a1b69d5095cbeb47413c0
-Arcanum_Quick_Reference_Card.zip 5c2b67823cc1d81bd07e07e84a1fcec0
-Arcanum_Wallpapers.zip d5eb752eced33807b0e23c9535eb8c90
-setup_arcanum_-_of_steamworks_and_magick_obscura_1.0.7.4_hotfix_(24155).exe 6d14d07f7cc8c9823cba5322cf2336f4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

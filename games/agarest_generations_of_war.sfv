@@ -1,9 +1,1 @@
-agarest_avatars.zip 47e2b6745cc4b46114aa431c0cd69d9f
-agarest_ce_digital_artbook.zip 76e6002424e2f7530c7acf68594d07d4
-agarest_ce_soundtrack.zip b4fb8ce403210d55eab883685f3d20ba
-agarest_ce_wallpapers.zip ebddd5104ee1205bebb570df1aae0407
-agarest_manual.zip 6d7c59116474da44648d6ff81a61c1dc
-agarest_wallpapers.zip 429218ea0edd67fd1a4cf4a2ab11ce3e
-setup_agarest_generations_of_war_1.0_(19909)-1.bin 7fce1d1ce7d552d2a999e12a4e8c1b2e
-setup_agarest_generations_of_war_1.0_(19909)-2.bin 60da57c456db0e646df4821cd69dad91
-setup_agarest_generations_of_war_1.0_(19909).exe 8f05af4b77558335ec594b9488461419
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

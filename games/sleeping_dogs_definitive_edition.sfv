@@ -1,5 +1,1 @@
-setup_sleeping_dogs_definitive_edition_1.0_(45681)-1.bin e14f40322b3ff514f52814cdaa783a7a
-setup_sleeping_dogs_definitive_edition_1.0_(45681)-2.bin 65d31559c1f88fca2c9b212384081c67
-setup_sleeping_dogs_definitive_edition_1.0_(45681)-3.bin 597d352a100435be8c226ed72b370ee3
-setup_sleeping_dogs_definitive_edition_1.0_(45681)-4.bin a2d374e4044cb3fd9a2a112d05d38455
-setup_sleeping_dogs_definitive_edition_1.0_(45681).exe 2edb79b1a4ab5cb9d30cc04fced4b448
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

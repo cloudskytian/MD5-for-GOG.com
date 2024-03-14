@@ -1,11 +1,1 @@
-codex_libido_aestus.zip 98878182b125966730a1235ddc2ee39f
-codex_libido_halloween.zip 50003058c8988e66f811b4f32e376339
-codex_libido_mundus.zip e4940f51d1cb5e45ced2bf0adcdecef7
-codex_libido_oriens.zip 42da394d41fec4665446ac8cf1098979
-monster_girl_sketch_vol_01.zip 977a58334a5b5271079b6e696f38ada5
-monster_girl_sketch_vol_02_a.zip 605bb9447204d7fd573154d243011634
-monster_girl_sketch_vol_02_b.zip 76b1b2fc0d7eed344829df13c0adcab3
-setup_siluman_fantasy_1.0_(65858).exe ed6111b988e3beecd08ebddbc5f9d1ec
-siluman_fantasy_novel_2.zip 77198979a5f62e08d1bbf0a315710e46
-siluman_fantasy_novel_3.zip 15e74caf02a653543a00dc675a19d66d
-siluman_fantasy_the_novel.zip 96c4cfea6ca08407f82c39242a1ce7b8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

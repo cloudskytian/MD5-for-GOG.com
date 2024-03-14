@@ -1,3 +1,1 @@
-setup_war_wind_1.2_(25952).exe 9795dd95083c9ceaa31c3a57253d90fb
-war_wind_dependency_charts.zip eec62836f65f5863a4d181b694a350d9
-war_wind_manual.zip 15335eed7e78e7bb85d4b3e0fed998e0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

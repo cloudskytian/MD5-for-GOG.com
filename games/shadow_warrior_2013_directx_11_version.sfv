@@ -1,9 +1,1 @@
-setup_shadow_warrior_dx11_2.0.0.1-1.bin a97f933705e085cf20057e011f1ca20d
-setup_shadow_warrior_dx11_2.0.0.1-2.bin af34b568c3fbe0a10577505bcbb0caaa
-setup_shadow_warrior_dx11_2.0.0.1.exe c237088e2db3d5f03c4f857cbe98d70a
-shadow_warrior_2013_avatar.zip ce78e2e1dcea3695b3afe523a792bad2
-shadow_warrior_2013_wallpaper.zip 9fafc0872ae06b69842904cfa48fccef
-sw_2013_artbook.zip fc739961cd494317c0d11a4cb32f0109
-sw_2013_ost_flac.zip 1fe66d7523784151f95cd78d01c69950
-sw_2013_ost_mp3.zip 352dc540285c30c1d7cd8800fa7ebdc7
-sw_2013_viscera_cleanup_detail.zip 7c1b11ae173243397fe1ec49aa2916c6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

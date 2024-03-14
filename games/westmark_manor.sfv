@@ -1,2 +1,1 @@
-setup_westmark_manor_1.042_(64bit)_(49211)-1.bin c6c8977a8f34b3355728415bb09ad5b9
-setup_westmark_manor_1.042_(64bit)_(49211).exe d3554fba21219a332f4e9738dedd8a98
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

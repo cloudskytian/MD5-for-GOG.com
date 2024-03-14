@@ -1,4 +1,1 @@
-setup_the_house_of_da_vinci_2_1.0.3_(64bit)_(52018)-1.bin 752f08132987d175fceb03149a3fc047
-setup_the_house_of_da_vinci_2_1.0.3_(64bit)_(52018).exe fdf484307cfc0f36ebdd8efadc67a6ca
-the_house_of_da_vinci_2_soundtrack_mp3.zip dcb01eaa3c1c2b81c77dc7ea78166def
-the_house_of_da_vinci_2_soundtrack_wav.zip 2985cd806b31cca76636c8860dc875cc
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

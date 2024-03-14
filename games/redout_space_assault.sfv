@@ -1,7 +1,1 @@
-redout_space_assault_ost_mp3.zip 03ccc7abf9f40f7a36e7910b3060a226
-redout_space_assault_ost_wav.zip 571df7fdc347daa6d97692843d2c7be2
-setup_redout_space_assault_1.1.0_(64bit)_(47146)-1.bin 9598d5162c1cd4a01062a6a33a073412
-setup_redout_space_assault_1.1.0_(64bit)_(47146)-2.bin 6ee4daec8da15748fe1822a99aadc5ff
-setup_redout_space_assault_1.1.0_(64bit)_(47146)-3.bin 98bc363624d3122ef59691d32faa0dc7
-setup_redout_space_assault_1.1.0_(64bit)_(47146)-4.bin 0134f81f76b2409d89d7aa55fc6a73ca
-setup_redout_space_assault_1.1.0_(64bit)_(47146).exe cf168f3c9d2a6b077e478575cb838121
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

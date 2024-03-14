@@ -1,2 +1,1 @@
-setup_icbm_1.02.03_(58785)-1.bin 25bd3c3927c53e96f5453496531c7e6f
-setup_icbm_1.02.03_(58785).exe a5af8dc5127608153226f6a6d4b3f355
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

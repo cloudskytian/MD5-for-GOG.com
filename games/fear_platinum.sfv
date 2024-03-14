@@ -1,9 +1,1 @@
-fear_platinum_alma_live.zip 1d8d4c379ff30dc6dcd943357137c5e6
-fear_platinum_directors_commentary.zip 1ac6c055b5a850a6d4a7e370d3d2f102
-fear_platinum_making_of.zip 7020c899397b23d16ecf809b06d7cb62
-fear_platinum_manuals.zip 03fc754c5e9e10da42f621b71c1d13b4
-fear_platinum_panics_machinima.zip 4c932a00ee146ef7dffafdfc58037b0a
-fear_platinum_wallpaper.zip b9afb45a1e94c553a6d11545e558e658
-setup_fear_platinum_collection_2.0.0.5-1.bin d5a2c24c5195a5f043889a853096199e
-setup_fear_platinum_collection_2.0.0.5-2.bin 22adaf0a59be7c718b9b072476ebaf5f
-setup_fear_platinum_collection_2.0.0.5.exe c6c57d200aec7791fe6f8c8a633b1e6a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

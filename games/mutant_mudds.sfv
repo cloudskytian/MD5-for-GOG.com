@@ -1,4 +1,1 @@
-mutant_mudds_avatars.zip 3b0ecad072a5c26ba7879c836daf0ff7
-mutant_mudds_soundtrack.zip 5530ade5e0efbbdf83bf4335fca633a3
-mutant_mudds_wallpaper.zip 38760a67ab6483e62c6f09a5b69e64e7
-setup_mutant_mudds_1.3.0.2527_(21303).exe 91982a444e6a5602ae85b0c219bdd2b6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

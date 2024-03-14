@@ -1,7 +1,1 @@
-on_the_road_96 _documentary.zip b0b3d2c5379271a5c5dce93e2721743a
-road_96_prologue_story_content_ebooks.zip 09e19cd7823d5237d87e37db8c3d28a7
-road_96_soundtrack_flac.zip c9ec8542c2717ed31aa3098328373e1d
-road_96_soundtrack_mp3.zip 7267ecedb205ba75069ac47695ab569b
-setup_road_96_1.04_(64bit)_(51993)-1.bin 608d310ebb3154a0e85bad40175f9189
-setup_road_96_1.04_(64bit)_(51993)-2.bin f0d523facddf8c40c18fd6b1721a8855
-setup_road_96_1.04_(64bit)_(51993).exe f0d88097b5e6c44687e073c4abef816b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

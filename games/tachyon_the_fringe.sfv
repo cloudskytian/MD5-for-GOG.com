@@ -1,4 +1,1 @@
-setup_tachyon_the_fringe_2.0.0.3.exe 029881e7ad8f6c862cf4bdc5dc17a723
-tachyon_manual.zip 8489791227658b02d1cd6d4e92461dac
-tachyon_quick_reference_card.zip 0c152a24d0494bb910a9213606f89785
-tachyon_quick_start_guide.zip a53a23a9917039592a8a18bd90a47b5e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

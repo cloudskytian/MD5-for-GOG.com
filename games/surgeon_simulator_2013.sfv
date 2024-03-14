@@ -1,6 +1,1 @@
-setup_surgeon_simulator2013_2.0.0.5.exe c84a9349a39b5861e25c0412067e0d07
-setup_surgeon_simulator2013_anniversary_edition_2.0.0.5.exe fb661db3a447d222c41cdcf2bd984c53
-ss2013_avatar.zip 310f460be2a7a8dde47b8d56584c5c07
-ss2013_soundtrack.zip 555cccd50060d5875a190c54a1b8a38c
-ss2013_wallpaper.zip be8d22fcbd6f0313b551fd379f08fb5a
-ss_ae_wallpaper.zip e36033d8151d06ec0ea0b78f2530dcf9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

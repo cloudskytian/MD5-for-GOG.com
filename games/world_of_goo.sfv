@@ -1,3 +1,1 @@
-setup_world_of_goo_1.53(a)_(29822)-1.bin b22fd08e307478ecda4ab437cfaa9089
-setup_world_of_goo_1.53(a)_(29822).exe d68ce5d63f200ad83ec4ba659f65c3fc
-world_of_goo_wallpapers.zip 5d568c48a51bd8d00d08c0b6c89316ae
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

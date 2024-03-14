@@ -1,4 +1,1 @@
-setup_zombie_shooting_star_1.1_(64bit)_(66314)-1.bin c2a6baf5b295b7dd99c9c4649330cce7
-setup_zombie_shooting_star_1.1_(64bit)_(66314)-2.bin 51a0f6d2d13c4ac42acf54c4aa0ad395
-setup_zombie_shooting_star_1.1_(64bit)_(66314)-3.bin df5e1fe49bb5bf1b65a5dd6b22bdbd98
-setup_zombie_shooting_star_1.1_(64bit)_(66314).exe ea460b5cfeeb533f791c0658ed3644f9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-setup_black_geyser_couriers_of_darkness_1.2.56_(64bit)_(67119)-1.bin f11e884b1505e2ed0d96a8f6ff74e288
-setup_black_geyser_couriers_of_darkness_1.2.56_(64bit)_(67119)-2.bin 6557cd2598e973867f5ff6dc10490327
-setup_black_geyser_couriers_of_darkness_1.2.56_(64bit)_(67119)-3.bin a1936b5901821af4b1b26af107e4beb1
-setup_black_geyser_couriers_of_darkness_1.2.56_(64bit)_(67119)-4.bin 67848800636067de55bade7a3bc866f0
-setup_black_geyser_couriers_of_darkness_1.2.56_(64bit)_(67119)-5.bin 36c362775bd14adeb9cb48b833123b3e
-setup_black_geyser_couriers_of_darkness_1.2.56_(64bit)_(67119)-6.bin 181db2651438ebbb8e2cc4a5b7970ea5
-setup_black_geyser_couriers_of_darkness_1.2.56_(64bit)_(67119).exe 56233b8716db25d0cc7eacf62381c78d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

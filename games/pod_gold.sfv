@@ -1,3 +1,1 @@
-pod_manual.zip 518d9f81c7ccccf35b815ffdd8151d4a
-pod_race_music.zip 9d2c74c7f29c799d6616987124c1bf5f
-setup_pod_2.0.0.19.exe 3e1467e236870cb9ab5994dbaaa29b7d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

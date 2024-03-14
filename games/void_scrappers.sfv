@@ -1,3 +1,1 @@
-setup_void_scrappers_1.37_(64bit)_(64501).exe 178ef903f72a582c437dc4dba6f44811
-void_scrappers_soundtrack_mp3.zip 1517398ed52a8d7980521ac18f3ca5cc
-void_scrappers_soundtrack_wav.zip 28d95f10384dcdf28510d5cdd1373e56
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

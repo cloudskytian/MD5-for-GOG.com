@@ -1,2 +1,1 @@
-setup_lost_horizon_2_1.00_(33204)-1.bin 34e2d019077ccf78763d2a9d35eadec1
-setup_lost_horizon_2_1.00_(33204).exe 9ccfe219b12c7c0e62568de3a79e3c2b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

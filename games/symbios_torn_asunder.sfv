@@ -1,4 +1,1 @@
-setup_sym.bios_torn_asunder_1.02_(toggle_fix)_(64bit)_(69680)-1.bin 77c0fd7c9422dcea63f33ba196d493a6
-setup_sym.bios_torn_asunder_1.02_(toggle_fix)_(64bit)_(69680).exe 3979bf08c6469cea302db7219f5dd408
-symbios_torn_asunder_soundtrack_flac.zip 0ead506b2006676ef9ddb5ed0ac079ea
-symbios_torn_asunder_soundtrack_mp3.zip 0d62295fef89df7690d53a695a515071
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

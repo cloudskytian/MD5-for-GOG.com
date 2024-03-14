@@ -1,2 +1,1 @@
-setup_bright_memory_1.0.0.2_(51416)-1.bin 6440f2502ecb22adc4594986af8a9cbe
-setup_bright_memory_1.0.0.2_(51416).exe 03bce544bf6bcbaa7f80560e35ba1329
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

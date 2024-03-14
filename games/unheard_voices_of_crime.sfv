@@ -1,3 +1,1 @@
-setup_unheard_-_voices_of_crime_1.0_(67214)-1.bin 5d5f96bb7f15f7d53b067adc89dfd7f3
-setup_unheard_-_voices_of_crime_1.0_(67214)-2.bin 04707ac2f0e786a062ac6d06ec51ba5b
-setup_unheard_-_voices_of_crime_1.0_(67214).exe e684ffabd44434146e85d16c572e3bf1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

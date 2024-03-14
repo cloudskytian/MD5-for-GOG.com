@@ -1,5 +1,1 @@
-setup_brigand_battles_12.6_(68128).exe 3febaa391a12c33f3c293de8d76cf2f6
-setup_brigand_extras_12.6_(68128).exe 77e9acb7a321ad94d92ad2534ced33f5
-setup_brigand_nightmare_12.6_(68128).exe f779f248ec81844ceb216d67047c8eb6
-setup_brigand_oaxaca_12.6_(68128).exe b933479cc13f6167fd6fe070e15be7e8
-setup_brigand_panama_12.6_(68128).exe 05b1e0bf2e5e072e53333586a29b64f1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

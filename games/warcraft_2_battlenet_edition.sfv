@@ -1,4 +1,1 @@
-setup_warcraft_ii_2.02_v4_(28734).exe 1635c5d2d5960f21d532c477837f238d
-warcraft_2_battlenet_edition_community_maps.zip e368f28095be205bda5797709c01bbec
-warcraft_2_battlenet_edition_manual_EN_pdf.zip 195025401d6a9b280079ebef68c55665
-warcraft_2_battlenet_edition_wallpapers_20.zip a158c30aafc0de7230b49889b36ff1cd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-revolt_artworks.zip 90d39b810af105204bee9545dd8b95bb
-revolt_manual.zip 68037447309b2df7ab6aae004a0a5425
-revolt_ost_dc.zip a9f4e595d33c0b6f4035d495591925bf
-revolt_ost_pc.zip 289a5bbc69fbe11bcdbd91b1aa528d72
-revolt_qrc.zip 8a393cab454ffe93d5a831fff0f47477
-setup_re-volt_1.1_hotfix_(55516).exe b33e7025d15b417df89c4ff7ec2c4979
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

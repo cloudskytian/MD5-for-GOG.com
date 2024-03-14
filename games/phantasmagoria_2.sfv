@@ -1,5 +1,1 @@
-Phantasmagoria2_avatar.zip b53db1dfc68d2d1a3da35d7a0290da30
-Phantasmagoria2_wallpaper.zip b87d75a7bbd37219937f6b592f7998ff
-phantasmagoria2_manual.zip 421cfb860cff13a0e468ec94f4ffcc52
-setup_phantasmagoria_2_-_a_puzzle_of_flesh_1.0.06_sound_fix_(41959)-1.bin aae107ca3021845b816d6a8d734cf73c
-setup_phantasmagoria_2_-_a_puzzle_of_flesh_1.0.06_sound_fix_(41959).exe 196be8dd784cef4d513930abebf8b559
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

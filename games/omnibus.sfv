@@ -1,2 +1,1 @@
-omnibus_ost_mp3.zip 13d9e7e3c9c3dc19e01a9bdcc1498a66
-setup_omnibus_2.2.0.5.exe 5487d0c5474124f88ae3143cfcf454be
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

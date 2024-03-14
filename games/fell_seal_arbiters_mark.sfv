@@ -1,7 +1,1 @@
-character_portraits.zip a1798088ceab15a2eb58a10872121998
-fell_seal_manual.zip 0953084d201e8c7705c3518abe9ca021
-humans_creatures_and_places_artwork.zip a918de95e4ae4c511060cfc0c47248ab
-setup_fell_seal_arbiters_mark_-_missions_and_monsters_1.6.0_(49886).exe d44a99da4859ba7cf264b2bfcc2de418
-setup_fell_seal_arbiters_mark_1.6.0_(64bit)_(49886)-1.bin 73519614f1780280c1622c2e9ce23b18
-setup_fell_seal_arbiters_mark_1.6.0_(64bit)_(49886).exe aadc9d91dcbedede3271af94365f661d
-wallpapers.zip f627e163fd3608d671c87eb3ec863fa9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

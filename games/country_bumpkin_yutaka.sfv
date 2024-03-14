@@ -1,3 +1,1 @@
-setup_country_bumpkin_yutaka_unrated_v2_(en_1.00_cn_1.01)_(65665).exe 60cb96cfec244d00e8e05418abfd09bb
-setup_country_bumpkin_yutaka_v2_(en_1.00_cn_1.01)_(65665)-1.bin 847b852a9f558578fab0e8f458913a4d
-setup_country_bumpkin_yutaka_v2_(en_1.00_cn_1.01)_(65665).exe a8da0c6b2d5b6c5ce21e5a0843451eb1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

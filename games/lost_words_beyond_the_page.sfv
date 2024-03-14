@@ -1,2 +1,1 @@
-setup_lost_words_beyond_the_page_release_2021-04-23_8_(64bit)_(46551)-1.bin c632a4a1f22c8f2587e1d224547f00eb
-setup_lost_words_beyond_the_page_release_2021-04-23_8_(64bit)_(46551).exe 0c36cfe013e3196442d77a128a38aa9f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-setup_spelunky_2.1.0.9.exe bff7c275053137881c9f2f6df16ee4b3
-setup_spelunky_classic_2.0.0.5.exe 98f525d3722fd15825feb7b31b4416de
-spelunky_avatars.zip f3ad71f33e949fac4d500d4ef39c508b
-spelunky_classic_ost.zip aa3baf7f65d123c9ac4376a130f6a1da
-spelunky_soundtrack.zip 25369cfbae519d8dfadcb4c8946fae9d
-spelunky_wallpapers.zip 8747d287ce8aa52726eb34e249b0977c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

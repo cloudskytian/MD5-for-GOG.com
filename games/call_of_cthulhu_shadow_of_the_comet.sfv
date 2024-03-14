@@ -1,8 +1,1 @@
-setup_shadow_of_the_comet_1.0_(28045).exe 3a5a9b64a0c20c5cec3f9f95aac269dd
-setup_shadow_of_the_comet_floppy_2.0.0.3.exe 5f791754b64de57ade8cf3361cdb93f5
-sotc_capt_robins.zip 5751d0c48e158218c47345b243e8e5f1
-sotc_death_certificate.zip 6c99ff9eef2444709cdfdcd78aa0cf8a
-sotc_forester_note.zip 4205ed2f0bb5c191d02026249f138f48
-sotc_handbuch.zip febe6c3b1094ae2ac4381bce076665ad
-sotc_jack_reeves.zip 5ad254ede0b31cdf85de0aabef4f4aeb
-sotc_manual_eng.zip 656e7ce10c811d20ff86710c6da8cef1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

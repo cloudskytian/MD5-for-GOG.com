@@ -1,2 +1,1 @@
-setup_sheltered_2_sheltered2_rc_1_2_15_gog_(59921)-1.bin f2eb472250cbf518f73895821b7f3c63
-setup_sheltered_2_sheltered2_rc_1_2_15_gog_(59921).exe 5bb779f416f3c49e5c75813e6948aa4a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

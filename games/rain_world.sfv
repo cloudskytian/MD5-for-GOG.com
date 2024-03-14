@@ -1,3 +1,1 @@
-setup_rain_world_03-21-2023-1.9.07b-v3_(63290)-1.bin 355d3637cc9da40b0c93d881c2156823
-setup_rain_world_03-21-2023-1.9.07b-v3_(63290).exe 5aaefe4958633e93c4025bf6e1d2c318
-setup_rain_world_downpour_03-21-2023-1.9.07b-v3_(63290).exe f1c4acc788483372455a06d854ee8b2e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

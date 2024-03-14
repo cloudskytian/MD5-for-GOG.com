@@ -1,3 +1,1 @@
-setup_smugglers5_invasion_2.4.0.5.exe c5e986fe3f8db89bc5a43d1c9176071b
-setup_smugglers5_invasion_warrior_within_2.3.0.4.exe 8e06ea29b829c5f87219c7ef0cc34a8b
-smugglers_v_invasion_manual.zip e778ec4ea0db07ea93069566a0e1aecb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

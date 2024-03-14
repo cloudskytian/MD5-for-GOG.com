@@ -1,5 +1,1 @@
-HoMM4_Manuals.zip 9a15c479aaf25f3bea6760f6c0d5b28c
-HoMM4_Reference.zip 4f6af8bdf583180087f70ccebe7edd22
-homm4_ost.zip d6bbd7ce57dd52e2fbd794f5e4ed8587
-setup_heroes_of_might_and_magic_4_complete_3.0_win11_(58571)-1.bin c82afd73219eb772ce21f5ab43ef34ce
-setup_heroes_of_might_and_magic_4_complete_3.0_win11_(58571).exe 4f342558b1f93f4057666bc510127a3b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

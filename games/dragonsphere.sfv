@@ -1,4 +1,1 @@
-Dragonsphere_manual.zip b12456695ce52c4e0865d4400c2a4ec0
-dragonsphere_examination_paper.zip 58a7d5404cb20db22f9e003769711249
-dragonsphere_ost_flac.zip daed4719533bd15c41bdc9b0c4d11f5e
-setup_dragonsphere_1.0_(28044).exe ce01d26e221a47196c90c664d46c688a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

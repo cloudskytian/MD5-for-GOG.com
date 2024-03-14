@@ -1,4 +1,1 @@
-setup_the_shattering_-_secret_room_1.1.9_(64bit)_(58674).exe 22f237025b23efb216aee0c325b580d3
-setup_the_shattering_1.1.9_(64bit)_(58674)-1.bin e9816e8afdd75576c8e78c4470cc7853
-setup_the_shattering_1.1.9_(64bit)_(58674)-2.bin a70560d401e55da580154333a273cbfc
-setup_the_shattering_1.1.9_(64bit)_(58674).exe 37ba5c574c68ae0f883a7038e9b8949b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

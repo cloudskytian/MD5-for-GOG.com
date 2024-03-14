@@ -1,2 +1,1 @@
-setup_yesterday_1.0.1_(34047)-1.bin 40aa040bcb99a2038d24266d9807aac4
-setup_yesterday_1.0.1_(34047).exe 638c9882333cd55dabf7a136c25a5158
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

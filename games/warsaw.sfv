@@ -1,2 +1,1 @@
-setup_warsaw_111_(36728)-1.bin ccddc26eb4d1679d96f79868d40a9dbc
-setup_warsaw_111_(36728).exe 0fe993f66e692368d4103cd3cab5b2e5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

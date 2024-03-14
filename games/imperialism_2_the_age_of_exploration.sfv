@@ -1,5 +1,1 @@
-imperialism_2_manual.zip 869270ce85ffe232bedd2a6b8f2636cd
-imperialism_2_ost_flac.zip b1b72ead628c423e3862ff389a303d38
-imperialism_2_soundtrack.zip 9724f5d4b39625fbc7efb361f398e6b9
-imperialism_2_tech_tree.zip 3306868e144b674437da5ad9987dd75e
-setup_imperialism_ii_age_of_exploration_1.03_(20936).exe f38266c6f27ee231f89511b7ea406dcb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

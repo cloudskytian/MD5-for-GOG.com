@@ -1,4 +1,1 @@
-dragonwars_cluebook.zip d69c91ad3b702f4e59f16563224f0b12
-dragonwars_manual.zip b56d7473e44fa0dc18b613913fe50b67
-dragonwars_reference_card.zip ba004f84c67a55b8783172f7b9a69134
-setup_dragon_wars_1.0_(28044).exe 997732a7560344f05eeeb1d3de56dae5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

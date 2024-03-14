@@ -1,6 +1,1 @@
-pc3_manual_DE.zip 25efe75f26b8e34b1a4a42c161d6e75b
-pc3_manual_EN.zip 8cabb0ec5039e2a042694f226a2c5c0a
-pc3_manual_PL.zip 5083c4d35b741a8a110481c1559a1196
-pizza_connection_3_soundtrack_mp3.zip 5a8d6e4236b51b01febad9ce16c0a672
-pizza_connection_3_soundtrack_wav.zip 2a33ebe794daef8d375ca0838fe4eead
-setup_pizza_connection_3_1.0.7583.25061_(64bit)_(41749).exe ca3b47f235e99b90a9b7ce6e18476124
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

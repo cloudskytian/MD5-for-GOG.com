@@ -1,6 +1,1 @@
-setup_stonekeep_2.1.0.13.exe 1a3623ab9bf084d71088b5314f9f51f3
-stonekeep_handbuch.zip cc647c080ecc2d0519d558cd676dff43
-stonekeep_manual.zip 7e54a3111e0e8cf5945cf7fc20f4bb56
-stonekeep_manuel.zip 0dc474aa3656f8e19b8714d938f11612
-stonekeep_novella.zip 5fe0737ffa2af55eac3bf8c11e33c667
-stonekeep_thera_awakening_de.zip 2f1c690d9e53d5f1d9ae868477c5d1b5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

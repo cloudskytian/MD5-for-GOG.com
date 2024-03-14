@@ -1,3 +1,1 @@
-setup_metro_2033_redux_1.03_(33180)-1.bin bb72cba5a13ebd62143cc80330a6c8be
-setup_metro_2033_redux_1.03_(33180)-2.bin 25f52a575e1be18fc4299f712a37cb53
-setup_metro_2033_redux_1.03_(33180).exe 76e4e297423b9bbaac6359379a92d555
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

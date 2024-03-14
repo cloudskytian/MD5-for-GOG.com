@@ -1,6 +1,1 @@
-setup_zombie_night_terror_1.5.2_(36444).exe d25f212e4fa92dade9403a0909d35a4c
-znt_ost_flac.zip 7b18e925fb66be198fd16f240eff8379
-znt_ost_mp3.zip c173d8106e54be519fb63d0f37c0002e
-zombie_night_terror_avatars.zip de52709cf71b93c4bab363d4625bda31
-zombie_night_terror_cinema_poster.zip 0028973c6047e58ad7f4b5923177cae2
-zombie_night_terror_wallpapers.zip f909e5506bc6572109564bc374c38a18
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

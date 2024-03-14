@@ -1,2 +1,1 @@
-setup_call_of_juarez_1.1.1.0_(24945)-1.bin e549532739b6d2438b68246e1bed5854
-setup_call_of_juarez_1.1.1.0_(24945).exe 220b7ee6cce07966d3b8ceca207044e0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

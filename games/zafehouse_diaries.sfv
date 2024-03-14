@@ -1,3 +1,1 @@
-setup_zafehouse_diaries_2.2.1.10.exe 00c11ceebc795835b5813460573b6263
-zafehouse_diaries_manual.zip 878da17995c442c1ca4327a64ea1b206
-zafehouse_diaries_wallpapers.zip 0485a96bf810d927fca63d4b1ae0becf
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

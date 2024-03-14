@@ -1,7 +1,1 @@
-art_of_rally_hq_wallpapers_v2.zip 51339085b66568e4d0c08c0eb8d1d6ed
-art_of_rally_soundtrack_v2_flac.zip 0794aa4429e2f8207c53de7b8b1f54f0
-art_of_rally_soundtrack_v2_mp3.zip 0379c41ec45f33b053762ae0301e5e58
-hi_res_wallpapers.zip 2739f7233feb03c3769d2f76bc11ef7c
-setup_art_of_rally_1.5.2_(64bit)_(70709)-1.bin c153b019c0a27cc7feb944722e979c8c
-setup_art_of_rally_1.5.2_(64bit)_(70709).exe f91a51a7ef28f7fe17439fa460a86a74
-setup_art_of_rally_australia_1.5.2_(64bit)_(70709).exe 5bc4fb0e836148b33ec12f76f620ce4d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

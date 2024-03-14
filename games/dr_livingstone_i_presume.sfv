@@ -1,4 +1,1 @@
-dr_livingstone_i_presume_ost.zip 2b71b435188c0fd7db9c52bdc40f57b5
-setup_dr_livingstone_i_presume_220419_0803_(55205)-1.bin 36b0f92cde1b8ccbd42f339fbc752ada
-setup_dr_livingstone_i_presume_220419_0803_(55205).exe d6fdb1ce7ee00f5068b1d93f4592dad0
-the_art_of_dr_livingstone_i_presume.zip 7832c7ffe546dba6ca2d1231506be2ed
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

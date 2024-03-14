@@ -1,3 +1,1 @@
-setup_drakensang_1.03_(40759)-1.bin 9ecfef97dded32f8604fe2d951765c21
-setup_drakensang_1.03_(40759)-2.bin b79b4835df9f222f5da62c448467a712
-setup_drakensang_1.03_(40759).exe d61d587cd331ec9a37f89ee7ca08019a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

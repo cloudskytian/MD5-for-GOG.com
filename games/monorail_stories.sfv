@@ -1,3 +1,1 @@
-monorail_stories_soundtrack_mp3.zip 9e57267141e5c4b171cba9a7e8367973
-monorail_stories_soundtrack_wav.zip ea6234e8aa743f788b8c7a6244644b7a
-setup_monorail_stories_1.1.1081_(62340).exe 285bcedacf2e3b160f9a4367fc42d417
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-cultures_3_4_avatars.zip f8eefc48d33802eb186fe3d06250bc02
-cultures_3_4_editor_docs.zip 4743badf1b3b2fa3fd57a348d69ad5bf
-cultures_3_4_manuals.zip 6187d9561b7235a144f35d3ec83beb19
-setup_northland_2.1.0.9.exe 02ca5da36fef1a5b97c4d60eaf205f3a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

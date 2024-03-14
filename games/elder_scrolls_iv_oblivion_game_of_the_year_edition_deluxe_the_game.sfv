@@ -1,3 +1,1 @@
-setup_oblivion_1.2.0416_cs_(12788)-1.bin 2d3181769c2d0ca14d354509b62e6811
-setup_oblivion_1.2.0416_cs_(12788)-2.bin 0b7c6001fab8afcaee0566e6ca5d70b6
-setup_oblivion_1.2.0416_cs_(12788).exe a472dd11a3952be8df4ae559c86cc009
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

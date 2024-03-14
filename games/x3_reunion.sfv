@@ -1,6 +1,1 @@
-setup_x3_reunion_2.5b_(68631)-1.bin 34738e2d8542b5ce6545a13b51b0fd6f
-setup_x3_reunion_2.5b_(68631).exe e7bab512a46b49f318f87e151e6de4fa
-x3_reunion_manual.zip 650ef03e6fd9a70a9030eeabd4d7d38b
-x3_reunion_manual_fr.zip 3358f965f6c6413029389b87c26a8a3b
-x3_reunion_reference_card.zip f5d927891be7760d132e2d6f4489af2f
-x3_reunion_sketches.zip 2ff368900f1bf891c9186121fb659265
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

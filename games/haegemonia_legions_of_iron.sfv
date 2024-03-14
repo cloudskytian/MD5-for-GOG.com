@@ -1,5 +1,1 @@
-Haegemonia_OST.zip 155a86bec47eda5bdc3371f5ece5394f
-haegemonia_avatars.zip 70d38f8334ebc9e5926449ac71669480
-haegemonia_manual.zip 472a609a647579c55a800dd6f224962c
-haegemonia_wallpaper.zip 7875d5e46e2fe6361528a9e643784caa
-setup_haegemonia_legions_of_iron_2.2.0.7.exe 2b27ee36b2724e7c3851450e49b58ef0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

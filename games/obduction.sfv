@@ -1,7 +1,1 @@
-obduction_manual_version_165.zip c5279a0504952c8243c56ac077e15b68
-obduction_soundtrack_flac.zip ad22a5365afbbfaf5eec1e3a42d582af
-obduction_soundtrack_mp3.zip 6f03d19e358ab3cd90f6a9c9d318330f
-obduction_wallpaper.zip a2123d96f8bdfcbc73cd00138befd42b
-setup_obduction_1.8.4.1-ssl_(51210)-1.bin 834211d7c8218965106369575f72c3ac
-setup_obduction_1.8.4.1-ssl_(51210)-2.bin 73e5a3a0b413f24ea0e7348e86301b11
-setup_obduction_1.8.4.1-ssl_(51210).exe 02477c05bece9e1655adc31bbc5a89fa
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

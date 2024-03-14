@@ -1,2 +1,1 @@
-setup_perception_20170529_(12367)-1.bin 7cc9a4699bc26bbd836612ef10ccb703
-setup_perception_20170529_(12367).exe 14279c14c6d0645a6f1f01d743938697
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

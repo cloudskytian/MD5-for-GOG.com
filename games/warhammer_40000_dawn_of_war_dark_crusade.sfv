@@ -1,2 +1,1 @@
-setup_warhammer_40000_dawn_of_war_-_dark_crusade_0.19_(64626)-1.bin 8830adc7aa004a800411b0f95919af5f
-setup_warhammer_40000_dawn_of_war_-_dark_crusade_0.19_(64626).exe e54248e3e006fa378e374a9a60f33418
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

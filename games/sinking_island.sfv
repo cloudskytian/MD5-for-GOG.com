@@ -1,2 +1,1 @@
-setup_sinking_island_1.0_(57221)-1.bin 3f230d7e17c84a842fa886d64bd755ab
-setup_sinking_island_1.0_(57221).exe c7eaf4d58124a5d46a3e6bd0667383b6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

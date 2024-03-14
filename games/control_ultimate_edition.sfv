@@ -1,8 +1,1 @@
-setup_control_ultimate_edition_update_2_(41492)-1.bin ec8d85a9b8a92f3cb210fb58c29bd9bf
-setup_control_ultimate_edition_update_2_(41492)-2.bin 6e10867f4c9674ab6cf0ebcde466b6d8
-setup_control_ultimate_edition_update_2_(41492)-3.bin ef066629d8d109e5b718813140f0a6c7
-setup_control_ultimate_edition_update_2_(41492)-4.bin 1aacb95e7cd6d2febde71e35ea2a43b4
-setup_control_ultimate_edition_update_2_(41492)-5.bin 75394cab12e52c90d2affac1ff36c9d5
-setup_control_ultimate_edition_update_2_(41492)-6.bin 5ab7663d2a7a4ec23a06098a3bb592c0
-setup_control_ultimate_edition_update_2_(41492)-7.bin 854dc4aa3d269d6c1d6bdb28f18f14f5
-setup_control_ultimate_edition_update_2_(41492).exe fd55c30146e1335e4250ea2ec308f52e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

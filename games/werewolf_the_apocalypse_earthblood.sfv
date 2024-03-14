@@ -1,6 +1,1 @@
-setup_werewolf_the_apocalypse_-_earthblood_-_champion_of_gaia_pack_49104_(55520).exe 0f665cc7e7006e92ee37d1b9f98641e4
-setup_werewolf_the_apocalypse_-_earthblood_49104_(55520)-1.bin 47c35d8eb5dcf722079bcb6cc7d80aee
-setup_werewolf_the_apocalypse_-_earthblood_49104_(55520)-2.bin 83098bd872f393544d98726795be8404
-setup_werewolf_the_apocalypse_-_earthblood_49104_(55520)-3.bin f5183a5b3095d905acd4637682893777
-setup_werewolf_the_apocalypse_-_earthblood_49104_(55520).exe 284ea16952aa3c94ef5b2f49bf659a9b
-setup_werewolf_the_apocalypse_-_earthblood_the_exiled_one_49104_(55520).exe eefb9d94739d7164b6e2470de9e32cff
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

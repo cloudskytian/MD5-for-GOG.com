@@ -1,8 +1,1 @@
-bioshock_breaking_the_mold_artbook.zip 4a2026c82fa60999f4c6bf68c3435979
-setup_bioshock_1.1_(25450)-1.bin b52c0e3fa73d4d3d7bdf50dc3aa86282
-setup_bioshock_1.1_(25450).exe 47da4b5d7bdd75aa689f016c7a893979
-setup_bioshock_remastered_1.0.122872_(25715)-1.bin d82d506557e5d9663d154050e8d2058f
-setup_bioshock_remastered_1.0.122872_(25715)-2.bin e195d126485018894a69c7edec463054
-setup_bioshock_remastered_1.0.122872_(25715)-3.bin 27822c536b43cd90bdbd2e584b2d94c5
-setup_bioshock_remastered_1.0.122872_(25715)-4.bin 2025cedd89405dd5b4035a3b7017a521
-setup_bioshock_remastered_1.0.122872_(25715).exe ca5515ebd1816e1a0bd44e8292cfa595
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

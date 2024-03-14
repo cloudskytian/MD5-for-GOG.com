@@ -1,7 +1,1 @@
-setup_syberia2_russian_2.1.0.1.exe e4f58cd337eabd652d533402e4f791ac
-setup_syberia_2_20171109_(16283).exe f33e25fa29810e9ff8c6f009b7fdec3b
-syberia2_Artworks.zip f92f5d4d9710718319dbd03b34378572
-syberia2_Avatars.zip 5bc4d088a8939bb182b61567e9bc619b
-syberia2_Manual.zip bc3da0ce5ebcb2391a2f2d44bc6730d7
-syberia2_Wallpapers.zip 8c48ea9ec5a90880cde5baa04a6d914c
-syberia2_music.zip e2623279fea1e27f7c98af5afdf175f1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

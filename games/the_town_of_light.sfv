@@ -1,2 +1,1 @@
-setup_the_town_of_light_1.01_(48852)-1.bin 906074c4c8881cd5637c7bce250e1817
-setup_the_town_of_light_1.01_(48852).exe c26099bac421eca7b76c0670982d97d6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

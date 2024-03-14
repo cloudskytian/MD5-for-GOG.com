@@ -1,1 +1,1 @@
-setup_openttd_13.4_(64bit)_(66414).exe bdede32dc0a96cbef6cef902621533db
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

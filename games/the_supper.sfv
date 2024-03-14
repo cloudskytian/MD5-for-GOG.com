@@ -1,3 +1,1 @@
-setup_the_supper_1.01_(62604).exe 3beeb12ce606a1ce51619f377ca0196e
-the_supper_artbook.zip 813f66e9a5380e63506fdb863edcc5ca
-the_supper_ost.zip d3fe6b099fe5b8fae5e70d8d1d273b52
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

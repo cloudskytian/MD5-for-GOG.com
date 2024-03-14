@@ -1,11 +1,1 @@
-cartel_tycoon_artbook.zip 4654378060ecf81726c2031c7f8c09d8
-cartel_tycoon_ost_mp3.zip 7983b15c319bad4751e7e606c42aba92
-cartel_tycoon_ost_vol1_mp3.zip 9c676f5a8659cd917354c36f6483e536
-cartel_tycoon_ost_vol1_wav.zip 35f6513aaf528c17f44cab3d0344c168
-cartel_tycoon_soundtrack_vol2_mp3.zip 92c8d13741a2de734e1fc90a104b136e
-cartel_tycoon_soundtrack_vol2_wav.zip 391144838e74868f181c355fadadd186
-setup_cartel_tycoon_-_lieutenants_pack_-_la_familia_1.0.9.6411_(69877).exe fe9d45c13011c2352d66b879f295ab5a
-setup_cartel_tycoon_-_san_rafaela_1.0.9.6411_(69877).exe 5cbaec1705a0d137d03c15f36338c473
-setup_cartel_tycoon_1.0.9.6411_(69877)-1.bin 5a5b43424f49cac7605ae9636470fd17
-setup_cartel_tycoon_1.0.9.6411_(69877).exe c829eb716cb6edb14662732c6ff32bf2
-setup_cartel_tycoon_lieutenants_pack_-_guerilla_1.0.9.6411_(69877).exe 9a88b05970d6bdf479a1d36ce17918f6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

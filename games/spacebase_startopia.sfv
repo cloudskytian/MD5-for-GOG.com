@@ -1,7 +1,1 @@
-setup_spacebase_startopia_extended_edition_content_v1.4.2_build20_8dd3ccf_(51204).exe dd014b38f67a6000cfb89e6b7d640d0d
-setup_spacebase_startopia_v1.4.2_build20_8dd3ccf_(64bit)_(51204)-1.bin 687f73b511bf3f7451621d58f0104c58
-setup_spacebase_startopia_v1.4.2_build20_8dd3ccf_(64bit)_(51204)-2.bin e4140ce75f10a8389d2502e8a8290540
-setup_spacebase_startopia_v1.4.2_build20_8dd3ccf_(64bit)_(51204).exe e5c94448c393123b47d4e59687664533
-spacebase_startopia_ost_flac.zip d89ee8eeb03f6cd0e4e38f0caf41236e
-spacebase_startopia_ost_mp3.zip 62c22ff72369a51c29bceed0403a8bc5
-spacebase_startopia_ost_wav.zip 363b053841995b9ad8678c36771bb513
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

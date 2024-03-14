@@ -1,8 +1,1 @@
-battlefleet_gothic_armada_2_ost_mp3.zip 3a624d1c258ecfae88fbc7139d1ae2c1
-setup_battlefleet_gothic_armada_2_-_chaos_1.0.14_(64bit)_(41527).exe feb2a3f85be538bcb57a792a122cbaf1
-setup_battlefleet_gothic_armada_2_1.0.14_(64bit)_(41527)-1.bin a47c0a9f80eff077242020989fa1acdc
-setup_battlefleet_gothic_armada_2_1.0.14_(64bit)_(41527)-2.bin 73747f70e6da790085af83b8d97203ae
-setup_battlefleet_gothic_armada_2_1.0.14_(64bit)_(41527)-3.bin 6a0d060f58d915eb3148ce5cb72ce885
-setup_battlefleet_gothic_armada_2_1.0.14_(64bit)_(41527)-4.bin 7810a897ead808b14ec3989808a7aae3
-setup_battlefleet_gothic_armada_2_1.0.14_(64bit)_(41527)-5.bin 5639024486d44cc53af893e5a72fd1b4
-setup_battlefleet_gothic_armada_2_1.0.14_(64bit)_(41527).exe 0f404c7fea37e6515ae334e3f594f8aa
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

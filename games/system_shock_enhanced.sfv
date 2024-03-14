@@ -1,13 +1,1 @@
-setup_system_shock_enhanced_edition_1.2.16_(64bit)_(44378).exe 999b758e4d32d8bb6f5803900cd6614a
-ss_artworks.zip 29c86e49dd915cf91cd58e6fca493b3e
-ss_enhanced_controls.zip 4492e6f251ba50fd33b57046433df7a5
-ss_hintbook.zip be2a92145704c482ee8639d69ba222d7
-ss_manual_de.zip 51374cb5d641b40d429c3b68c52a390b
-ss_manual_en.zip 2520ec767f34f456747d8ba40dd8eb12
-ss_manual_fr.zip 1d86128bbcb22d310684158264ad3471
-ss_maps.zip 407112e20174043aac0c1ee5e366d5b8
-ss_ost_flac.zip bf43996093f373afd3000c05987f6ce7
-ss_ost_midi.zip a8a4038ffed539000b2d5b99d58028a7
-ss_ost_mp3.zip 564176f4a5376d0b945a13125500f308
-ss_strategy_guide.zip 14d27526456ed49552dd2fd2a4dc04e4
-ss_tv_spot.zip 6b08650ca24b6e0431337d50fb02dc14
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

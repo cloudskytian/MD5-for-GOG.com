@@ -1,5 +1,1 @@
-br_tc_wallpapers.zip 916b1c1e611414749823ac1346f38171
-setup_bloodrayne_terminal_cut_1.06_(59972)-1.bin 0a94cd0be1841e1a6186b84a15c4e09c
-setup_bloodrayne_terminal_cut_1.06_(59972)-2.bin 9e5ae1f3b5886b2bd95e2cb933d1e150
-setup_bloodrayne_terminal_cut_1.06_(59972)-3.bin 2ff7b0e11b160f83e1fc12d0810ad1b4
-setup_bloodrayne_terminal_cut_1.06_(59972).exe 602d8353d2a1a99bfeee95348a349850
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

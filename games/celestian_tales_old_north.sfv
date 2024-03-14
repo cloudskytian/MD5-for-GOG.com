@@ -1,7 +1,1 @@
-celestian_tales_ost_flac.zip 21a74456efe936c29027ce7bb4d4cda0
-cton_character_art.zip 68ec8ed5fa57af830508313be1c08726
-cton_manual.zip 20066c415a4ca763be66c8a6c35a831b
-cton_wallpaper.zip 4230bcf8892e5bfefff92b6331c2ba28
-setup_celestian_tales_old_north_-_alternate_costume_pack_1.1.2_(64bit)_(20126).exe ef74b028d003bfae318f42dad447018c
-setup_celestian_tales_old_north_-_howl_of_the_ravager_1.1.2_(64bit)_(20126).exe 78040c6e621fe2064c8532deb426c5b9
-setup_celestian_tales_old_north_1.1.2_(64bit)_(20126).exe 6d8f525c4b5c01fda73b4ab9877fadd3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

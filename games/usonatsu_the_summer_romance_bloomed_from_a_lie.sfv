@@ -1,4 +1,1 @@
-FLAC.zip 46db2cb2791224bfbb8516415d7dc741
-MP3.zip c880b8d983ef8b499b4a5f1976cb4576
-setup_usonatsu_the_summer_romance_bloomed_from_a_lie_1.0.5_(64bit)_(68696)-1.bin d2158b2d51a08cfcf2b3db3952e0082d
-setup_usonatsu_the_summer_romance_bloomed_from_a_lie_1.0.5_(64bit)_(68696).exe 58be12b1d4638361ecebd8a4e57faba0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

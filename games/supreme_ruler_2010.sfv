@@ -1,7 +1,1 @@
-setup_supreme_ruler_2010_2.0.0.2.exe ee1bfa56f7abef95a131cced578dace9
-sr_2010_game_manual.zip 775751ba9fd71b75dd0f0573b18accfd
-sr_2010_map_editor_manual.zip 1fb862ca8959b6c3c1373faf3e171907
-sr_2010_paris_walkthrough.zip 3be2501df385446fa6be37b059979b14
-sr_2010_peoples_walkthrough.zip aea6e43e011460aa01e2efd53f9e70d1
-sr_2010_reference_poster.zip ba8ceb7290f7aa520f069e163bf9affa
-sr_2010_tech_tree.zip e514fb59996626cf268fadb6dfd0ef3c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

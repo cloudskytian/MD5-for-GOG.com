@@ -1,11 +1,1 @@
-expeditions_rome_ost_mp3.zip 349a1ca429e22fc0d11961cb2feff943
-expeditions_rome_ost_wav.zip 2b51ab8f4d16f96718857caf5aad428c
-setup_expeditions_rome_-_death_or_glory_1.5_(58402).exe 14ad38fd373ee3fe3474d27a9298c0a4
-setup_expeditions_rome_1.5_(58402)-1.bin ddf792f90fe1b98439614b6fe9cf22d7
-setup_expeditions_rome_1.5_(58402)-2.bin eb5257f8ab181841a8f46e36d35e278d
-setup_expeditions_rome_1.5_(58402)-3.bin 484d1cda9e2277d5305aeb41dffc7a9e
-setup_expeditions_rome_1.5_(58402)-4.bin e4b413c9e23df91b02789900bfda2a82
-setup_expeditions_rome_1.5_(58402)-5.bin 37ed0b46d61cfabaf3aa20bd302f9fab
-setup_expeditions_rome_1.5_(58402)-6.bin bce29edba3ad2b00633861fa630f830e
-setup_expeditions_rome_1.5_(58402)-7.bin d5d1d7632f609a9e26e27fc02fba5f38
-setup_expeditions_rome_1.5_(58402).exe b3ec0032ed53065f09a40c57f76706e2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-little_inferno_avatars.zip 8644402f976fbe9965d209c82cb5404a
-little_inferno_ost_flac.zip 305a833900a829f0c57499bf995da806
-little_inferno_ost_mp3.zip e26b4b0fe44345a3d2bbb14e901f3aeb
-little_inferno_wallpapers.zip 5fcd0c2e7ab8b4b3456d518c2a7e12f2
-setup_little_inferno_2.0.1_(60450).exe 1a93ba737a604ee370c0901a9b031196
-setup_little_inferno_russian_2.0.0.2.exe 4da3a43a5f0706f0e8ff1cc9f97248c9
-setup_the_little_inferno_ho_ho_holiday_edition_2.0.1_(60450).exe 7cb0e6f9b9ce22ae9a7e08d539452395
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

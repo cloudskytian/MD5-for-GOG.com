@@ -1,6 +1,1 @@
-mafia_2_digial_deluxe_artbook.zip 91ddab1b256aa5a041cf71a250d08021
-mafia_2_empire_bay_map.zip 7e0510e222bd3d5ca37da0b72399ec2d
-mafia_2_manual.zip 0d13d1f9d64301e71fdef060b2f506ff
-setup_mafia_ii_update5a_(21272)-1.bin a05cc92e5f1518cdf78de4d9c2d2cced
-setup_mafia_ii_update5a_(21272)-2.bin de3625cd57279811409d00c2149c6893
-setup_mafia_ii_update5a_(21272).exe f9c3ceab852e970cd12e261b3f145065
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

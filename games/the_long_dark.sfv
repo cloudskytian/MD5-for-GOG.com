@@ -1,4 +1,1 @@
-setup_the_long_dark_2.02_(64bit)_(58652)-1.bin 4212b5aa5d23412ef3804e92b25f71dc
-setup_the_long_dark_2.02_(64bit)_(58652)-2.bin 8407c0bc6d366f9af6ecbf4f6bacf660
-setup_the_long_dark_2.02_(64bit)_(58652)-3.bin 3e1d3a0f9c97a3871c1c159dfa51e5f0
-setup_the_long_dark_2.02_(64bit)_(58652).exe d6b41b368ce24bc2b2a283a4e93a8134
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

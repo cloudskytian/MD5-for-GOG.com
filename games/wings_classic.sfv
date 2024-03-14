@@ -1,3 +1,1 @@
-setup_wings_classic_2.1.0.2.exe 6c44618ff67e734f02d9393a1f8f6602
-wings_classic_aviation_manual.zip b1059cfea29fdbf2773eb7eb30232104
-wings_classic_game_manual.zip 30d84b3222b2e09477b51b7c6bf6cd1b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

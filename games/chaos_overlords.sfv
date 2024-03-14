@@ -1,6 +1,1 @@
-chaos_overlords_avatar.zip 483910d97d282c94149dc5e8c3289a14
-chaos_overlords_manual.zip 002d78ac7dccfd428d82f147e61b3f1c
-chaos_overlords_ost_flac.zip 982e08e46836d6052b171567635e46b1
-chaos_overlords_soundtrack.zip 6c6e6388b1b9968af80b0a3a7e56c1ef
-chaos_overlords_wallpapers.zip 12357913b6818f87284e912a1a4eb4d4
-setup_chaos_overlords_2.1.0.17.exe f8f215b36efef5063b2f93a4b0387dd9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

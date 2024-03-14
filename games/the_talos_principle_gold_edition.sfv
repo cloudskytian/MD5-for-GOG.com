@@ -1,8 +1,1 @@
-BonusContent.zip cb1aa8fff358439a038949251ef2c772
-Soundtrack_AAC.zip 8170e4048cf5388ce25cab059ad2c1dd
-Soundtrack_OGG.zip 6b6a3cd30c6d3a38fe02dd280c522972
-setup_the_talos_principle_gold_edition_1.01_(64bit)_(42512)-1.bin 2e2430b8a2991a4d24f1aaec583b2ec3
-setup_the_talos_principle_gold_edition_1.01_(64bit)_(42512)-2.bin 3b8770c9fdcf8f670ff6d0b06f011cf0
-setup_the_talos_principle_gold_edition_1.01_(64bit)_(42512).exe b011b16d09532b2e709700477bc96017
-talos_principle_ost_flac.zip d9c1688590adcfa772d3b5e32b978db9
-talos_principle_ost_wma.zip 32771856ecb835608c8de6cdfdee40b3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

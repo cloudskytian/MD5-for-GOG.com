@@ -1,2 +1,1 @@
-setup_galador_1.0_(51319)-1.bin 4cc421bfc21336853685174e57e15c21
-setup_galador_1.0_(51319).exe cba25d3e78afd67c7b78b6b1e319faf6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

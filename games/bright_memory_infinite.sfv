@@ -1,15 +1,1 @@
-Wav.zip 038852e65580b0102f391c571a011b36
-mp3.zip 1839d3859b2c61290eb979ef284caf10
-setup_bright_memory_infinite_1.43_(65603)-1.bin 627d6f445a997456ffd6658f87405ee3
-setup_bright_memory_infinite_1.43_(65603)-2.bin 45e4b94adda809b05e399fc4ea46790f
-setup_bright_memory_infinite_1.43_(65603)-3.bin dfc194a06d8f0852ae9272f6b57279fd
-setup_bright_memory_infinite_1.43_(65603).exe 770a2d42876fdac3d4c61c14d6f3385b
-setup_bright_memory_infinite_bikini_dlc_1.43_(65603).exe e395d620f9a5ccfb0ab7942acf94997e
-setup_bright_memory_infinite_black_kitten_dlc_1.43_(65603).exe 12aeebe5d92b82eb35e6208d88ea50cd
-setup_bright_memory_infinite_cheongsam_(blue_flowers)_dlc_1.43_(65603).exe 379e0d2ac287e460e9ba1feeaf5414fa
-setup_bright_memory_infinite_cheongsam_(new_year)_dlc_1.43_(65603).exe 4e70e3d0198d91d998ef6ccd83d7c94c
-setup_bright_memory_infinite_cyber_rabbit_dlc_1.43_(65603).exe 9de8f2fedf60c3bdb70aa12151b5f2b1
-setup_bright_memory_infinite_energetic_dlc_1.43_(65603).exe c953f51d82265a0ee953922db1e177f6
-setup_bright_memory_infinite_rabbit_school_uniform_dlc_1.43_(65603).exe 7babfd2bc677af54c6d152ae8e9bee71
-setup_bright_memory_infinite_skinny_jeans_dlc_1.43_(65603).exe a5159be6e8361fbf6d0d33d239fecbcc
-setup_bright_memory_infinite_youthful_days_dlc_1.43_(65603).exe 2eee1a327c9a15cfe5e7bf54d2cd2955
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

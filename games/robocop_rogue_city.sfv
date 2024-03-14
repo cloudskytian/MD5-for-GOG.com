@@ -1,15 +1,1 @@
-robocop_rogue_city_digital_artbook.zip 677a810553dbfa93d1fee88659a162e6
-setup_robocop_rogue_city_-_alex_murphy_pack_1.0.1.2_(64bit)_(71415).exe e7ff6e87a6a6d03d6a209a0dc5d03d6a
-setup_robocop_rogue_city_-_digital_artbook_1.0.1.2_(64bit)_(71415).exe d081b78d5a4d1f4363593d935fc29528
-setup_robocop_rogue_city_-_vanguard_pack_1.0.1.2_(64bit)_(71415).exe 9899eb2ba3396a7c99130a34ef257df1
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-1.bin c1a9291a3a9163efe6f9e4f926ad3d2f
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-10.bin b0e08d04646326afbf73b5510103420b
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-2.bin a5c8cddb8e2016cdc015ad886267cd57
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-3.bin 2b4be94018a114024870e463f821fa26
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-4.bin 7c4b572b3ae869a8ac8d616b61ce3db6
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-5.bin ef07fdfc25f0942c05b529c41f7f0f36
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-6.bin 65e923783998b262ab9a36792c438550
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-7.bin fb1bc8fa9707327a2f2f9e5ef0f22acc
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-8.bin 9ce6a9c4c77779a3fc7437abc5ef44ea
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-9.bin d7c8786c5950228ff11505f9cec7c5fb
-setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415).exe 3736e3e659caf324d8a4c727d0e018cb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

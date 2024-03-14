@@ -1,14 +1,1 @@
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-1.bin 275b818a31f34bca460ad34cd002613f
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-2.bin 1665fdeb34679d7a974af1cbbc30df3f
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-3.bin f4f4c3513fe07718301fe9f5f3f4b706
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-4.bin 98e513cd9cfebc6a39717aac2c3c8ee4
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-5.bin 64c08e933b450c80e19bdb60b5b1ee2c
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-6.bin f76abb0eee5e9f5ad94266d8c6f17c1f
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-7.bin a88b1eeb6eaafe00ab6e74c1a1470bf9
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-8.bin 27ec71da07ff706862023902796a54ee
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078)-9.bin aaeacdc9bd9d748d3000f53117d5c63d
-setup_deus_ex_mankind_divided_1.19_hotfix_(38078).exe f4b0bf78027ad3075747ca5a73bb2329
-setup_deus_ex_mankind_dividedtm_dlc_-_season_pass_1.19_hotfix_(38078)-1.bin 8b6ea82fb9b861a9902ac43a9a74c612
-setup_deus_ex_mankind_dividedtm_dlc_-_season_pass_1.19_hotfix_(38078)-2.bin 0564735a0d71402a3fc1302cd329db32
-setup_deus_ex_mankind_dividedtm_dlc_-_season_pass_1.19_hotfix_(38078)-3.bin 5d42f689c3310fbf0d2a3af0ca18e00f
-setup_deus_ex_mankind_dividedtm_dlc_-_season_pass_1.19_hotfix_(38078).exe e62e8bb2cb7870c93d2313f6c00cea7b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

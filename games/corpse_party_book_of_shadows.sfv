@@ -1,3 +1,1 @@
-setup_corpse_party_book_of_shadows_2019.09.09_(32332)-1.bin cf2819d3b009dd8a4f705bd42015ed6c
-setup_corpse_party_book_of_shadows_2019.09.09_(32332)-2.bin a300fbdf11125414c26aa4fa3f007d99
-setup_corpse_party_book_of_shadows_2019.09.09_(32332).exe 4f12d16332ddec8b145e2dcad6d4ed2f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_shadow_empire_1.21.00_(65270).exe 0aad37ca4cd2d0ebd75f0edb36916a53
-setup_shadow_empire_oceania_1.21.00_(65270).exe 9e53f63d564f4670fd676f9e12a6da68
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

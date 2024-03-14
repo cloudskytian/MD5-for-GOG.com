@@ -1,3 +1,1 @@
-setup_thunderscape_2.0.0.3.exe 3ba016758fbf981864f7b68b37787a4e
-thunderscape_instructions.zip 572487a5f1126df6cf05d96ff00e75d7
-thunderscape_soundtrack.zip 8234d9adbc1f50e74f4c8764b32bbcd0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

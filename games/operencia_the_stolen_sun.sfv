@@ -1,8 +1,1 @@
-operencia_DigitalMaps.zip 8725fed49565934731e4871ab0b07dbc
-operencia_OST_FLAC.zip 6b11eac765e7010eeb2f8866194912e5
-operencia_OST_MP3.zip a1b252e9619c9f80f375c3f87818ba07
-operencia_Wallpapers.zip 0c5a45722b18a44d2f6cde35c4c9d03b
-setup_operencia_the_stolen_sun_1.3.8-gog_(64bit)_(42329)-1.bin 04f3b5962f171e056606ef1d0f6bc806
-setup_operencia_the_stolen_sun_1.3.8-gog_(64bit)_(42329)-2.bin 50c9e1b689ba2a9e2e36c35dd9fbfc25
-setup_operencia_the_stolen_sun_1.3.8-gog_(64bit)_(42329)-3.bin be46c4eac334686618fd34efd8ceef5a
-setup_operencia_the_stolen_sun_1.3.8-gog_(64bit)_(42329).exe d9c1c1b4ffa605c1363519fe6e56ce14
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,2 +1,1 @@
-setup_sable_4.3.4_(64bit)_(60909)-1.bin a1cc6c702d15a0fe99c00b913416f73b
-setup_sable_4.3.4_(64bit)_(60909).exe 5f11322d659afe9bb2c5434470a05445
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,3 +1,1 @@
-setup_speed_brawl_1.5-cbf5266_(64bit)_(48847)-1.bin cf99dc4a4bead1aaa09efaf7f12e118f
-setup_speed_brawl_1.5-cbf5266_(64bit)_(48847).exe 31266bb0b002f68f161f4d7e073990f0
-speed_brawl_wallpapers.zip 4ce04425f1e6888ea097bac5da8f748c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

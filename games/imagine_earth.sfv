@@ -1,4 +1,1 @@
-imagine_earth_soundtrack_flac.zip 391c262e02e48a1a418ef5f3b7b40b23
-imagine_earth_soundtrack_mp3.zip c1a792407f67f5a52fb977871bf8fa04
-imagine_earth_soundtrack_wav.zip 68f5c20f53f2d13ba01556e55b056926
-setup_imagine_earth_1.15.4.6181-gog_(70575).exe e020d64a722b3b200f124a426825bea5
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-setup_gas_station_simulator_-_can_touch_this_dlc_1.0.2.46637_dlc_(56533)-1.bin 20260448d8b86437107dcd6cc3bff269
-setup_gas_station_simulator_-_can_touch_this_dlc_1.0.2.46637_dlc_(56533).exe dcacb7fc8286818eedcf9c866239c3d8
-setup_gas_station_simulator_1.0.2.46637_dlc_(56533)-1.bin a17f2a24c8f501b52287ae73fb2646f6
-setup_gas_station_simulator_1.0.2.46637_dlc_(56533)-2.bin 9c3160c06cf359c58dcb589a92d6209a
-setup_gas_station_simulator_1.0.2.46637_dlc_(56533).exe bf38e510c7da1d69fd3d0849bb06ce63
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

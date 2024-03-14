@@ -1,4 +1,1 @@
-hello_neighbor_ost_mp3.zip 0ff27a6c5b7e3971d761e151f08ee9a7
-hello_neighbor_ost_wav.zip 9bd75d653b537444299343a5a39460fc
-setup_hello_neighbor_1.4_(64bit)_(30828)-1.bin 33a807c58f0f29a0c5b4a080ac829efc
-setup_hello_neighbor_1.4_(64bit)_(30828).exe 7b407028259bb5d83cc15f57ab8355b1
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

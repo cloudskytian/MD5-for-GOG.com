@@ -1,5 +1,1 @@
-papetura_artbook.zip 4b56a1ac7a5a5da97d9bfc1ede41c05a
-papetura_soundtrack_flac.zip 1116cf4eac7d7642ec9a111656c57b82
-papetura_soundtrack_mp3.zip b9aec174920ab71a178f37ec3cead097
-papetura_wallpapers.zip 2fe19cf6acabfb6b83bb160a52f460fe
-setup_papetura_1.1b_(50748).exe 2a48ff72fa5091a1e04bbb6dadc546a7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

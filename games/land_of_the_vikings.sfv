@@ -1,3 +1,1 @@
-setup_land_of_the_vikings_1.1.0a_(64bit)_(71223)-1.bin 0cfda4fcc2303bfbf002133a19bfd32b
-setup_land_of_the_vikings_1.1.0a_(64bit)_(71223)-2.bin 5ec8c8f8213d23b36e2784856404cbe3
-setup_land_of_the_vikings_1.1.0a_(64bit)_(71223).exe f2a50e415291491015fea6660eee8809
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

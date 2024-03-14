@@ -1,5 +1,1 @@
-perimeter_arts.zip c4f474785617bda1c385da6a5347af6e
-perimeter_manual.zip 1943e040ac069ff1b78428b3b49dd641
-perimeter_walkthrough_video.zip 77270a1f1020c509f9896af0e41f80a7
-setup_perimeter_1.03_(19064)-1.bin ba08f50e95ce6424d214f57383d338c8
-setup_perimeter_1.03_(19064).exe a65c86a8de9b938bc070bcbe5900aef2
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

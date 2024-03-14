@@ -1,5 +1,1 @@
-setup_turmoil_2.0.9_(20581).exe 478cad87e2b475afe9576d0276c12942
-setup_turmoil_the_heat_is_on_2.0.9_(20581).exe 439aff9867056d5e38042145f543eed2
-turmoil_avatars.zip 48b00f1244b3ad04c172f00ba88ebd75
-turmoil_ost_flac.zip dfa2eceff748db9ce332d0e87bf39ea5
-turmoil_ost_mp3.zip 21a99b561e0d8382899ce712c40361f7
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-setup_snapshot_1.0_(19163).exe 70200e55171d1babd6257e820c5f9279
-snapshot_artwork.zip 7a4f57b4e2417c88386785cb618c1627
-snapshot_avatar.zip f241b785d57658e05b70699da1d8e0aa
-snapshot_soundtrack_sample.zip 0aded736f7655e3a03b3c1741d817251
-snapshot_wallpapers.zip 200b2312fd7554171a0a853d93c5cecb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

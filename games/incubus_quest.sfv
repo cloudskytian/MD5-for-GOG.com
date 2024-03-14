@@ -1,3 +1,1 @@
-setup_incubus_quest_unrated_v3_(en_1.04_cn_1.01)_(70574)-1.bin f31c4fe18331fcaa8f0e96eb69878329
-setup_incubus_quest_unrated_v3_(en_1.04_cn_1.01)_(70574).exe f4aaa5d93c64494a9794f2acc1efa1d0
-setup_incubus_quest_v3_(en_1.04_cn_1.01)_(70574).exe 198c737bd7f2e9aee565766cd22f141c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

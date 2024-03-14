@@ -1,5 +1,1 @@
-setup_cafe_stella_and_the_reapers_butterflies_gog_1.0_(55933)-1.bin 82307feb3cc05602cec13f4a2f770120
-setup_cafe_stella_and_the_reapers_butterflies_gog_1.0_(55933)-2.bin fbf1076e2b7db5d9409d8403107dbf68
-setup_cafe_stella_and_the_reapers_butterflies_gog_1.0_(55933).exe cf6bcac3f2545ee1c8836715143ab546
-setup_cafe_stella_and_the_reapers_butterflies_unrated_gog_1.0_(55933)-1.bin 9cf43dd703b69e64491c938316e29dd6
-setup_cafe_stella_and_the_reapers_butterflies_unrated_gog_1.0_(55933).exe 946cd3840d6429e77404df2a480b0f33
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

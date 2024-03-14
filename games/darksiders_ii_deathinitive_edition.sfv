@@ -1,6 +1,1 @@
-darksiders_II_ost_mp3.zip dc06f91fb9751c9310c4394d3c017017
-setup_darksiders2_deathinitive_2.1.0.4-1.bin ec9c85b15f23b79bd87668282b8101ed
-setup_darksiders2_deathinitive_2.1.0.4-2.bin 4eb87fd00792a0e35b0abd8b7bc124e0
-setup_darksiders2_deathinitive_2.1.0.4-3.bin 113f5a09d0289db3b1c5a5f85a82849e
-setup_darksiders2_deathinitive_2.1.0.4-4.bin ca12e47f9cce195b09a66c7ff27121ab
-setup_darksiders2_deathinitive_2.1.0.4.exe 5b39f665a8367f4ebe7c845b2ebbac81
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

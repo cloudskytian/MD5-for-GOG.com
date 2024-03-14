@@ -1,5 +1,1 @@
-setup_spacechem_1016_hotfix_(40616).exe b3c7cfd34c3ff474b540cbf080177d2c
-spacechem_avatars.zip b1ad82458fd15a871033802c08db52e5
-spacechem_concept_art.zip ed1a6e080bb00c6609cc690f5c2366c2
-spacechem_design_documents.zip fefa938201ddcfce300fcfe823d2663a
-spacechem_soundtrack.zip dd2250065996c733ea9488fb5a91be17
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

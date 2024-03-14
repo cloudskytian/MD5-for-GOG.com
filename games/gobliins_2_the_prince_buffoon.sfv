@@ -1,4 +1,1 @@
-gobliiins_pack_hintbooks.zip d7f022f799b61755cd99262641707aaf
-gobliiins_pack_manuals.zip 6fb1b9e90dc9348d9bad9f577f081520
-gobliiins_pack_soundtrack.zip 4ba56907d9c3f80ee8e7f2449c0fbe73
-setup_gobliins_2_-_the_prince_buffoon_1.02_(20270).exe 3607f4ab042fea51e3b6544775955701
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

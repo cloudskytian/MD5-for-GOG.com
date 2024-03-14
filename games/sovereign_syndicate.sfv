@@ -1,3 +1,1 @@
-setup_sovereign_syndicate_1.0.31_(64bit)_(70875)-1.bin 6ea487e9e8e7a12332ed722819a172f5
-setup_sovereign_syndicate_1.0.31_(64bit)_(70875)-2.bin 53145ec07642351ce0ca34a86c625e11
-setup_sovereign_syndicate_1.0.31_(64bit)_(70875).exe 7b8c06efcc7b9a1230385643367f0a10
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

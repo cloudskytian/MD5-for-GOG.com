@@ -1,4 +1,1 @@
-mokoko_x_artwork.zip 6e143b938017d344d80f7d1b7de3e7fa
-mokoko_x_soundtrack.zip 2c31da05303f715a3e03fcb0b3e4fc0d
-setup_mokoko_x_1.03_(63840).exe cde27e13294afa7ce4b8617c3069c53c
-setup_mokoko_x_unrated_1.03_(63840).exe 944f46518f789821d610e73783f90193
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,5 +1,1 @@
-empire_earth_avatars.zip ea352af4fb84736be65cd291fda7c6cf
-empire_earth_manuals.zip 710b27f33370a2ccf5a023f89fff64e7
-empire_earth_wallpapers.zip 910911dc2abc6c566a7e152f01f85a87
-setup_empire_earth_gold_2.0.0.2974_(25522).exe e8b22cdc9520aefab49e21349b20b731
-technology_trees.zip 1dceafbc849cff71d122ec02b42c7d0d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

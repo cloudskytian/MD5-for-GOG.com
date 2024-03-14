@@ -1,8 +1,1 @@
-pathologic_artworks.zip 1f3a28b442275461b258dc8ebad91d22
-pathologic_avatars.zip f0f0d407f331878ec4862e8cd2fd4c25
-pathologic_concept_arts.zip f9f765079f42ee620f9fb62c5e40afc3
-pathologic_manual.zip 472ceaa9f4cc449e261ef7ddf9796209
-pathologic_ost.zip 0b1a429c0680bb985bdf39d3694abbe7
-pathologic_walkthrough.zip 96422856f3a3c480773d62972211ba10
-pathologic_wallpapers.zip d2ac3e7857f573b63b067143746a6e26
-setup_pathologic_2.0.0.3.exe 3eda0ba13a3661dd6c81c43c0fda3903
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

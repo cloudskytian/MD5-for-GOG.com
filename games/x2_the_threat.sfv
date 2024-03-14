@@ -1,4 +1,1 @@
-setup_x2_the_threat_2.0.0.2.exe b2045a57af6b177094bbebe5d8942fa1
-x2_the_threat_gunnery_crews.zip 5695b738e1b3d0cd1b3730f6ec676210
-x2_the_threat_manual.zip 972c291e2cd1e7d8af393f5906ea6fe6
-x2_the_threat_reference_card.zip 756e75db168bade6d534234c72d42326
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

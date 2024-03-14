@@ -1,5 +1,1 @@
-setup_tomb_raider_4_20170914_(14963).exe 4ca09f29e4be3fcb538eb1e28a937660
-tomb_raider_45_artworks.zip e63f51418ccd5566c33e6f4aef01ddc6
-tomb_raider_45_avatars.zip a01ee2bfb98c300ef1002e418c90292b
-tomb_raider_45_bonus_level.zip f92dfc05bff2e0d5d2deb206b8d36e37
-tomb_raider_45_manuals.zip 51cc70f03e45d65d239cb1650832dc10
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

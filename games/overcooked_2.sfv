@@ -1,8 +1,1 @@
-setup_overcooked_2_-_campfire_cook_off_6.242_dev_build_(63806).exe fbce683f45aa9e5114a4823c33f3de5c
-setup_overcooked_2_-_carnival_of_chaos_6.242_dev_build_(63806).exe fed3421585d2ffa95dd826503c89f61e
-setup_overcooked_2_-_night_of_the_hangry_horde_6.242_dev_build_(63806).exe 9931b0f33aa7ae6cd2b1cea2722cf630
-setup_overcooked_2_-_surf_n_turf_6.242_dev_build_(63806).exe fe0b9d499d6841d63b4722f78b9d15ba
-setup_overcooked_2_-_too_many_cooks_pack_6.242_dev_build_(63806).exe 3df037d2e0a51b7a4baf785ca00da97d
-setup_overcooked_2_6.242_dev_build_(63806)-1.bin b2e38b49ca5fcbf9159f3d6057a0e6c5
-setup_overcooked_2_6.242_dev_build_(63806)-2.bin 04b2c56ea36f69b29cac6a7ac80a2a74
-setup_overcooked_2_6.242_dev_build_(63806).exe 05578a45c792bb501fcd858cf735a791
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

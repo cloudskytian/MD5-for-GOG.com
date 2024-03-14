@@ -1,3 +1,1 @@
-setup_just_cause_1.0_(48205)-1.bin 7e3c7b6da45186abc4fe08f24673105f
-setup_just_cause_1.0_(48205)-2.bin 4e9851b5031e84e24a2c8a1d2d0428c3
-setup_just_cause_1.0_(48205).exe fd4771678365b8251dd6d958a24366a4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

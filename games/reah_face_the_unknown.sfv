@@ -1,5 +1,1 @@
-reah_manual_en_de_fr_nl_it_es.zip 838887093174425faa61c453c96be456
-reah_manual_pl.zip 28b10b9edb13f9c297293394de30397c
-setup_reah_1.0_(15591)-1.bin 4ca6ae333662242159e919601cb2bc77
-setup_reah_1.0_(15591)-2.bin 16f85d556fcf4a427ce01004d0ceef46
-setup_reah_1.0_(15591).exe 80f2b374cce7b1aa4ac8f78e7e2defba
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

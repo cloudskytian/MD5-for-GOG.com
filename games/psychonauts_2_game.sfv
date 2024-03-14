@@ -1,9 +1,1 @@
-setup_psychonauts_2_1095580_(64bit)_(56082)-1.bin 5ec183d85aa6041c8afa69fcc8e27b39
-setup_psychonauts_2_1095580_(64bit)_(56082)-2.bin ffc8ae85d08a9a3f2ccf18604c335d5a
-setup_psychonauts_2_1095580_(64bit)_(56082)-3.bin cca80fbc2388bd81a640b52c0cb0095e
-setup_psychonauts_2_1095580_(64bit)_(56082)-4.bin 4c5dd1fa55ddc4b920b347925b322cad
-setup_psychonauts_2_1095580_(64bit)_(56082)-5.bin 6f32263c4a51f8e0c175b40009e10fac
-setup_psychonauts_2_1095580_(64bit)_(56082)-6.bin 707285e55c4eb36c7a51b44c87715bf8
-setup_psychonauts_2_1095580_(64bit)_(56082)-7.bin 4bcaf96b318d1c87d6889b3012cc5316
-setup_psychonauts_2_1095580_(64bit)_(56082)-8.bin 7ba1ab25f595afcd478a1cd1039657d7
-setup_psychonauts_2_1095580_(64bit)_(56082).exe d47154f2915e134748ebe84caf78d54f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

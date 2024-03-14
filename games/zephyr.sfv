@@ -1,4 +1,1 @@
-setup_zephyr_1.0_(43417).exe 3b8eaa400eba07a925bbe0aa9c955451
-zephyr_bonus_artwork.zip 9c2822708c624571a6e5b992fc782de2
-zephyr_manual.zip da7b8cd8ba1182d4d841b5dd03e693dd
-zephyr_quick_reference_cards.zip f84af4e75bf6dac2d0647118881d233e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,6 +1,1 @@
-memorys_dogma_code01_ost_M4A.zip b122d080dde66b48fe63fac8182ffca1
-memorys_dogma_code01_ost_WAV.zip 10b0d2fa8aa83ca0637f5dec19e6f7a3
-memorys_dogma_prologue_manga.zip 49c45bf3180eadac5fa5e4970ca93082
-setup_memorys_dogma_code01_1.2_(25039)-1.bin 4c5a55f6cbddcfdfeabb572fa48723c7
-setup_memorys_dogma_code01_1.2_(25039)-2.bin 5eff410717c21be69101ccae1e682b5c
-setup_memorys_dogma_code01_1.2_(25039).exe 0749ae55e29086c8af9d8d885c425b49
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-deadspace_avatars.zip 398d8957a4699a377e932c1c19e4eb52
-deadspace_manual.zip d99e695acacff976f9b43eaf85de3c3c
-deadspace_wallpapers.zip a439e9c40fb9b178b55f7cdeaca61048
-setup_dead_space_2.0.0.2-1.bin 718ee5d98333b19978f7cfc0ce62eb34
-setup_dead_space_2.0.0.2-2.bin 3306b2cf7f998a9cd8fddda2a4a97103
-setup_dead_space_2.0.0.2-3.bin f9ca3172a2cf3df1d80dcc6fd9dc3be1
-setup_dead_space_2.0.0.2.exe 2c9ac2bd81818817c61b1efc3d9d7044
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

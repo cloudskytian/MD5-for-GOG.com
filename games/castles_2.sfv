@@ -1,4 +1,1 @@
-castles_2_manual.zip 5043bf03baf305466e158ce9b84b13b9
-castles_avatars.zip ab6f7311954d49e5ebc0dfd6870c2321
-castles_manual.zip 9b22e6d37d681e5f4ad85ccd0d9c49ad
-setup_castles_2_1.0_(28043).exe 4a1db3d942b50876f2fc32671b3318f8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

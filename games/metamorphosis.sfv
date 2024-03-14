@@ -1,4 +1,1 @@
-setup_metamorphosis_1.1.4_(64bit)_(43139)-1.bin 9cdf78df7fe3bb6ebcacf64eb92f6246
-setup_metamorphosis_1.1.4_(64bit)_(43139)-2.bin a7a530a22dd1dbb7d40e4e1fd9255a73
-setup_metamorphosis_1.1.4_(64bit)_(43139)-3.bin 4ff228926622d805b076fef91fbb09ae
-setup_metamorphosis_1.1.4_(64bit)_(43139).exe e557c01936bc5bb8fa7c0be56353e492
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

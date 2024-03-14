@@ -1,2 +1,1 @@
-setup_event0_169221(20171207)_(16957)-1.bin 5d829a3339e65a9f43e214c882e5eb09
-setup_event0_169221(20171207)_(16957).exe 39756820869216b1682238e3207d74c9
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

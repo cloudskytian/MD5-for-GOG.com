@@ -1,5 +1,1 @@
-settlers_4_avatars.zip 31a8668ee1a3ba89bd797e84353cadca
-settlers_4_manuals.zip 114bbbacb5d837886123ff588e1240c3
-settlers_4_soundtrack.zip 944bc01a03ca787d516bb5e0da49c614
-settlers_4_wallpaper.zip a87514047246c85f5d2980df2a916ad1
-setup_the_settlers_4_gold_2.50.1516_v2_(30536).exe 2d22c58b6e84f965de9df72685797838
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

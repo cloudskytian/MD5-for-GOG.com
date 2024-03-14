@@ -1,7 +1,1 @@
-setup_lust_theory_-_season_2_2.0.0_(71675)-1.bin f05e2aba153c31629937689f6c5b282d
-setup_lust_theory_-_season_2_2.0.0_(71675)-2.bin 1aee81a419bd9a5c7f87570d39d941a8
-setup_lust_theory_-_season_2_2.0.0_(71675)-3.bin 140aae2c91065cbb928b9657ca61e783
-setup_lust_theory_-_season_2_2.0.0_(71675)-4.bin c653fc0a54da2b92291e934ccf9d92da
-setup_lust_theory_-_season_2_2.0.0_(71675)-5.bin e2706e892a15699017b77d81ef2cf2e8
-setup_lust_theory_-_season_2_2.0.0_(71675)-6.bin f72d9c90b149b6bb92a23718fc51e9b5
-setup_lust_theory_-_season_2_2.0.0_(71675).exe 70784247b3f7c552fb84df7e2ddaf4ef
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

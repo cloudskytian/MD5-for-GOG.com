@@ -1,3 +1,1 @@
-setup_truberbrook_1.6_(30927)-1.bin cba5104cc5803a89da9215cac23ee8d2
-setup_truberbrook_1.6_(30927).exe b17c1d8af688a6d7bf8e6fac8c43921c
-truberbrook_travel_guide.zip d2dbe34a85b72fb6e4ba9b66cdbbf3b6
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

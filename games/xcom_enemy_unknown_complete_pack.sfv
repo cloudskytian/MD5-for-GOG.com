@@ -1,7 +1,1 @@
-setup_xcom_enemy_unknown_401776_(19762)-1.bin c206e073f3426af9610582776961268b
-setup_xcom_enemy_unknown_401776_(19762)-2.bin c1264f966e6aea237e97fb3852ff6df4
-setup_xcom_enemy_unknown_401776_(19762)-3.bin e8c6bb06d9d71cce1a57ce7bf2b4e2cf
-setup_xcom_enemy_unknown_401776_(19762)-4.bin 9d433fad8d9de8dd1dc2874e2c47f060
-setup_xcom_enemy_unknown_401776_(19762)-5.bin c7494df2fc0565f6dfbbbe53750c6a01
-setup_xcom_enemy_unknown_401776_(19762).exe 4d676683a1cc82fd7eb80a371f3c3b47
-xcom_eu_manual.zip 210dbf3ad9c09c15e3f97a347555c22f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,4 +1,1 @@
-disciples_gold_manual.zip baeb0a6f78c9db571ba17239c2941991
-disciples_gold_ost_flac.zip f07dce6d5e99c27d54f3cf6c197fa0fc
-disciples_gold_soundtrack.zip 5c45577d01945d116751f17409e6e658
-setup_disciples_gold_2.1.0.8.exe 5953ff87319115e1efa1b48523e9eee8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

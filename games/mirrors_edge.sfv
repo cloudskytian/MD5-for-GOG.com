@@ -1,6 +1,1 @@
-mirrors_edge_avatars.zip c219c75dfeabe51bbca1df0af1b03012
-mirrors_edge_wallpapers.zip 670097ccda73d2d62052665e709a454b
-setup_mirrors_edge_1.01_jpfix_(41238)-1.bin 9a202aeca8eaa63d18c24fcdc62a7890
-setup_mirrors_edge_1.01_jpfix_(41238)-2.bin 3ee19c143f7d85e5393fc51d705ed61c
-setup_mirrors_edge_1.01_jpfix_(41238)-3.bin 2a961e5b6f2ce2ef42169c0a023e5c4c
-setup_mirrors_edge_1.01_jpfix_(41238).exe 58078b7594476adf72d58dc01e024327
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

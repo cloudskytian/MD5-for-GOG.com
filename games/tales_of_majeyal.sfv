@@ -1,4 +1,1 @@
-setup_tales_of_majeyal_1.7.6_(65702).exe 4cbaafcc68a999c8e035aceb80112271
-setup_tales_of_majeyal_ashes_of_urhrok_1.7.6_(65702).exe 427d756f107437f533b1ec5bcef9fabb
-setup_tales_of_majeyal_embers_of_rage_1.7.6_(65702).exe 2feb938a56d3fe33a9fb0af11f97aad1
-setup_tales_of_majeyal_forbidden_cults_1.7.6_(65702).exe 8469e67c17216de082ef871612360ac4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

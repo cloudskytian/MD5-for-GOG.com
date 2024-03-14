@@ -1,9 +1,1 @@
-setup_bioshock_2_1.5.0.019_(25143)-1.bin 9731f91709ff86f52e2ccd9790fb7e88
-setup_bioshock_2_1.5.0.019_(25143)-2.bin 2efbb9e421334c7535915fbd55aa8eb3
-setup_bioshock_2_1.5.0.019_(25143)-3.bin c3deeb72fd22bd6761f6e0c42270aa07
-setup_bioshock_2_1.5.0.019_(25143).exe 81fa527040f1144f989784131df6c0c1
-setup_bioshock_2_remastered_1.0.122864_(25813)-1.bin 95b5aa4bc20eb6d1eea8a9b53e21bf4d
-setup_bioshock_2_remastered_1.0.122864_(25813)-2.bin 5e2020ca58db21a6e291ccf09daf0ae0
-setup_bioshock_2_remastered_1.0.122864_(25813)-3.bin f23e840beab21d9c972a5850f13d70b3
-setup_bioshock_2_remastered_1.0.122864_(25813)-4.bin c0fd850959bb3280f2af28802b70f8f2
-setup_bioshock_2_remastered_1.0.122864_(25813).exe 0df53d1a5b658976f6417209c2db3c51
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

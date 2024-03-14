@@ -1,13 +1,1 @@
-setup_stalker_cop_2.1.0.17-1.bin 52d544831c5539a17f7a076f3187ece0
-setup_stalker_cop_2.1.0.17-2.bin a82ba6685f4be943bbc13820e0947957
-setup_stalker_cop_2.1.0.17.exe 30a61ac1900d59aa3af1682e58732378
-stalker_cop_artworks.zip 12b57ccd160500c77df57f0c7032f281
-stalker_cop_avatars.zip a6abf3c0b748205e1fba033aac224388
-stalker_cop_concept_art.zip b1213a48e6a68cd6e04258eef18c5497
-stalker_cop_manual.zip 85ac41d317fdb389ea43367dd8644648
-stalker_cop_ost_flac.zip 083893c9cca64cae39cbb82ce85c6261
-stalker_cop_ost_mp3.zip 26252be13764276082af53ee33769f61
-stalker_cop_poster.zip 527d5ef0e4e82fe007efa84ddfa5a33e
-stalker_cop_renders.zip d0bc57b52a9d8ab822eef5e6995ad4f3
-stalker_cop_ukrainian_localization.zip ea451e78b4cf0782ba69632a1d5e1e13
-stalker_cop_wallpapers.zip dd9008717e908c47a56f4bcac2f92bd8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

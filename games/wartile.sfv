@@ -1,5 +1,1 @@
-setup_wartile_1.2.113.0_(64bit)_(38077)-1.bin ad8b3cee97812340da434d4f972ad2af
-setup_wartile_1.2.113.0_(64bit)_(38077)-2.bin ddd0ba4971366de1976fa9c7a20ed839
-setup_wartile_1.2.113.0_(64bit)_(38077).exe 09323b5d6ec0430b01e98c72d7bae3af
-setup_wartile_hels_nightmare_1.2.113.0_(64bit)_(38077).exe 7b3038f841be5cde4d027cdecb4e4c40
-wartile_ost.zip 81a62edafcad4e74c38c09137531ac48
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

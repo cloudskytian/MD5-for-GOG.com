@@ -1,5 +1,1 @@
-setup_warlords_battlecry_2.0.0.11.exe 00e65e3bc5060ad562820b63683c3738
-warlords_battlecry_avatars.zip 1f0f04994e4450ec1a2dd41e84029fc8
-warlords_battlecry_manual.zip 9c8a8738be7d6eeed29ab69d29b7ccca
-warlords_battlecry_soundtrack.zip 7a2a3454dd454c69ff755ebe3133195f
-warlords_battlecry_wallpapers.zip 234c3852bff371a410d713cfc0a0634d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

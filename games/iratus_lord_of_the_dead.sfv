@@ -1,15 +1,1 @@
-iratus_illustrated_strategy_guide_chinese.zip 4500ebf4629cf9b03a6b432908411c42
-iratus_illustrated_strategy_guide_english.zip 12879364eb2e96d6104ffa2500bf35fd
-iratus_illustrated_strategy_guide_russian.zip 0943021522637bbf8a3035db7f4ba2c8
-iratus_lord_of_the_dead_ost_flac.zip 8015f57e8e3c1216dfaa79e4154bbd5a
-iratus_lord_of_the_dead_ost_mp3.zip d86b1fa75c0ff9584f1d2cbb9a071dac
-iratus_ost_flac.zip 56f96a270a8cfb456d185697006bc958
-iratus_ost_mp3.zip d7f1b991a8f70d1dd596902f1e4a3bd5
-setup_iratus_halloween_skin_set_181.13.00_(64bit)_(47982).exe f92ae13c33478697f816c59b0997ee14
-setup_iratus_holidays_skin_set_181.13.00_(64bit)_(47982).exe e676456c71ac818c8a5013c1cb4a7cf0
-setup_iratus_lord_of_the_dead_-_supporter_pack_181.13.00_(64bit)_(47982).exe 07007184f3eadcbfe2ba6975a785e7b5
-setup_iratus_lord_of_the_dead_181.13.00_(64bit)_(47982)-1.bin 4dc5251a59a523aad85dd0c3201f383d
-setup_iratus_lord_of_the_dead_181.13.00_(64bit)_(47982).exe 7534495dd656e3ae05f494d1101bb8c8
-setup_iratus_summer_skin_set_181.13.00_(64bit)_(47982).exe 558867d0b6c1ff8edb381fdea9c44e12
-setup_iratus_wrath_of_the_necromancer_bonus_content_181.13.00_(64bit)_(47982).exe 65e9c0bbb87d58f66ddf53d9fd6ba3eb
-setup_iratus_wrath_of_the_necromancer_dlc_181.13.00_(64bit)_(47982).exe 38c8942c0476966e32315b8c057ec20f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

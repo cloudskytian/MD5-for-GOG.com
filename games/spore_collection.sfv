@@ -1,4 +1,1 @@
-setup_spore_3.1.0.22_(10834)-1.bin 384354f468d981965d45f437e54a13ab
-setup_spore_3.1.0.22_(10834)-2.bin 885466a612c4243ef10758c7c6cfcfbb
-setup_spore_3.1.0.22_(10834).exe 195652ca3eb62fe725f7b334cb27874e
-spore_collenction_manuals.zip b5aa1c76f16372467562da53449063b3
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

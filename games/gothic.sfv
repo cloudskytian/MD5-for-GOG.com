@@ -1,7 +1,1 @@
-gothic_artworks.zip 6a63219007fb787d556ed848c076d66c
-gothic_avatars.zip 8bae425d173eb59f3b8b3c6aaf370eda
-gothic_manual.zip 2fea6f0d24e64cf82cf060ebf94cd59e
-gothic_soundtrack.zip b43dda95ca80f40ed002946cb84c8c42
-gothic_wallpapers.zip 9c84fbd6802083f541876d0012fffdc0
-setup_gothic_1.08k_hotfix_(26654)-1.bin 69ecd8b4cfd84b00b40f2be1385b787a
-setup_gothic_1.08k_hotfix_(26654).exe 25b2306503ded6e451aee36df728efb4
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

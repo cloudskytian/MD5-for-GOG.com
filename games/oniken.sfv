@@ -1,7 +1,1 @@
-oniken_artworks.zip 8c3c66ce6dad6b33d46789c62b429fc7
-oniken_avatar.zip bc73be245f30de97a5094ddc129118d6
-oniken_manual.zip 2381fdfc4fb698ed6ea25b7dc2b06477
-oniken_posters.zip e5fde30128233582b0992a82d2505fe3
-oniken_soundtrack_mp3.zip 607d82e77dd1f3d1bfad165314ad7f3b
-oniken_wallpaper.zip 5f377d7ba0ac29b5b817438666968388
-setup_oniken_2.0.0.2.exe cdc443d4b866b11866c777244c57cfab
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

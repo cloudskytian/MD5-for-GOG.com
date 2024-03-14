@@ -1,2 +1,1 @@
-setup_timelapse_2.0.0.1.exe 9474aefd1c31f2cd623df9e922ade5f7
-timelapse_manual.zip c8351924cc62e30992f478eda16c445c
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

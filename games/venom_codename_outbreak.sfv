@@ -1,2 +1,1 @@
-setup_venom_codename_outbreak_2.0.0.6.exe 63ad103a8485218f25d8b661ae4a1310
-venom_codename_outbreak_manual.zip fe0a6cda3a4528bd45e68ce492befd15
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

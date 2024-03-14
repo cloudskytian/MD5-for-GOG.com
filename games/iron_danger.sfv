@@ -1,8 +1,1 @@
-iron_danger_supporter_pack_artbook.zip 87a8bc23ae743f807d0cc9979a507e62
-iron_danger_supporter_pack_graphic_novel.zip f9d77399039e900990ab6472dfb55775
-iron_danger_supporter_pack_soundtrack_flac.zip 00c5ef2ecf3e03a106b99c1e48f8aa44
-iron_danger_supporter_pack_soundtrack_mp3.zip 3c4bee2c6af024c1e02d74ce7cfd572f
-iron_danger_supporter_pack_wallpapers.zip 98e2761b31b1bc9b01431e6d6702d1fa
-setup_iron_danger_1.03.02-gog_(64bit)_(42338)-1.bin 9eba487f301f1912f559b06729778df2
-setup_iron_danger_1.03.02-gog_(64bit)_(42338)-2.bin cb45b0ab1b9b81179a91ea4bb8e6e469
-setup_iron_danger_1.03.02-gog_(64bit)_(42338).exe 6e06b7a4e0b1ed76670c405f07266f9b
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

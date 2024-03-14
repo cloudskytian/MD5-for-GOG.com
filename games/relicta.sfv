@@ -1,5 +1,1 @@
-setup_relicta_1.10_(64bit)_(46307)-1.bin 4a68d5fad895d1481cb8a01888645538
-setup_relicta_1.10_(64bit)_(46307)-2.bin e41ce70cf97818c736d74b557e30871e
-setup_relicta_1.10_(64bit)_(46307)-3.bin ee42470d8b0b855c453d01b6ee1ce352
-setup_relicta_1.10_(64bit)_(46307)-4.bin 01f47c9ce8afd248e2f1c4ac4d223506
-setup_relicta_1.10_(64bit)_(46307).exe aa1fbc96197159183d9792e612435302
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

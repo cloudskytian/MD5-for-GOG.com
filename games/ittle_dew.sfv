@@ -1,6 +1,1 @@
-ittle_dew_artworks.zip 797135972445f14300750f414564a57d
-ittle_dew_avatars.zip 77e91f817d675981afcc4027d4ed387c
-ittle_dew_prototype.zip f795c477008b6084cbb562d04fca6b04
-ittle_dew_soundtrack.zip 8d39f179ee3a6ad9ed4aa68bb6fa2b99
-ittle_dew_wallpapers.zip d99770693ca2d1104d1c46c08478bea6
-setup_ittle_dew_2.3.0.6.exe 08772611a4599602f1522426d07f01fe
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

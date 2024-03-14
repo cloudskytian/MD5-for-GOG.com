@@ -1,2 +1,1 @@
-setup_this_is_the_police_2_1.0.7_(32247)-1.bin 8745e9eeefeec20a5e71233deaccd723
-setup_this_is_the_police_2_1.0.7_(32247).exe a04405b49592ebb9d24f6d4ee585e88a
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

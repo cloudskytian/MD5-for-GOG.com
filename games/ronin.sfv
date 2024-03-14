@@ -1,4 +1,1 @@
-ronin_comic.zip 2b84e7c8198974a01748ad673523bf23
-ronin_ost_flac.zip 9b4348ba7ceab5a6467cd889d2bac4a4
-ronin_ost_mp3.zip 33218388e1798e14fabcdb607b8ccb6a
-setup_ronin_9_(22166).exe b370f0ce4a04614bbe9cf72ed1562492
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

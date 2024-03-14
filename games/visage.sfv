@@ -1,4 +1,1 @@
-setup_visage_3.04_(64bit)_(44156)-1.bin b1f420d7149b6d24e44d505648696231
-setup_visage_3.04_(64bit)_(44156)-2.bin 4d7a62469ca037567137306581b940bf
-setup_visage_3.04_(64bit)_(44156).exe a95486d7e599d30be0442df8556f45bc
-visage_soundtrack_mp3.zip 1408d7786e888237a420c5ebeef42a63
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

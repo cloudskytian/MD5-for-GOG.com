@@ -1,3 +1,1 @@
-setup_siege_survival_gloria_victis_6998499_(64bit)_(48466)-1.bin 88a2cd5cf5fe960e53bcc0f96baf6afb
-setup_siege_survival_gloria_victis_6998499_(64bit)_(48466)-2.bin 80d7078640cdc1c6666a31a43d5ec572
-setup_siege_survival_gloria_victis_6998499_(64bit)_(48466).exe 7ac0741f2f0d10abc76882ee22a27184
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

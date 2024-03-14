@@ -1,4 +1,1 @@
-reassembly_fields_ost_mp3.zip 8d490973397bbe01432ba8c7e14b6632
-reassembly_ost_mp3.zip 2efd47687414e928ac24cd7d50f6dcf7
-setup_reassembly_2021_07_04_(48286).exe dbee7d9829773ab5f5101a9d753bddf4
-setup_reassembly_fields_expansion_2021_07_04_(48286).exe e4bdbd490b8ef92bfd66307bc25cbb3d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

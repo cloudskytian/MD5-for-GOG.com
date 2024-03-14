@@ -1,1 +1,1 @@
-setup_forager_4.1.8_(43847).exe b713f3d29771ecdd5e909125bc0fff1d
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

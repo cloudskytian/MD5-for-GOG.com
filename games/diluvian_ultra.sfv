@@ -1,2 +1,1 @@
-setup_diluvian_ultra_3.4.06_(64bit)_(71030)-1.bin 8c39048e2ad501c0972ea38d6dfeeec7
-setup_diluvian_ultra_3.4.06_(64bit)_(71030).exe c436a8425621f36716bcec62151167e0
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

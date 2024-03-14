@@ -1,3 +1,1 @@
-setup_black_legend_1.0.8_(64bit)_(47635)-1.bin 77a9cf85532086aac7841db9316326b3
-setup_black_legend_1.0.8_(64bit)_(47635)-2.bin 6aef548e91097e2447cd185190edf14e
-setup_black_legend_1.0.8_(64bit)_(47635).exe 40e21f58a3918d9efc198c72b913394f
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

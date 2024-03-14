@@ -1,7 +1,1 @@
-martian_dreams_cluebook.zip f9ef7e944c3675c3d40e5efea6365c45
-martian_dreams_design_documents.zip 3bb92871f3bb06dd0ab050e8ac86bcc9
-martian_dreams_manuals.zip 98db5e90e9cb85cde948dee6d6b6d1ca
-martian_dreams_map.zip d256d508b3c5993c59eafa0ce9f22859
-martian_dreams_medley.zip 7feabd612b6938c2c68a080cdcc56902
-martian_dreams_reference_card.zip f2583afd8a3d0005567eb1e481b79c5e
-setup_ultima_worlds_of_adventure_2_-_martian_dreams_1.0_cs_(28044).exe 669ecf54616066431ed8550a3e274ffd
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

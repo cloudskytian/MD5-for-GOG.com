@@ -1,7 +1,1 @@
-6_degrees_of_sabotage_mac.zip f12a2d7718590dd106336480e06e765c
-6_degrees_of_sabotage_pc.zip cbc72ca6a3d5caffe8a55fa95ac24e8e
-papers_please_poster.zip b0494b061a4a95515fe3fa077569fa98
-papers_please_rulebook.zip 54ca9be1f829de90cbefb175aaaf98f5
-republia_times_mac.zip cf01c151b810410330ef70034f72da7e
-republia_times_pc.zip 98111944b4ef438b11417b8b61ec8dce
-setup_papers_please_1.4.11.124_(63294).exe 9c968b17a538dca5ab316752fbce9748
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-setup_trail_out_1.0_(68707)-1.bin 7106d201c4374880435d34ba51c97505
-setup_trail_out_1.0_(68707)-2.bin f4bc556be4b8322a06bf3525fd8bde66
-setup_trail_out_1.0_(68707)-3.bin bde2c902cd5129994a9bc2edbe147bb6
-setup_trail_out_1.0_(68707)-4.bin 5c5407e3d08f80e32ac4d918171dc017
-setup_trail_out_1.0_(68707)-5.bin 7652d6910ef06a3cfb408ae2da36ead2
-setup_trail_out_1.0_(68707)-6.bin 8ac0f4a67e1e669ab7b2b9f9c888f0fc
-setup_trail_out_1.0_(68707).exe 6c6ddf72b71955845ed8fddc0ff40c51
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

@@ -1,7 +1,1 @@
-setup_the_messenger_2.0.4_(64bit)_(30928).exe 10b7416fcbe6a5f4651be56e97d9c2de
-setup_the_messenger_picnic_panic_2.0.4_(64bit)_(30928).exe 0437aee3f7c67c6c8bfa4eee45f3ad46
-the_messenger_keiji_yamagishi_ep.zip 1d46e6cc92978e5f0e3a3269aa9aac70
-the_messenger_ost_disc_1_mp3.zip a64cc3e7c48c57a1fda58794c2211582
-the_messenger_ost_disc_2_mp3.zip 599d78a2caad70c0935486a805bc65be
-the_messenger_picnic_panic_ost_mp3.zip f755a09ed1ee18abe41448ea618d6dcf
-the_messenger_picnic_panic_wallpaper.zip 57ed48151b7e6c82525a4eac6e980310
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

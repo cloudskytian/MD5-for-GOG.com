@@ -1,4 +1,1 @@
-devils_dare_modern_manual.zip 5bc71017e8f06cf227a515d1d3d5e91b
-devils_dare_retro_manual.zip 23defc106e1581b7b87777525fd82708
-devils_dare_wallpaper.zip c453771c3dedeadbad180897b97bfae0
-setup_devils_dare_1.0_(21250).exe c5003a315c935c374c21719e3225ee9e
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

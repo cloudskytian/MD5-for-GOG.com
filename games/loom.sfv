@@ -1,4 +1,1 @@
-loom_book_of_patterns.zip 5b53f76559cef438191a6e8ae235a200
-loom_handbuch.zip 04af0cc4dc527ea57f378bacf60e338c
-loom_manual.zip 95295b1a156a6ee3452779d134611041
-setup_loom_1.0_(20270).exe 9bd63ebbc5211bf8bf8c0871a370ffc8
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

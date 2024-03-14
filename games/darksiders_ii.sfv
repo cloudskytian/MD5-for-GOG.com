@@ -1,5 +1,1 @@
-darksiders_2_manual.zip f17efe62aa4646f0f6e215bd9a639c6a
-setup_darksiders_2_1.0_(20316)-1.bin 374d5aeadad5fbcc4021f5022ab0e172
-setup_darksiders_2_1.0_(20316)-2.bin 1ccf47bbbea94676f0518f405a633fbb
-setup_darksiders_2_1.0_(20316).exe 78afa57c388a1061484972db46311bbe
-setup_darksiders_2_dlc_pack_1.0_(20316).exe 48ee5747c00e6cb51e5e39e0b75745ca
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

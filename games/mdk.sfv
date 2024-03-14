@@ -1,7 +1,1 @@
-mdk_avatar.zip 827f9b3c785ec7729c3469283a681982
-mdk_making_of_booklet.zip 069176722dec233ab9a95473a3737034
-mdk_making_of_deutsch.zip 449ace01d520c956a5d122581eeadc8c
-mdk_manual.zip e0092c7c313e09c124f94c8a89e6f9f3
-mdk_soundtrack.zip 36db3b7842b89d58518b294f5523d05d
-mdk_wallpaper.zip 3731598e8f5499394c44000192ca1bad
-setup_mdk_1.0_hotfix_(56405).exe 9942bb4c031d9ddcc552ba5e6c2f50bb
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

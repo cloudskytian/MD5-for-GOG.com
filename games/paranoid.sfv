@@ -1,7 +1,1 @@
-setup_paranoid_10138_(64bit)_(70859)-1.bin 4b5353dbc18ff944fc7bcfb43bdc834f
-setup_paranoid_10138_(64bit)_(70859)-2.bin 20780f5bee2226ea05761aa2a8f1776c
-setup_paranoid_10138_(64bit)_(70859)-3.bin e0c0b6e02072c8f2c6fe4153af48b067
-setup_paranoid_10138_(64bit)_(70859)-4.bin a2b2ad2c2d5795176a6852e7abe6f681
-setup_paranoid_10138_(64bit)_(70859)-5.bin aadb3ba3909bb144f1f88131bd7340e0
-setup_paranoid_10138_(64bit)_(70859)-6.bin 4346777056694141f7fffe552e34a36a
-setup_paranoid_10138_(64bit)_(70859).exe 07e71f72d02f0e39844831272e890822
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz

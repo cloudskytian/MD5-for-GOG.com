@@ -1,5 +1,1 @@
-infested_planet_avatars.zip e69997c921e69d735f11ca41629c821a
-infested_planet_wallpapers.zip 0d98cb84193602fe40654f3afee6d76a
-setup_infested_planet_1.21.1_(20749).exe 479dac980d3f9117d3644622adfa3d6d
-setup_infested_planet_planetary_campaign_1.21.1_(20749).exe 3995f7d82f14fd43bf11cd40356c10ce
-setup_infested_planet_tricksters_arsenal_1.21.1_(20749).exe 9cdeffe7675e45a6555466e07f044d23
+ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
