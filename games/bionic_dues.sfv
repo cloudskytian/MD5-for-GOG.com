@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+bionic_dues_artworks.zip 9e9fe739e65ec731e252d55d4dc77bfc
+bionic_dues_avatars.zip 5de8561a8760a21c18630e3f50b28df4
+bionic_dues_comic.zip df1d6152d57ad035ef90d4c6f6fca5ed
+bionic_dues_sketches.zip 85a69b2ef7ba1221896ef58c5ea033b2
+bionic_dues_wallpaper.zip df7b3e66f0baa4ddacddac06a331df25
+setup_bionic_dues_1.007_(20674).exe 69512c27a03789ac7df430318754476a

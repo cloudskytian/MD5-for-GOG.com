@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+race_driver_grid_artworks.zip 864b551b31c09e7c02c7e6a275cdb551
+race_driver_grid_manual.zip d15fd8462cf18bc48865225b546c1380
+race_driver_grid_wallpapers.zip 0eaf725c916977d1feede663d49601f0
+setup_race_driver_grid_1.0_(18584)-1.bin 3e43bedaf250678d42071e2630dc63f6
+setup_race_driver_grid_1.0_(18584)-2.bin 48edca0fef15fe5a3e6f5b1257e7902e
+setup_race_driver_grid_1.0_(18584).exe 2b706951191617f92779f9136cdde4f1

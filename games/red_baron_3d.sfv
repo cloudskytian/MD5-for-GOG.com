@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+red_baron_pack_manuals.zip b7e2ee58943a9d05dbdf2b4c9c75c951
+red_baron_pack_maps.zip 90bcadf797e60457d5b3e3c9e246460e
+red_baron_pack_reference_cards.zip 3a622d7a81055f09ed87fec7bc946068
+setup_red_baron3d_2.1.0.24.exe d12b41de22ad825abdb77fe4712b3475

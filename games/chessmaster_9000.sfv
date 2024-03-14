@@ -1,1 +1,3 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+chessmaster_keys_list.zip faa6f11d43aa38a479411940ab6cf5fb
+chessmaster_manual.zip 303bcb665a30622432a5caf2bc0a8627
+setup_chessmaster9000_2.0.0.8.exe 74099db6a5a0093efe5400e4163c50d9

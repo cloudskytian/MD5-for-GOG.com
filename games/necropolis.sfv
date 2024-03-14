@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+necropolis_avatars.zip 75fdb8593b2b6d44522d08f580fbc905
+necropolis_soundtrack_flac.zip 51ceb9a537927700afdc5f649478db03
+necropolis_soundtrack_mp3.zip e8352b51857d46dce03c7cf90dbfd3c6
+necropolis_wallpapers.zip 78d997061370c4c41f1c82b1e52cb3bf
+setup_necropolis_2.5.0.7-1.bin 58d21cb3f979ce2a4b3f70b2e48dae62
+setup_necropolis_2.5.0.7.exe 5ff7e8b05fda5f5e054cc27096ae66df

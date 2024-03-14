@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+patch_planetbase_1.3.7_(38217)_to_1.3.8_(45490).exe ea0c0b34f857918ed88ec0a99a42262a
+planetbase_soundtrack.zip 8e6f0dea43fa305f2f6841bd373e12c6
+planetbase_wallpaper.zip 55cdfcb3acde3cc50d1281930d8e61e6
+setup_planetbase_1.3.7_(38217).exe c7ae077d06955e6b14e848ff2b5978ab

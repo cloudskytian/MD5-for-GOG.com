@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+sanitarium_manual.zip 7fbbf9e1a19d6a043fbd67475d6da144
+sanitarium_soundtrack.zip 1178f29344afa536017d3dee061d1715
+setup_sanitarium_1.0_svm_(57892)-1.bin 6c9cacee5bc221c5a8ade0ff591893a2
+setup_sanitarium_1.0_svm_(57892).exe 14087decc2a5e26cb1e1c1d52429d95a

@@ -1,1 +1,5 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+metrocide_artworks.zip 0ea4a3aaebb6f8ba98ff67afc19fc920
+metrocide_avatars.zip ad86ac7ca068adb9268ff199cfd93774
+metrocide_manual.zip add8d7ff7721a89edc14bef2d9c98833
+metrocide_wallpapers.zip 2bfb5cdfede70ff82e1000b83685e854
+setup_metrocide_2.1.0.3.exe c7795c37cb47b1abb3a065222810afab

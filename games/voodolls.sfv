@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_voodolls_release_1.0.5_(67712)-1.bin 955ba8c919e21274492196b490ca6487
+setup_voodolls_release_1.0.5_(67712)-2.bin a2ec8c86798284a1b56683ba1ae03b75
+setup_voodolls_release_1.0.5_(67712)-3.bin 5496bc9238657d340aab9f6ad65c0363
+setup_voodolls_release_1.0.5_(67712).exe 22428c514e7f1177b4e8df0edb04854f

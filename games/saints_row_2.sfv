@@ -1,1 +1,7 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+patch_sr2_lang_selection_hotfix.exe 22ce3249abbb5b9a9cf004f3746f9fef
+saints_row_2_avatars.zip 68c377c487d02c93b142f6aea023caf4
+saints_row_2_manual.zip ff763c23393344a8739adc37cbb9c1aa
+saints_row_2_wallpapers.zip ee2d3b09b50f25fab95a2aad51f14954
+setup_saints_row_2_gog-5_(9656)-1.bin 3ef4aa70ed29f41f4ef74547eede771b
+setup_saints_row_2_gog-5_(9656)-2.bin 90c64cb238a79fb5e8aadc47037dafc2
+setup_saints_row_2_gog-5_(9656).exe a671b851c2dc842eafb940e8946dbf98

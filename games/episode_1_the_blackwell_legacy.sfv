@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+blackwell_artworks.zip 8b5968c366edfde7de9e35da2077858e
+blackwell_avatars.zip 1d1df58acaed088570e35d77e7406321
+blackwell_posters.zip 98bf4aded939dec15099a36ec6405ea9
+blackwell_soundtracks.zip 377ab7ea4d9e987918c78c1c7862c1f1
+blackwell_wallpapers.zip 521ce5850a05a2461d5d46bb3fdfe4d4
+setup_blackwell_legacy_3.5_(71785).exe 931d5df96f67e53a2798bd861da00b5c

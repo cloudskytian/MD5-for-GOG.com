@@ -1,1 +1,3 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_dros_10_(69098)-1.bin 3c302e33af03b04a6303834fe298734a
+setup_dros_10_(69098)-2.bin 60aeecc01e565b3c54bb75d63a132576
+setup_dros_10_(69098).exe e7856c114d50c4bab5785ee46df6d057

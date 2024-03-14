@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_sfa2_2.0.0.11.exe 4b253c260a33537a7ba3ea2c70771a92
+sfa2_artworks.zip 4cbeca17667209279066359f26bddc6a
+sfa2_avatars.zip 1ab38e3be94bd1fea31a2afaf6fdd36c
+sfa2_soundtrack.zip 8d7b9d8b5e3e089632c46ac296e83745

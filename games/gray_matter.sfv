@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+gray_matter_avatars.zip bf58bfc34469f0c61c011d801efa6fda
+gray_matter_concept_art.zip 23605efc58a76fc2fa9d568b13badf56
+gray_matter_wallpapers.zip 71bb70377b3b84bb3dc38642c89e0889
+setup_gray_matter_2.2.0.8-1.bin 86d04cf655bd4762a4b0db2123add52f
+setup_gray_matter_2.2.0.8-2.bin 46959899f9e76d063b29d8f7d9bb3612
+setup_gray_matter_2.2.0.8.exe ca7105b641603da758579592351985d4

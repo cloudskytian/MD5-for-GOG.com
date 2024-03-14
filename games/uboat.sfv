@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_uboat_2022.1_patch_21_(64bit)_(61964)-1.bin 9d20dceeb0326abd5a5de24f7933b40f
+setup_uboat_2022.1_patch_21_(64bit)_(61964)-2.bin 83e856aa25609d28bcf25e056c1b4bee
+setup_uboat_2022.1_patch_21_(64bit)_(61964)-3.bin a9f4a16dfc60b8d80022916b00d2aa5f
+setup_uboat_2022.1_patch_21_(64bit)_(61964)-4.bin daea1f6d5bab78248e2ac1390be52063
+setup_uboat_2022.1_patch_21_(64bit)_(61964)-5.bin a982ace961353e0062cbaee756abbc15
+setup_uboat_2022.1_patch_21_(64bit)_(61964).exe 92ac9287dbc8a4952ad19a54bd5bf098

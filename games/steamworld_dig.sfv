@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_steamworld_dig_2.1.0.3.exe 4fcb5167ce00d909111b1f551d62a185
+swd_artworks.zip 63eae49f8da17ebb0b05a8d7a934ffb8
+swd_avatars.zip 26aae828c900ed4fcaeb522d4500fe38
+swd_wallpapers.zip 826e7d7bee417aeaad3ba08cba9bbecc

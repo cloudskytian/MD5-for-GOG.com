@@ -1,1 +1,3 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_obscuritas_2.2.0.4-1.bin 31eafe22d0bfd738d035feca2dd021c7
+setup_obscuritas_2.2.0.4-2.bin 26be1b0e3a5871c43a7bde8aa7829863
+setup_obscuritas_2.2.0.4.exe b0dfb6ddce7ae3c6b900516833dcad93

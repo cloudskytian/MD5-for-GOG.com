@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+deadnaut_artworks.zip c8aa607cc955919afaf14fbcb90d4194
+deadnaut_manual.zip 2a76c32cf7c1fa222c9b46f4e58a1804
+deadnaut_wallpaper.zip d81fb80d3bd5703cef2904900449a6a2
+setup_deadnaut_2.2.0.3.exe bfede854bc06869ae891276a7cd36ac5

@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+giants_artworks.zip ec30ef6c78ff0f35d791b8c68a154c41
+giants_avatars.zip 6958fc4222e6958d435f56b0ad90911d
+giants_manual.zip 19fb534fc5cfb26a26d7f6220ea77dc2
+giants_soundtrack.zip d2af7d3fa4f942b3fbd727fd941d6e48
+giants_wallpapers.zip cb3eb448a15ce4e222761dfe783c7eb9
+setup_giants_2.1.0.4.exe 33015108ece9e52b1f525880f0867e11

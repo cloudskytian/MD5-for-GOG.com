@@ -1,1 +1,3 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_de_blob_2_0.19_(14892)-1.bin 799e85bcf4a2e9a5cf59a480eb38450b
+setup_de_blob_2_0.19_(14892)-2.bin bfbc547431c5f95ac309be7817a78415
+setup_de_blob_2_0.19_(14892).exe fe618a4d84f1ee009b142618146d7989

@@ -1,1 +1,5 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+crysis_warhead_avatars.zip 1213e3c4eadcd5f91d989989a9f7d518
+crysis_warhead_manual.zip e659762b279381ab40de441a568a7d7c
+setup_crysis_warhead_2.0.0.5-1.bin 772abeafb5516e9749ba9fa51ba7e43a
+setup_crysis_warhead_2.0.0.5-2.bin 82873850ffc00eb872f6c03b3687f575
+setup_crysis_warhead_2.0.0.5.exe 2b9e55d06f3dde08f993bd3d26117419

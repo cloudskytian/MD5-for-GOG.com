@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_soulbringer_2.0.0.37.exe 65e95113604d6c680d907c7611019ffe
+soulbringer_avatar.zip 651b8b32ee2fe8b9250f4e0f16eb062c
+soulbringer_manual.zip a7dbee256dc827651db1c7b7efae541b
+soulbringer_soundtrack.zip be4f45ba8ef23d418fbfecb9192fb757

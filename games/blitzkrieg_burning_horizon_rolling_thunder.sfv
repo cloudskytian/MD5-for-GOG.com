@@ -1,1 +1,5 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+blitzkrieg_anthology_artworks.zip 57eae81e6da59401cd4abb6bca408d26
+blitzkrieg_anthology_manuals.zip 7f44e6cf5c428fb80831d463ab1b2333
+blitzkrieg_anthology_soundtrack.zip 06b7af93298f36e1cb469efadbd2646a
+blitzkrieg_anthology_wallpaper.zip 612383e04f68c8f8ccfe06f02dc81919
+setup_blitzkrieg_bhrt_2.1.0.30.exe af5694f1f669b99d270cdd71318745da

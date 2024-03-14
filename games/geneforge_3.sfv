@@ -1,1 +1,4 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+geneforge_artworks.zip 06cc464ce5ac645d8a980c9fa505670e
+geneforge_avatars.zip 2161949be47152c4560a1581c4889046
+geneforge_manuals.zip 9353fd0c3952f8d58755afef48398432
+setup_geneforge_3_1.0g_(21279).exe 6577fed553d3286119a3df565604e005

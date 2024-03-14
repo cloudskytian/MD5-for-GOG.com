@@ -1,1 +1,5 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+red_faction_2_artworks.zip fc87789e7d902ff30d77b719c933da12
+red_faction_2_avatars.zip 34e5edee85fb4f3cc2e3240cc05efb00
+red_faction_2_manual.zip f463b57e673f7c5f5c99146db469dcd3
+red_faction_2_renders.zip 298285866c0c31892a66ba92d5aca357
+setup_red_faction2_2.0.0.6.exe ecd6dd0ee1adb2a1d3f70b2a5c9b530f

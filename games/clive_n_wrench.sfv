@@ -1,1 +1,3 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+setup_clive_n_wrench_patch_1.1_(63109)-1.bin 4404b2c51ffaafb0b6a7daa488bae3ea
+setup_clive_n_wrench_patch_1.1_(63109)-2.bin 76432ba6d65c3718c24e8c753ec591c0
+setup_clive_n_wrench_patch_1.1_(63109).exe f83d1a8c2ad0877883bab70e8262e11d

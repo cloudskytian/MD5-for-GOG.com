@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+reus_artworks.zip 9823f2b9e6d3c74b4a3e8115715bffee
+reus_avatars.zip 3dd6a42caa7cc70131bf6cac5a24d1a4
+reus_ost_mp3.zip d1ba77dc4403c354944ea883c1a5ec14
+reus_soundtrack_sample.zip 363a37ec9523b69e207af13c26f66e86
+reus_wallpaper.zip 08eecf76a8b86ae2990a75e8547137a1
+setup_reus_1.6.5_(20843).exe 9e104098487c2f7ff8ef728f66ab4ccd

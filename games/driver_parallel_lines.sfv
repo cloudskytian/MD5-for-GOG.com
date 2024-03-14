@@ -1,1 +1,6 @@
-ggmd5.sh: please install: 7z awk b2sum base64 bzip2 cut find grep gzip head md5sum openssl python3 realpath sed stat tac tail wc xxd xz
+driver_artworks.zip aab9af8a8848d2bfc64f788aba02a9f2
+driver_avatars.zip 1a9d74bf09e6e5b631973e72f0256d30
+driver_manual.zip 6297e23d9421559280bd6103c7436ac8
+driver_wallpapers.zip c8fd90edeb6e2915dbebcbf36d6a4d21
+setup_driver_parallel_lines_1.0_(30369)-1.bin ca10a5ce3899332e5f23a93c96aa9020
+setup_driver_parallel_lines_1.0_(30369).exe aef0dab5321c4cbdef62177afdfefe3f
